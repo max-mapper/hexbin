@@ -15,7 +15,7 @@ a community curated list of hexagon logos
   "name": "dat-logo",
   "author": "max ogden",
   "license": "CC0",
-  "vector": "http://hexb.in/vector/dat.svg"
+  "vector": "http://hexb.in/vector/dat.svg",
   "description": "this is optional!"
 }
 ```

@@ -17,7 +17,7 @@ body {
 #grid a { opacity: 1; }
 #grid a:hover { position: relative; top: -1px; }
 #grid a:active { position: relative; top: 1px; }
-
+#grid img { width: 181px; height: 209px; }
 
 .navbar {
     margin: 15px 0;

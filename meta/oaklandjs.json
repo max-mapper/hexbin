@@ -2,5 +2,6 @@
   "name": "oaklandjs",
   "author": "substack",
   "license": "BSD",
-  "description": "oaklandjs.com"
+  "description": "oaklandjs.com",
+  "vector": "http://hexb.in/vector/oaklandjs.svg"
 }

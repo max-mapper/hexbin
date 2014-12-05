@@ -2,5 +2,6 @@
   "name": "substack-nodeschool",
   "author": "substack",
   "license": "BSD",
-  "description": "hand-drawn vector logos for nodeschool workshops"
+  "description": "hand-drawn vector logos for nodeschool workshops",
+  "vector": "http://hexb.in/vector/substack-nodeschool.svg"
 }

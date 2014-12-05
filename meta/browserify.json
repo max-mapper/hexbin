@@ -1,5 +1,6 @@
 {
   "name": "browserify",
   "author": "substack and maxogden",
-  "license": "BSD"
+  "license": "BSD",
+  "vector": "http://hexb.in/vector/browserify.svg"
 }

@@ -1,0 +1,17 @@
+{
+  "name": "hexbin",
+  "version": "1.0.0",
+  "description": "hexagon directory",
+  "main": "grid.js",
+  "scripts": {
+    "build": "browserify grid.js -o bundle.js"
+  },
+  "author": "max ogden",
+  "license": "BSD",
+  "dependencies": {
+    "hex-grid": "^2.0.1"
+  },
+  "devDependencies": {
+    "browserify": "^7.0.0"
+  }
+}

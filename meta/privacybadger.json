@@ -1,7 +1,7 @@
 {
   "name": "Privacy Badger",
   "author": "EFF",
-  "license": "CC0",
-  "vector": "http://hexb.in/vector/privacybadger.svg",
+  "license": "https://www.eff.org/copyright",
+  "vector": "vectors not available, open an issue if you really want them and we might be able to find them",
   "description": "https://www.eff.org/privacybadger"
 }

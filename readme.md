@@ -22,7 +22,7 @@ a community curated list of hexagon logos
 
 make sure `name` only has lowercase letters, numbers and hyphens
 
-- add your hexagon to the bottom of the hexagon list in the markup. make sure the link points at your meta file.
+- add your hexagon to the bottom of the hexagon list in the markup (`index.html`). make sure the link points at your meta file.
 - make a pull request to this repo. bonus points if you embed your hexagon image in your pull request description!
 
 here is an example of a great PR: https://github.com/maxogden/hexbin/pull/5

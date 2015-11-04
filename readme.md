@@ -16,7 +16,8 @@ a community curated list of hexagon logos
   "author": "max ogden",
   "license": "CC0",
   "vector": "http://hexb.in/vector/dat.svg",
-  "description": "this is optional!"
+  "description": "this is optional!",
+  "order_online_url": "this is optional. should be a link to where people can buy the sticker online"
 }
 ```
 

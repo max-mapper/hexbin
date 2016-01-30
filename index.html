@@ -10,6 +10,9 @@
   <link href="assets/bootstrap.min.css" rel="stylesheet">
   <link href="assets/bundle.css" rel="stylesheet">
 
+  <script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
+  <script src= "assets/shuffle.js" type="text/javascript"></script>
+
   <meta property="og:title" content="Hexbin is a hexagon sticker repository.">
   <meta property="og:name" content="Hexbin">
   <meta property="og:url" content="http://hexb.in">
@@ -61,87 +64,9 @@ body {
   <div class="splash text-center">
     <div class="subtitle"><span class="bold">hexbin</span> is a community curated list of hexagon stickers. <a class="bold" href="https://github.com/maxogden/hexbin">Submit yours on GitHub.</a></div>
   </div>
-
+  <div id = "epic">
+  </div>
   <div id="grid" style="position: relative; margin-bottom: 20px;">
-    <a href="meta/oaklandjs.json" target="_blank"><img src="hexagons/oaklandjs.png" class="hex"></a>
-    <a href="meta/dat.json" target="_blank"><img src="hexagons/dat.png" class="hex"></a>
-    <a href="meta/browserify.json" target="_blank"><img src="hexagons/browserify.png" class="hex"></a>
-    <a href="meta/nodeschool.json" target="_blank"><img src="hexagons/nodeschool.png" class="hex"></a>
-    <a href="meta/csvconf.json" target="_blank"><img src="hexagons/csvconf.png" class="hex"></a>
-    <a href="meta/substack-nodeschool.json" target="_blank"><img src="hexagons/async.png" class="hex"></a>
-    <a href="meta/substack-nodeschool.json" target="_blank"><img src="hexagons/binary.png" class="hex"></a>
-    <a href="meta/substack-nodeschool.json" target="_blank"><img src="hexagons/native.png" class="hex"></a>
-    <a href="meta/substack-nodeschool.json" target="_blank"><img src="hexagons/shader-school.png" class="hex"></a>
-    <a href="meta/substack-nodeschool.json" target="_blank"><img src="hexagons/stream-adventure.png" class="hex"></a>
-    <a href="meta/pdxnode.json" target="_blank"><img src="hexagons/pdxnode.png" class="hex"></a>
-    <a href="meta/geofs.json" target="_blank"><img src="hexagons/geofs.png" class="hex"></a>
-    <a href="meta/nodejs.json" target="_blank"><img src="hexagons/nodejs.png" class="hex"></a>
-    <a href="meta/pubnub.json" target="_blank"><img src="hexagons/pubnub.png" class="hex"></a>
-    <a href="meta/coinkite.json" target="_blank"><img src="hexagons/coinkite.png" class="hex"></a>
-    <a href="meta/codeforde.json" target="_blank"><img src="hexagons/codeforde.png" class="hex"></a>
-    <a href="meta/codeforamerica.json" target="_blank"><img src="hexagons/codeforamerica.png" class="hex"></a>
-    <a href="meta/jsgirls.json" target="_blank"><img src="hexagons/jsgirls.png" class="hex"></a>
-    <a href="meta/nodeschool-ham.json" target="_blank"><img src="hexagons/nodeschool-ham.png" class="hex"></a>
-    <a href="meta/dancejs.json" target="_blank"><img src="hexagons/dancejs.png" class="hex"></a>
-    <a href="meta/kopijs.json" target="_blank"><img src="hexagons/kopijs.png" class="hex"></a>
-    <a href="meta/move-slow.json" target="_blank"><img src="hexagons/move-slow.png" class="hex"></a>
-    <a href="meta/casto.json" target="_blank"><img src="hexagons/casto.png" class="hex"></a>
-    <a href="meta/magrittr.json" target="_blank"><img src="hexagons/magrittr.png" class="hex"></a>
-    <a href="meta/norfolkjs.json" target="_blank"><img src="hexagons/norfolkjs.png" class="hex"></a>
-    <a href="meta/geohipster.json" target="_blank"><img src="hexagons/geohipster.png" class="hex"></a>
-    <a href="meta/757rb.json" target="_blank"><img src="hexagons/757rb.png" class="hex"></a>
-    <a href="meta/iojs.json" target="_blank"><img src="hexagons/iojs.png" class="hex"></a>
-    <a href="meta/openshift.json" target="_blank"><img src="hexagons/openshift.png" alt="openshift hexagram" class="hex"></a>
-    <a href="meta/jsconfuy.json" target="_blank"><img src="hexagons/jsconfuy.png" class="hex"></a>
-    <a href="meta/rhus.json" target="_blank"><img src="hexagons/rhus.png" class="hex"></a>
-    <a href="meta/minaswan.json" target="_blank"><img src="hexagons/minaswan.png" class="hex"></a>
-    <a href="meta/arlingtonruby.json" target="_blank"><img src="hexagons/arlingtonruby.png" class="hex"></a>
-    <a href="meta/codeforcanada.json" target="_blank"><img src="hexagons/codeforcanada.png" class="hex" alt="Code For Canada"></a>
-    <a href="meta/nodeschool-int.json" target="_blank"><img src="hexagons/nodeschool-int.png" class="hex" alt="NodeSchool International Day"></a>
-    <a href="meta/zenlogic.json" target="_blank"><img src="hexagons/zenlogic.png" class="hex" alt="Zenlogic"></a>
-    <a href="meta/rtcio.json" target="_blank"><img src="hexagons/rtcio.png" class="hex" alt="rtc.io"></a>
-    <a href="meta/nodeschool-osa.json" target="_blank"><img src="hexagons/nodeschool-osa.png" class="hex" alt="NodeSchool Osaka"></a>
-    <a href="meta/opengeometadata.json" target="_blank"><img src="hexagons/opengeometadata.png" class="hex" alt="OpenGeoMetadata"></a>
-    <a href="meta/blacklight.json" target="_blank"><img src="hexagons/blacklight.png" class="hex" alt="Blacklight"></a>
-    <a href="meta/geoblacklight.json" target="_blank"><img src="hexagons/geoblacklight.png" class="hex" alt="GeoBlacklight"></a>
-    <a href="meta/nodeschool-tor.json" target="_blank"><img src="hexagons/nodeschool-tor.png" class="hex" alt="NodeSchool Toronto"></a>
-    <a href="meta/districttaco.json" target="_blank"><img src="hexagons/districttaco.png" class="hex"></a>
-    <a href="meta/rubyforgood.json" target="_blank"><img src="hexagons/rubyforgood.png" class="hex" alt="Ruby for Good"></a>
-    <a href="meta/mapzen.json" target="_blank"><img src="hexagons/mapzen.png" class="hex" alt="Mapzen"></a>
-    <a href="meta/eff.json" target="_blank"><img src="hexagons/eff.png" class="hex" alt="EFF"></a>
-    <a href="meta/privacybadger.json" target="_blank"><img src="hexagons/privacybadger.png" class="hex" alt="Privacy Badger"></a>
-    <a href="meta/sudoroom.json" target="_blank"><img src="hexagons/sudoroom.png" class="hex" alt="sudoroom"></a>
-    <a href="meta/icelandjs.json" target="_blank"><img src="hexagons/icelandjs.png" class="hex" alt="icelandjs"></a>
-    <a href="meta/apis-ipas.json" target="_blank"><img src="hexagons/apis-ipas.png" class="hex" alt="apis-ipas"></a>
-    <a href="meta/codefor-berlin.json" target="_blank"><img src="hexagons/CodeForBerlin.png" class="hex" alt="codefor-berlin"></a>
-    <a href="meta/codefor-bonn.json" target="_blank"><img src="hexagons/CodeForBonn.png" class="hex" alt="codefor-bonn"></a>
-    <a href="meta/codefor-chemnitz.json" target="_blank"><img src="hexagons/CodeForChemnitz.png" class="hex" alt="codefor-chemnitz"></a>
-    <a href="meta/codefor-dresden.json" target="_blank"><img src="hexagons/CodeForDresden.png" class="hex" alt="codefor-dresden"></a>
-    <a href="meta/codefor-frankfurt.json" target="_blank"><img src="hexagons/CodeForFrankfurt.png" class="hex" alt="codefor-frankfurt"></a>
-    <a href="meta/codefor-giessen.json" target="_blank"><img src="hexagons/CodeForGiessen.png" class="hex" alt="codefor-giessen"></a>
-    <a href="meta/codefor-hamburg.json" target="_blank"><img src="hexagons/CodeForHamburg.png" class="hex" alt="codefor-hamburg"></a>
-    <a href="meta/codefor-heilbronn.json" target="_blank"><img src="hexagons/CodeForHeilbronn.png" class="hex" alt="codefor-heilbronn"></a>
-    <a href="meta/codefor-jena.json" target="_blank"><img src="hexagons/CodeForJena.png" class="hex" alt="codefor-jena"></a>
-    <a href="meta/codefor-karlsruhe.json" target="_blank"><img src="hexagons/CodeForKarlsruhe.png" class="hex" alt="codefor-karlsruhe"></a>
-    <a href="meta/codefor-koeln.json" target="_blank"><img src="hexagons/CodeForKoeln.png" class="hex" alt="codefor-koeln"></a>
-    <a href="meta/codefor-leipzig.json" target="_blank"><img src="hexagons/CodeForLeipzig.png" class="hex" alt="codefor-leipzig"></a>
-    <a href="meta/codefor-magdeburg.json" target="_blank"><img src="hexagons/CodeForMagdeburg.png" class="hex" alt="codefor-magdeburg"></a>
-    <a href="meta/codefor-muenchen.json" target="_blank"><img src="hexagons/CodeForMuenchen.png" class="hex" alt="codefor-muenchen"></a>
-    <a href="meta/codefor-muenster.json" target="_blank"><img src="hexagons/CodeForMuenster.png" class="hex" alt="codefor-muenster"></a>
-    <a href="meta/codefor-stuttgart.json" target="_blank"><img src="hexagons/CodeForStuttgart.png" class="hex" alt="codefor-stuttgart"></a>
-    <a href="meta/codefor-ulm.json" target="_blank"><img src="hexagons/CodeForUlm.png" class="hex" alt="codefor-ulm"></a>
-    <a href="meta/codefor-wuppertal.json" target="_blank"><img src="hexagons/CodeForWuppertal.png" class="hex" alt="codefor-wuppertal"></a>
-    <a href="meta/campjs-vi.json" target="_blank"><img src="hexagons/campjs-vi.png" class="hex" alt="campjs-vi"></a>
-    <a href="meta/nodeschool-che.json" target="_blank"><img src="hexagons/nodeschool-che.png" class="hex" alt="nodeschool-che"></a>
-    <a href="meta/poisotlab.json" target="_blank"><img src="hexagons/poisotlab.png" class="hex" alt="poisotlab"></a>
-    <a href="meta/ropensci.json" target="_blank"><img src="hexagons/ropensci.png" class="hex" alt="ropensci"></a>
-    <a href="meta/rangle.json" target="_blank"><img src="hexagons/rangle.png" class="hex" alt="rangle"></a>
-    <a href="meta/wavedrom.json" target="_blank"><img src="hexagons/wavedrom.png" class="hex" alt="wavedrom"></a>
-    <a href="meta/codeforscience.json" target="_blank"><img src="hexagons/codeforscience.png" class="hex" alt="Code for Science"></a>
-    <a href="meta/loowid.json" target="_blank"><img src="hexagons/loowid.png" class="hex" alt="LooWID"></a>
-    <a href="meta/freemanlab.json" target="_blank"><img src="hexagons/freemanlab.png" class="hex" alt="The Freeman Lab"></a>
-    <a href="meta/yargs.json" target="_blank"><img src="hexagons/yargs.png" class="hex" alt="yargs"></a>
-    <a href="meta/bionode.json" target="_blank"><img src="hexagons/bionode.png" class="hex" alt="bionode"></a>
   </div>
 
 </div>

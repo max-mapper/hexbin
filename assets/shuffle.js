@@ -27,7 +27,6 @@ $(document).ready(function() {
                 src: val.sticker_url,
                 alt: val.alternate
             });
-            console.log(val.alternate);
 
             jQuery('<a />', {
                 href: val.link_to,

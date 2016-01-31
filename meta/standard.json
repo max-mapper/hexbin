@@ -1,0 +1,7 @@
+{
+  "name": "standard",
+  "author": "Feross Aboukhadijeh",
+  "license": "MIT",
+  "vector": "http://hexb.in/vector/standard.svg",
+  "description": "JavaScript Standard Style"
+}

@@ -80,5 +80,6 @@
   {"link_to": "meta/bionode.json", "sticker_url": "hexagons/bionode.png", "title": "bionode"},
   {"link_to": "meta/nodeschool-bcn.json", "sticker_url": "hexagons/nodeschool-bcn.png", "title": "Nodeschool Barcelona"},
   {"link_to": "meta/coldwar.json", "sticker_url": "hexagons/coldwar.png", "title": "Coldwar.io"},
-  {"link_to": "meta/airgidfaolchu.json", "sticker_url": "hexagons/airgidfaolchu.png", "title": "airgidfaolchu"}
+  {"link_to": "meta/airgidfaolchu.json", "sticker_url": "hexagons/airgidfaolchu.png", "title": "airgidfaolchu"},
+  {"link_to": "meta/standard.json", "sticker_url": "hexagons/standard.png", "title": "standard"}
 ]

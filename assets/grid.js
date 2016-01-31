@@ -6,12 +6,12 @@ $.getJSON('assets/data.json', function (data) {
   $.each(shuffled, function (key, val) {
     var img = $('<img />', {
       'class': 'hex',
-      'src': val.sticker_url,
-      'alt': val.title
+      'src': val.raster,
+      'alt': val.description
     })
 
     $('<a />', {
-      'href': val.link_to,
+      'href': "http://hexb.in/" + val.filename,
       'target': '_blank'
     }).append(img).appendTo('#grid')
   })

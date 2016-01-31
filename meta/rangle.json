@@ -3,5 +3,7 @@
   "author": "Neil Fenton",
   "license": "CC0",
   "vector": "http://hexb.in/vector/rangle.svg",
-  "description": "RANGLE.IO"
+  "description": "RANGLE.IO",
+  "raster": "http://hexb.in/hexagons/rangle.png",
+  "filename": "meta/rangle.json"
 }

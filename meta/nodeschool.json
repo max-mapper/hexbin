@@ -3,5 +3,7 @@
   "author": "jlord",
   "license": "BSD",
   "description": "nodeschool.io",
-  "vector": "http://hexb.in/vector/nodeschool.svg"
+  "vector": "http://hexb.in/vector/nodeschool.svg",
+  "raster": "http://hexb.in/hexagons/nodeschool.png",
+  "filename": "meta/nodeschool.json"
 }

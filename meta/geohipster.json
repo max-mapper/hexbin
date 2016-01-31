@@ -3,5 +3,7 @@
   "author": "jonah adkins",
   "license": "CC0",
   "vector": "http://hexb.in/vector/geohipster.svg",
-  "description": "sticker logo B for www.geohipster.com"
+  "description": "sticker logo B for www.geohipster.com",
+  "raster": "http://hexb.in/hexagons/geohipster.png",
+  "filename": "meta/geohipster.json"
 }

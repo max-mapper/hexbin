@@ -3,5 +3,7 @@
   "author": "substack",
   "license": "BSD",
   "description": "oaklandjs.com",
-  "vector": "http://hexb.in/vector/oaklandjs.svg"
+  "vector": "http://hexb.in/vector/oaklandjs.svg",
+  "raster": "http://hexb.in/hexagons/oaklandjs.png",
+  "filename": "meta/oaklandjs.json"
 }

@@ -3,5 +3,7 @@
   "author": "Jack Reed",
   "license": "CC0",
   "vector": "http://hexb.in/vector/opengeometadata.svg",
-  "description": "Logo for the OpenGeoMetadata project https://github.com/opengeometadata"
+  "description": "Logo for the OpenGeoMetadata project https://github.com/opengeometadata",
+  "raster": "http://hexb.in/hexagons/opengeometadata.png",
+  "filename": "meta/opengeometadata.json"
 }

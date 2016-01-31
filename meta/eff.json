@@ -3,5 +3,6 @@
   "author": "EFF",
   "license": "https://www.eff.org/copyright",
   "vector": "vectors not available, open an issue if you really want them and we might be able to find them",
-  "description": "EFF.org hexagon Logo"
+  "description": "EFF.org hexagon Logo",
+  "raster": "http://hexb.in/hexagons/eff.png"
 }

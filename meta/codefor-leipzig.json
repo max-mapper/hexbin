@@ -2,6 +2,8 @@
   "name": "codefor-leipzig",
   "author": "eileen wagner",
   "license": "CC0",
-  "vector": "http://hexb.in/vector/CodeForLeizig.svg",
-  "description": "code for leipzig!"
+  "vector": "http://hexb.in/vector/CodeForLeipzig.svg",
+  "description": "code for leipzig!",
+  "raster": "http://hexb.in/hexagons/CodeForLeipzig.png",
+  "filename": "meta/codefor-leipzig.json"
 }

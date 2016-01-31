@@ -2,5 +2,7 @@
   "name": "freemanlab",
   "author": "freemanlab",
   "license": "CC0",
-  "vector": "http://hexb.in/vector/freemanlab.svg"
+  "vector": "http://hexb.in/vector/freemanlab.svg",
+  "raster": "http://hexb.in/hexagons/freemanlab.png",
+  "filename": "meta/freemanlab.json"
 }

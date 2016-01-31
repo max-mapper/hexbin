@@ -3,5 +3,7 @@
   "author": "Kristján Oddsson",
   "license": "CC0",
   "vector": "http://hexb.in/vector/apis-ipas.svg",
-  "description": "For people who love APIs and IPAs"
+  "description": "For people who love APIs and IPAs",
+  "raster": "http://hexb.in/hexagons/apis-ipas.png",
+  "filename": "meta/apis-ipas.json"
 }

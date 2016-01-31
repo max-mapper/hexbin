@@ -4,7 +4,7 @@
   "description": "hexagon directory",
   "main": "grid.js",
   "scripts": {
-    "build": "browserify assets/grid.js -o assets/bundle.js",
+    "build": "node build.js && browserify assets/grid.js -o assets/bundle.js",
     "test": "standard",
     "start": "wzrd assets/grid.js:assets/bundle.js"
   },
@@ -15,6 +15,7 @@
   },
   "devDependencies": {
     "browserify": "^7.0.0",
+    "glob": "^6.0.4",
     "standard": "^5.4.1"
   }
 }

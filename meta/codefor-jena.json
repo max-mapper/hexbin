@@ -3,5 +3,7 @@
   "author": "eileen wagner",
   "license": "CC0",
   "vector": "http://hexb.in/vector/CodeForJena.svg",
-  "description": "code for jena!"
+  "description": "code for jena!",
+  "raster": "http://hexb.in/hexagons/CodeForJena.png",
+  "filename": "meta/codefor-jena.json"
 }

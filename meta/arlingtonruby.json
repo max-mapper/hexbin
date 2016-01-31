@@ -3,5 +3,7 @@
   "author": "Christopher Sexton",
   "license": "CC0",
   "vector": "http://hexb.in/vector/arlingtonruby.svg",
-  "description": "Arlington Ruby http://arlingtonruby.org/"
+  "description": "Arlington Ruby http://arlingtonruby.org/",
+  "raster": "http://hexb.in/hexagons/arlingtonruby.png",
+  "filename": "meta/arlingtonruby.json"
 }

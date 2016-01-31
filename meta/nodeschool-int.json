@@ -3,5 +3,7 @@
   "author": "Ole Harland",
   "license": "CC0",
   "vector": "http://hexb.in/vector/nodeschool-int.svg",
-  "description": "NodeSchool International Day http://nodeschool.io/international-day"
+  "description": "NodeSchool International Day http://nodeschool.io/international-day",
+  "raster": "http://hexb.in/hexagons/nodeschool-int.png",
+  "filename": "meta/nodeschool-int.json"
 }

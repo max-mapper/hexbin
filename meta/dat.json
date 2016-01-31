@@ -3,5 +3,7 @@
   "author": "jlord",
   "license": "CC0",
   "description": "dat-data.com",
-  "vector": "http://hexb.in/vector/dat.svg"
+  "vector": "http://hexb.in/vector/dat.svg",
+  "raster": "http://hexb.in/hexagons/dat.png",
+  "filename": "meta/dat.json"
 }

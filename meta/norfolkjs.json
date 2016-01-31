@@ -3,5 +3,7 @@
   "author": "Lookmai Rattana",
   "license": "CC0",
   "vector": "http://hexb.in/vector/norfolkjs.svg",
-  "description": "Norfolk JavaScript UserGroup http://norfolkjs.org/"
+  "description": "Norfolk JavaScript UserGroup http://norfolkjs.org/",
+  "raster": "http://hexb.in/hexagons/norfolkjs.png",
+  "filename": "meta/norfolkjs.json"
 }

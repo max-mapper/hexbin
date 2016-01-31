@@ -3,5 +3,7 @@
   "author": "Lookmai Rattana",
   "license": "CC0",
   "vector": "http://hexb.in/vector/757rb.svg",
-  "description": "757 Ruby UserGroup http://757rb.org/"
+  "description": "757 Ruby UserGroup http://757rb.org/",
+  "raster": "http://hexb.in/hexagons/757rb.png",
+  "filename": "meta/757rb.json"
 }

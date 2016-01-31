@@ -3,5 +3,7 @@
   "author": "eileen wagner",
   "license": "CC0",
   "vector": "http://hexb.in/vector/CodeForGiessen.svg",
-  "description": "code for giessen!"
+  "description": "code for giessen!",
+  "raster": "http://hexb.in/hexagons/CodeForGiessen.png",
+  "filename": "meta/codefor-giessen.json"
 }

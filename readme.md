@@ -12,9 +12,10 @@ a community curated list of hexagon logos
 
 ```json
 {
-  "name": "dat-logo",
+  "name": "dat",
   "author": "max ogden",
   "license": "CC0",
+  "raster": "http://hexb.in/hexagons/dat.png",
   "vector": "http://hexb.in/vector/dat.svg",
   "description": "this is optional!",
   "order_online_url": "this is optional. should be a link to where people can buy the sticker online"
@@ -23,7 +24,6 @@ a community curated list of hexagon logos
 
 make sure `name` only has lowercase letters, numbers and hyphens
 
-- add your hexagon to the bottom of the hexagon list in the json (`assets/data.json`). make sure the link points at your meta file.
-- make a pull request to this repo. bonus points if you embed your hexagon image in your pull request description!
+then make a pull request to this repo. bonus points if you embed your hexagon image in your pull request description!
 
 here is an example of a great PR: https://github.com/maxogden/hexbin/pull/5

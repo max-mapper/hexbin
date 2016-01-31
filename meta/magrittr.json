@@ -3,5 +3,7 @@
   "author": "stefan milton bache",
   "license": "MIT",
   "vector": "http://hexb.in/vector/magrittr.svg",
-  "description": "magrittr R package. http://github.com/smbache/magrittr"
+  "description": "magrittr R package. http://github.com/smbache/magrittr",
+  "raster": "http://hexb.in/hexagons/magrittr.png",
+  "filename": "meta/magrittr.json"
 }

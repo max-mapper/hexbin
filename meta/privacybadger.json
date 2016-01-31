@@ -3,5 +3,6 @@
   "author": "EFF",
   "license": "https://www.eff.org/copyright",
   "vector": "vectors not available, open an issue if you really want them and we might be able to find them",
-  "description": "https://www.eff.org/privacybadger"
+  "description": "https://www.eff.org/privacybadger",
+  "raster": "http://hexb.in/hexagons/privacybadger.png"
 }

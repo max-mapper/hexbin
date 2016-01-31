@@ -3,5 +3,7 @@
   "author": "Christopher Sexton",
   "license": "CC 4.0 BY NC ND",
   "vector": "http://hexb.in/vector/districttaco.svg",
-  "description": "District Taco http://districttaco.com/"
+  "description": "District Taco http://districttaco.com/",
+  "raster": "http://hexb.in/hexagons/districttaco.png",
+  "filename": "meta/districttaco.json"
 }

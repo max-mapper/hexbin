@@ -2,5 +2,6 @@
   "name": "sudoroom",
   "author": "maxogden + sudoroom",
   "license": "BSD",
-  "vector": "http://hexb.in/vector/sudoroom.psd"
+  "vector": "http://hexb.in/vector/sudoroom.psd",
+  "raster": "http://hexb.in/hexagons/sudoroom.png"
 }

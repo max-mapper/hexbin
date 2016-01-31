@@ -3,5 +3,6 @@
   "author": "maxogden",
   "license": "CC0",
   "description": "csvconf.com",
-  "vector": "http://hexb.in/vector/csvconf.psd"
+  "vector": "http://hexb.in/vector/csvconf.psd",
+  "raster": "http://hexb.in/hexagons/csvconf.png"
 }

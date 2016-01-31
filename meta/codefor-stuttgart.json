@@ -3,5 +3,7 @@
   "author": "eileen wagner",
   "license": "CC0",
   "vector": "http://hexb.in/vector/CodeForStuttgart.svg",
-  "description": "code for stuttgart!"
+  "description": "code for stuttgart!",
+  "raster": "http://hexb.in/hexagons/CodeForStuttgart.png",
+  "filename": "meta/codefor-stuttgart.json"
 }

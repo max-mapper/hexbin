@@ -3,5 +3,7 @@
   "author": "joe hanson",
   "license": "CC0 1.0",
   "vector": "http://hexb.in/vector/pubnub.svg",
-  "description": "pubnub.com"
+  "description": "pubnub.com",
+  "raster": "http://hexb.in/hexagons/pubnub.png",
+  "filename": "meta/pubnub.json"
 }

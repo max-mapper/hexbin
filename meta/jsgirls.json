@@ -3,5 +3,7 @@
   "author": "tomoe tani and jsgirls.org",
   "license": "MIT",
   "vector": "http://hexb.in/vector/jsgirls.svg",
-  "description": "http://jsgirls.org/"
+  "description": "http://jsgirls.org/",
+  "raster": "http://hexb.in/hexagons/jsgirls.png",
+  "filename": "meta/jsgirls.json"
 }

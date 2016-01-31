@@ -3,5 +3,7 @@
   "author": "Chris Jesudurai, Jack Reed",
   "license": "CC0",
   "vector": "http://hexb.in/vector/blacklight.svg",
-  "description": "Logo for the Blacklight project http://projectblacklight.org"
+  "description": "Logo for the Blacklight project http://projectblacklight.org",
+  "raster": "http://hexb.in/hexagons/blacklight.png",
+  "filename": "meta/blacklight.json"
 }

@@ -3,5 +3,7 @@
   "author": "Open Knowledge Foundation Deutschland",
   "license": "CC0",
   "vector": "http://hexb.in/vector/codeforde.svg",
-  "description": "Logo of Code for Germany as Hex Sticker"
+  "description": "Logo of Code for Germany as Hex Sticker",
+  "raster": "http://hexb.in/hexagons/codeforde.png",
+  "filename": "meta/codeforde.json"
 }

@@ -2,5 +2,7 @@
   "name": "pdxnode",
   "author": "chris dickinson",
   "license": "MIT",
-  "vector": "http://hexb.in/vector/pdxnode.svg"
+  "vector": "http://hexb.in/vector/pdxnode.svg",
+  "raster": "http://hexb.in/hexagons/pdxnode.png",
+  "filename": "meta/pdxnode.json"
 }

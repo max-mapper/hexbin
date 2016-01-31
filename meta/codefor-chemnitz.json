@@ -3,5 +3,7 @@
   "author": "eileen wagner",
   "license": "CC0",
   "vector": "http://hexb.in/vector/CodeForChemnitz.svg",
-  "description": "code for chemnitz!"
+  "description": "code for chemnitz!",
+  "raster": "http://hexb.in/hexagons/CodeForChemnitz.png",
+  "filename": "meta/codefor-chemnitz.json"
 }

@@ -7,7 +7,7 @@ $.getJSON('assets/data.json', function (data) {
     var img = $('<img />', {
       'class': 'hex',
       'src': val.sticker_url,
-      'alt': val.alternate
+      'alt': val.title
     })
 
     $('<a />', {

@@ -5,7 +5,8 @@
   "main": "grid.js",
   "scripts": {
     "build": "browserify assets/grid.js -o assets/bundle.js",
-    "test": "standard"
+    "test": "standard",
+    "start": "wzrd assets/grid.js:assets/bundle.js"
   },
   "author": "max ogden",
   "license": "BSD",

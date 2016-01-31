@@ -4,7 +4,8 @@
   "description": "hexagon directory",
   "main": "grid.js",
   "scripts": {
-    "build": "browserify grid.js -o bundle.js"
+    "build": "browserify assets/grid.js -o assets/bundle.js",
+    "test": "standard"
   },
   "author": "max ogden",
   "license": "BSD",
@@ -12,6 +13,7 @@
     "hex-grid": "^2.0.1"
   },
   "devDependencies": {
-    "browserify": "^7.0.0"
+    "browserify": "^7.0.0",
+    "standard": "^5.4.1"
   }
 }

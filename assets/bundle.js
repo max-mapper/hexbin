@@ -1,17 +1,53 @@
 (function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){
+/* global $ */
 var grid = require('hex-grid')
 
-var hexes = document.querySelectorAll('.hex')
-var root = document.querySelector('#grid')
+$.getJSON('assets/data.json', function (data) {
+  var shuffled = shuffle(data)
+  $.each(shuffled, function (key, val) {
+    var img = $('<img />', {
+      'class': 'hex',
+      'src': val.sticker_url,
+      'alt': val.alternate
+    })
 
-var g
-function scan () {
-  g = grid({ element: root, spacing: 4 }, hexes)
+    $('<a />', {
+      'href': val.link_to,
+      'target': '_blank'
+    }).append(img).appendTo('#grid')
+  })
+
+  var hexes = document.querySelectorAll('.hex')
+  var root = document.querySelector('#grid')
+
+  function scan () {
+    grid({ element: root, spacing: 4 }, hexes)
+  }
+
+  scan()
+  window.addEventListener('resize', scan)
+  window.addEventListener('load', scan)
+})
+
+function shuffle (array) {
+  var currentIndex = array.length
+  var temporaryValue
+  var randomIndex
+
+  // While there remain elements to shuffle...
+  while (currentIndex !== 0) {
+    // Pick a remaining element...
+    randomIndex = Math.floor(Math.random() * currentIndex)
+    currentIndex -= 1
+
+    // And swap it with the current element.
+    temporaryValue = array[currentIndex]
+    array[currentIndex] = array[randomIndex]
+    array[randomIndex] = temporaryValue
+  }
+
+  return array
 }
-
-scan()
-window.addEventListener('resize', scan)
-window.addEventListener('load', scan)
 
 },{"hex-grid":2}],2:[function(require,module,exports){
 var inside = require('point-in-polygon');

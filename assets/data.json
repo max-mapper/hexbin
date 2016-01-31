@@ -82,5 +82,7 @@
   {"link_to": "meta/coldwar.json", "sticker_url": "hexagons/coldwar.png", "title": "Coldwar.io"},
   {"link_to": "meta/airgidfaolchu.json", "sticker_url": "hexagons/airgidfaolchu.png", "title": "airgidfaolchu"},
   {"link_to": "meta/standard.json", "sticker_url": "hexagons/standard.png", "title": "standard"},
-  {"link_to": "meta/arcticjs.json", "sticker_url": "hexagons/arcticjs.png", "title": "arcticjs"}
+  {"link_to": "meta/arcticjs.json", "sticker_url": "hexagons/arcticjs.png", "title": "arcticjs"},
+  {"link_to": "meta/nodeschool-bra.json", "sticker_url": "hexagons/nodeschool-bra.png", "title": "nodeschool-bra"},
+  {"link_to": "meta/offline-trex.json", "sticker_url": "hexagons/offline-trex.png", "title": "offline-trex"}
 ]

@@ -78,5 +78,6 @@
   {"link_to": "meta/freemanlab.json" , "sticker_url": "hexagons/freemanlab.png" , "title": "The Freeman Lab"},
   {"link_to": "meta/yargs.json" , "sticker_url": "hexagons/yargs.png" , "title": "yargs"},
   {"link_to": "meta/bionode.json" , "sticker_url": "hexagons/bionode.png" , "title": "bionode"},
-  {"link_to": "meta/nodeschool-bcn.json" , "sticker_url": "hexagons/nodeschool-bcn.png" , "title": "Nodeschool Barcelona"}
+  {"link_to": "meta/nodeschool-bcn.json" , "sticker_url": "hexagons/nodeschool-bcn.png" , "title": "Nodeschool Barcelona"},
+  {"link_to": "meta/coldwar.json" , "sticker_url": "hexagons/coldwar.png" , "title": "Coldwar.io"}
 ]

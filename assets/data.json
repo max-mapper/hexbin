@@ -599,6 +599,15 @@
     "filename": "meta/offline-trex.json"
   },
   {
+    "name": "opbeat",
+    "author": "opbeat",
+    "license": "Opbeat, Inc. Trademark",
+    "raster": "http://hexb.in/hexagons/opbeat.png",
+    "vector": "http://hexb.in/vector/opbeat.svg",
+    "description": "Performance/Error/Release monitoring for your Node apps",
+    "filename": "meta/opbeat.json"
+  },
+  {
     "name": "opengeometadata",
     "author": "Jack Reed",
     "license": "CC0",

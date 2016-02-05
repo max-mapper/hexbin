@@ -9,6 +9,15 @@
     "filename": "meta/757rb.json"
   },
   {
+    "name": "adventure-js",
+    "author": "Stephen Whitmore",
+    "license": "MIT",
+    "vector": "http://hexb.in/vector/adventure-js.svg",
+    "description": "Taking javascript to the wilderness.",
+    "raster": "http://hexb.in/hexagons/adventure-js.png",
+    "filename": "meta/adventure-js.json"
+  },
+  {
     "name": "airgidfaolchu",
     "author": "Attila Farkas",
     "license": "CC0",
@@ -561,6 +570,15 @@
     "description": "NodeSchool Toronto http://nodeschool.io/toronto",
     "raster": "http://hexb.in/hexagons/nodeschool-tor.png",
     "filename": "meta/nodeschool-tor.json"
+  },
+  {
+    "name": "nodeschool-zgb",
+    "author": "Dino Trojak",
+    "license": "MIT",
+    "vector": "http://hexb.in/vector/nodeschool-zgb.svg",
+    "raster": "http://hexb.in/hexagons/nodeschool-zgb.png",
+    "description": "Official NodeSchool Zagreb logo",
+    "filename": "meta/nodeschool-zgb.json"
   },
   {
     "name": "nodeschool",

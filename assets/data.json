@@ -9,6 +9,15 @@
     "filename": "meta/757rb.json"
   },
   {
+    "name": "adventure-js",
+    "author": "Stephen Whitmore",
+    "license": "MIT",
+    "vector": "http://hexb.in/vector/adventure-js.svg",
+    "description": "Taking javascript to the wilderness.",
+    "raster": "http://hexb.in/hexagons/adventure-js.png",
+    "filename": "meta/adventure-js.json"
+  },
+  {
     "name": "airgidfaolchu",
     "author": "Attila Farkas",
     "license": "CC0",
@@ -570,6 +579,15 @@
     "vector": "http://hexb.in/vector/nodeschool.svg",
     "raster": "http://hexb.in/hexagons/nodeschool.png",
     "filename": "meta/nodeschool.json"
+  },
+  {
+    "name": "nodeschool-dc",
+    "author": "Robbie Holmes",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/nodeschooldc.svg",
+    "description": "NodeSchool DC group url: http://nodeschool.io/washingtondc/",
+    "raster": "http://hexb.in/hexagons/nodeschooldc.png",
+    "filename": "meta/nodeschooldc.json"
   },
   {
     "name": "Norfolk.js",

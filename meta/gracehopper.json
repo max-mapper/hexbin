@@ -1,0 +1,9 @@
+{
+  "name": "gracehopper",
+  "author": "nromano",
+  "license": "MIT",
+  "vector": "http://hexb.in/vector/gracehopper.svg",
+  "raster": "http://hexb.in/hexagons/gracehopper.png",
+  "filename": "meta/gracehopper.json",
+  "order_online_url": "pending"
+}

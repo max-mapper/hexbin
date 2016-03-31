@@ -404,6 +404,15 @@
     "filename": "meta/geohipster.json"
   },
   {
+    "name": "gracehopper",
+    "author": "nromano",
+    "license": "MIT",
+    "vector": "http://hexb.in/vector/gracehopper.svg",
+    "raster": "http://hexb.in/hexagons/gracehopper.png",
+    "filename": "meta/gracehopper.json",
+    "order_online_url": "pending"
+  },
+  {
     "name": "icelandjs",
     "author": "Kristjan Broder Lund & Kristján Oddsson",
     "license": "CC0",

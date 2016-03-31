@@ -5,5 +5,6 @@
   "vector": "http://hexb.in/vector/gracehopper.svg",
   "raster": "http://hexb.in/hexagons/gracehopper.png",
   "filename": "meta/gracehopper.json",
+  "description": "Grace Hopper",
   "order_online_url": "pending"
 }

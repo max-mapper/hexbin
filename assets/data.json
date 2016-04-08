@@ -421,6 +421,16 @@
     "filename": "meta/iojs.json"
   },
   {
+    "name": "ipfs",
+    "author": "ipfs community",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/ipfs.png",
+    "vector": "http://hexb.in/vector/ipfs.svg",
+    "description": "The IPFS logo. https://ipfs.io",
+    "order_online_url": "https://www.stickermule.com/en/user/1070654024/stickers",
+    "filename": "meta/ipfs.json"
+  },
+  {
     "name": "jsconfuy",
     "author": "jsconfuy",
     "license": "CC0",
@@ -633,6 +643,36 @@
     "description": "Logo for the OpenGeoMetadata project https://github.com/opengeometadata",
     "raster": "http://hexb.in/hexagons/opengeometadata.png",
     "filename": "meta/opengeometadata.json"
+  },
+  {
+    "name": "openmrs-hex-icon",
+    "author": "OpenMRS",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/openmrs-hex-icon.png",
+    "vector": "http://hexb.in/vector/openmrs-hex-icon.svg",
+    "description": "OpenMRS Logo",
+    "order_online_url": "https://www.stickermule.com/marketplace/10481-hex-openmrs-logo",
+    "filename": "meta/openmrs-hex-icon.json"
+  },
+  {
+    "name": "openmrs-hex-talk",
+    "author": "OpenMRS",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/openmrs-hex-talk.png",
+    "vector": "http://hexb.in/vector/openmrs-hex-talk.svg",
+    "description": "OpenMRS Talk Logo",
+    "order_online_url": "https://www.stickermule.com/marketplace/10482-hex-openmrs-talk",
+    "filename": "meta/openmrs-hex-talk.json"
+  },
+  {
+    "name": "openmrs-hex-wcsl",
+    "author": "OpenMRS",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/openmrs-hex-wcsl.png",
+    "vector": "http://hexb.in/vector/openmrs-hex-wcsl.svg",
+    "description": "Write Code - Save Lives - OpenMRS",
+    "order_online_url": "https://www.stickermule.com/marketplace/10483-hex-write-code-save-lives",
+    "filename": "meta/openmrs-hex-wcsl.json"
   },
   {
     "name": "openshift-logo",

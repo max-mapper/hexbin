@@ -1,0 +1,9 @@
+{
+  "name": "openmrs-hex-icon",
+  "author": "OpenMRS",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/openmrs-hex-icon.png",
+  "vector": "http://hexb.in/vector/openmrs-hex-icon.svg",
+  "description": "OpenMRS Logo",
+  "order_online_url": "https://www.stickermule.com/marketplace/10481-hex-openmrs-logo"
+}

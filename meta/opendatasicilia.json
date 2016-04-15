@@ -1,0 +1,9 @@
+{
+  "name": "opendatasicilia",
+  "author": "Andrea Borruso",
+  "license": "CC0",
+  "vector": "http://hexb.in/vector/opendatasicilia.svg",
+  "description": "code for berlin!",
+  "raster": "http://hexb.in/hexagons/opendatasicilia.png",
+  "filename": "meta/opendatasicilia.json"
+}

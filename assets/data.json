@@ -413,6 +413,16 @@
     "filename": "meta/icelandjs.json"
   },
   {
+    "name": "interledger",
+    "author": "Interledger Team",
+    "license": "CC BY 4.0",
+    "raster": "http://hexb.in/hexagons/interledger.png",
+    "vector": "http://hexb.in/vector/interledger.svg",
+    "description": "https://interledger.org",
+    "order_online_url": "https://www.stickermule.com/en/marketplace/13455-interledger-hexagon-sticker",
+    "filename": "meta/interledger.json"
+  },
+  {
     "name": "iojs",
     "author": "substack",
     "license": "CC0",
@@ -693,6 +703,16 @@
     "filename": "meta/pdxnode.json"
   },
   {
+    "name": "piratenpartei",
+    "author": "PiraToRo",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/piratenpartei.png",
+    "vector": "http://hexb.in/vector/piratenpartei.svg",
+    "description": "hex version of the pirate party germany logo",
+    "order_online_url": "http://shop.piratenpartei.de",
+    "filename": "meta/piratenpartei.json"
+  },
+  {
     "name": "poisotlab",
     "author": "Timothée Poisot",
     "license": "CC0",
@@ -700,6 +720,16 @@
     "description": "Current logo for the Poisot lab, computational ecology @ Université de Montréal http://poisotlab.io",
     "raster": "http://hexb.in/hexagons/poisotlab.png",
     "filename": "meta/poisotlab.json"
+  },
+  {
+    "name": "piratepartyEU",
+    "author": "@PiraToRo",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/piratepartyEU.png",
+    "vector": "http://hexb.in/vector/piratepartyEU.svg",
+    "description": "hex version of the european pirate party logo",
+    "order_online_url": "http://shop.piratenpartei.de",
+    "filename": "meta/ppeu.json"
   },
   {
     "name": "Privacy Badger",
@@ -737,6 +767,15 @@
     "description": "Connecting the world of genomic data. ",
     "order_online_url": "",
     "filename": "meta/repositive_io.json"
+  },
+  {
+    "name": "rhodyrstats",
+    "author": "jeff hollister",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/rhodyrstats.png",
+    "vector": "http://hexb.in/vector/rhodyrstats.svg",
+    "description": "Rhode Island R study group: http://rhodyrstats.org",
+    "filename": "meta/rhodyrstats.json"
   },
   {
     "name": "rhus",

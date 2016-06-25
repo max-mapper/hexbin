@@ -28,6 +28,10 @@ then make a pull request to this repo. bonus points if you embed your hexagon im
 
 here is an example of a great PR: https://github.com/maxogden/hexbin/pull/5
 
+### Note
+
+You do not need to rebuild the site in your PR, in fact this makes merges more complicated for maintainers. Please let the maintainers handle rebuilding after merges.
+
 # for maintainers
 
 after merging PRs/adding new hexes you have to build the site:

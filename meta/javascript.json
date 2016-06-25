@@ -1,0 +1,9 @@
+{
+  "name": "javascript",
+  "author": "matt carter",
+  "license": "MIT",
+  "vector": "http://hexb.in/vector/javascript.svg",
+  "description": "JavaScript scripting language",
+  "raster": "http://hexb.in/hexagons/javascript.png",
+  "filename": "meta/javascript.json"
+}

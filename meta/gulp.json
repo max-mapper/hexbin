@@ -1,0 +1,9 @@
+{
+  "name": "gulp",
+  "author": "matt carter",
+  "license": "mit",
+  "vector": "http://hexb.in/vector/gulp.svg",
+  "description": "GulpJS",
+  "raster": "http://hexb.in/hexagons/gulp.png",
+  "filename": "meta/gulp.json"
+}

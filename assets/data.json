@@ -234,6 +234,15 @@
     "filename": "meta/codefor-muenster.json"
   },
   {
+    "name": "codefor-ruhrgebiet",
+    "author": "Phil Ninh",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/CodeForRuhrgebiet.svg",
+    "description": "Code for Ruhrgebiet!",
+    "raster": "http://hexb.in/hexagons/CodeForRuhrgebiet.png",
+    "filename": "meta/codefor-ruhrgebiet.json"
+  },
+  {
     "name": "codefor-stuttgart",
     "author": "eileen wagner",
     "license": "CC0",
@@ -493,6 +502,13 @@
     "description": "an open source mapping lab · mapzen.com",
     "raster": "http://hexb.in/hexagons/mapzen.png",
     "filename": "meta/mapzen.json"
+  },
+  {
+    "name": "MetaMask",
+    "author": "Dan Finlay",
+    "license": "CC BY-NC-SA 4.0",
+    "raster": "http://hexb.in/hexagons/metamask.png",
+    "filename": "meta/metamask.json"
   },
   {
     "name": "minaswan",

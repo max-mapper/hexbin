@@ -27,3 +27,12 @@ make sure `name` only has lowercase letters, numbers and hyphens
 then make a pull request to this repo. bonus points if you embed your hexagon image in your pull request description!
 
 here is an example of a great PR: https://github.com/maxogden/hexbin/pull/5
+
+# for maintainers
+
+after merging PRs/adding new hexes you have to build the site:
+
+- npm run build
+- commit + add
+- git push origin gh-pages
+

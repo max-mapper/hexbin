@@ -360,6 +360,15 @@
     "order_online_url": "https://www.stickermule.com/marketplace/9709-dat-data-v3"
   },
   {
+    "name": "debian",
+    "author": "Software in the Public Interest, Inc.",
+    "license": "CC-BY-SA 3.0 or LGPL 3+",
+    "raster": "http://hexb.in/hexagons/debian.png",
+    "vector": "http://hexb.in/vector/debian.svg",
+    "description": "Debian Open Use Logo https://www.debian.org/logos/",
+    "filename": "meta/debian.json"
+  },
+  {
     "name": "District Taco",
     "author": "Christopher Sexton",
     "license": "CC 4.0 BY NC ND",
@@ -413,6 +422,15 @@
     "filename": "meta/geohipster.json"
   },
   {
+    "name": "gulp",
+    "author": "matt carter",
+    "license": "mit",
+    "vector": "http://hexb.in/vector/gulp.svg",
+    "description": "GulpJS",
+    "raster": "http://hexb.in/hexagons/gulp.png",
+    "filename": "meta/gulp.json"
+  },
+  {
     "name": "icelandjs",
     "author": "Kristjan Broder Lund & Kristján Oddsson",
     "license": "CC0",
@@ -448,6 +466,15 @@
     "description": "The IPFS logo. https://ipfs.io",
     "order_online_url": "https://www.stickermule.com/en/user/1070654024/stickers",
     "filename": "meta/ipfs.json"
+  },
+  {
+    "name": "javascript",
+    "author": "matt carter",
+    "license": "MIT",
+    "vector": "http://hexb.in/vector/javascript.svg",
+    "description": "JavaScript scripting language",
+    "raster": "http://hexb.in/hexagons/javascript.png",
+    "filename": "meta/javascript.json"
   },
   {
     "name": "jsconfuy",
@@ -504,7 +531,7 @@
     "filename": "meta/mapzen.json"
   },
   {
-    "name": "MetaMask",
+    "name": "metamask",
     "author": "Dan Finlay",
     "license": "CC BY-NC-SA 4.0",
     "raster": "http://hexb.in/hexagons/metamask.png",
@@ -570,6 +597,15 @@
     "vector": "http://hexb.in/vector/nodeschool-ham.svg",
     "raster": "http://hexb.in/hexagons/nodeschool-ham.png",
     "filename": "meta/nodeschool-ham.json"
+  },
+  {
+    "name": "NodeSchool HMO",
+    "author": "Axel Valdez",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/nodeschool-hmo.svg",
+    "description": "NodeSchool Hermosillo",
+    "raster": "http://hexb.in/hexagons/nodeschool-hmo.png",
+    "filename": "meta/nodeschool-hmo.json"
   },
   {
     "name": "NodeSchool International Day",
@@ -660,6 +696,15 @@
     "vector": "http://hexb.in/vector/opbeat.svg",
     "description": "Performance/Error/Release monitoring for your Node apps",
     "filename": "meta/opbeat.json"
+  },
+  {
+    "name": "opendatasicilia",
+    "author": "Andrea Borruso",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/opendatasicilia.svg",
+    "description": "code for berlin!",
+    "raster": "http://hexb.in/hexagons/opendatasicilia.png",
+    "filename": "meta/opendatasicilia.json"
   },
   {
     "name": "opengeometadata",

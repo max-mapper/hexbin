@@ -431,6 +431,15 @@
     "filename": "meta/geohipster.json"
   },
   {
+    "name": "gl-como",
+    "author": "Fabrixxm, valhalla",
+    "license": "CC-BY-SA",
+    "raster": "http://hexb.in/hexagons/gl-como.png",
+    "vector": "http://hexb.in/vector/gl-como.svg",
+    "description": "Logo for the GL-Como LUG http://www.gl-como.it",
+    "filename": "meta/gl-como.json"
+  },
+  {
     "name": "gulp",
     "author": "matt carter",
     "license": "mit",

@@ -1,0 +1,9 @@
+{
+  "name": "angular",
+  "author": "matt carter",
+  "license": "MIT",
+  "vector": "http://hexb.in/vector/angular.svg",
+  "description": "AngularJS",
+  "raster": "http://hexb.in/hexagons/angular.png",
+  "filename": "meta/angular.json"
+}

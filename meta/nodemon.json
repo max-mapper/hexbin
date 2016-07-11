@@ -1,0 +1,9 @@
+{
+  "name": "nodemon",
+  "author": "matt carter",
+  "license": "mit",
+  "vector": "http://hexb.in/vector/nodemon.svg",
+  "description": "http://nodemon.io",
+  "raster": "http://hexb.in/hexagons/nodemon.png",
+  "filename": "meta/nodemon.json"
+}

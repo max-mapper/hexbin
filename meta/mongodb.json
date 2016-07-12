@@ -1,0 +1,9 @@
+{
+  "name": "mongodb",
+  "author": "matt carter",
+  "license": "MIT",
+  "vector": "http://hexb.in/vector/mongodb.svg",
+  "description": "http://www.mongodb.com",
+  "raster": "http://hexb.in/hexagons/mongodb.png",
+  "filename": "meta/mongodb.json"
+}

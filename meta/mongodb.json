@@ -4,6 +4,7 @@
   "license": "MIT",
   "vector": "http://hexb.in/vector/mongodb.svg",
   "description": "http://www.mongodb.com",
+  "order_online_url": "https://www.stickermule.com/marketplace/13988-mongodb-hex-sticker",
   "raster": "http://hexb.in/hexagons/mongodb.png",
   "filename": "meta/mongodb.json"
 }

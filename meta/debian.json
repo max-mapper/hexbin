@@ -1,0 +1,8 @@
+{
+  "name": "debian",
+  "author": "Software in the Public Interest, Inc.",
+  "license": "CC-BY-SA 3.0 or LGPL 3+",
+  "raster": "http://hexb.in/hexagons/debian.png",
+  "vector": "http://hexb.in/vector/debian.svg",
+  "description": "Debian Open Use Logo https://www.debian.org/logos/"
+}

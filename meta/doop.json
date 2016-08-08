@@ -1,0 +1,9 @@
+{
+  "name": "doop",
+  "author": "matt carter",
+  "license": "mit",
+  "vector": "http://hexb.in/vector/doop.svg",
+  "description": "Democratic Order of Planets",
+  "raster": "http://hexb.in/hexagons/doop.png",
+  "filename": "meta/doop.json"
+}

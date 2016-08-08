@@ -1,0 +1,9 @@
+{
+  "name": "wireshark",
+  "author": "matt carter",
+  "license": "MIT",
+  "vector": "http://hexb.in/vector/wireshark.svg",
+  "description": "https://www.wireshark.org",
+  "raster": "http://hexb.in/hexagons/wireshark.png",
+  "filename": "meta/wireshark.json"
+}

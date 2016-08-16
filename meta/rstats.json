@@ -1,0 +1,9 @@
+{
+  "name": "rstats”,
+  "author": “cjlortie”,
+  "license": "CC0",
+  "vector": "http://hexb.in/vector/rstats.svg",
+  "description": "http://r-stats.org",
+  "raster": "http://hexb.in/hexagons/rstats.png",
+  "filename": "meta/rstats.json"
+}

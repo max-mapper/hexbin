@@ -1,0 +1,9 @@
+{
+  "name": "r4grads”,
+  "author": “cjlortie”,
+  "license": "CC0",
+  "vector": "http://hexb.in/vector/r4grads.svg",
+  "description": "http://r-stats.org",
+  "raster": "http://hexb.in/hexagons/r4grads.png",
+  "filename": "meta/r4grads.json"
+}

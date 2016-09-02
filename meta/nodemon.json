@@ -1,0 +1,10 @@
+{
+  "name": "nodemon",
+  "author": "matt carter",
+  "license": "mit",
+  "vector": "http://hexb.in/vector/nodemon.svg",
+  "description": "http://nodemon.io",
+  "order_online_url": "https://www.stickermule.com/marketplace/13989-nodemon-hex-sticker",
+  "raster": "http://hexb.in/hexagons/nodemon.png",
+  "filename": "meta/nodemon.json"
+}

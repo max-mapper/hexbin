@@ -1,0 +1,8 @@
+{
+  "name": "tessel",
+  "author": "Tessel Project",
+  "license": "MIT",
+  "raster": "http://hexb.in/hexagons/tessel.png",
+  "vector": "http://hexb.in/vector/tessel.svg",
+  "description": "Tessel is a hardware platform designed for Node.js."
+}

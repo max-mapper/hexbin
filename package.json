@@ -16,6 +16,7 @@
   "devDependencies": {
     "browserify": "^7.0.0",
     "glob": "^6.0.4",
-    "standard": "^5.4.1"
+    "standard": "^5.4.1",
+    "wzrd": "^1.4.0"
   }
 }

@@ -32,6 +32,7 @@
     "license": "MIT",
     "vector": "http://hexb.in/vector/angular.svg",
     "description": "AngularJS",
+    "order_online_url": "https://www.stickermule.com/marketplace/14020-angularjs-hex-sticker",
     "raster": "http://hexb.in/hexagons/angular.png",
     "filename": "meta/angular.json"
   },
@@ -387,6 +388,25 @@
     "filename": "meta/districttaco.json"
   },
   {
+    "name": "doop",
+    "author": "matt carter",
+    "license": "mit",
+    "vector": "http://hexb.in/vector/doop.svg",
+    "description": "Democratic Order of Planets",
+    "raster": "http://hexb.in/hexagons/doop.png",
+    "filename": "meta/doop.json"
+  },
+  {
+    "name": "edtech-hamburg",
+    "author": "isger janson",
+    "license": "CC BY 4.0",
+    "raster": "http://hexb.in/hexagons/edtech-hamburg.png",
+    "vector": "http://hexb.in/vector/edtech-hamburg.svg",
+    "description": "This is the logo of the EdTech Hamburg initiative. Check us out, http://edtech.hamburg",
+    "order_online_url": "https://www.stickermule.com/en/user/1070755644/stickers",
+    "filename": "meta/edtech-hamburg.json"
+  },
+  {
     "name": "EFF",
     "author": "EFF",
     "license": "https://www.eff.org/copyright",
@@ -394,6 +414,15 @@
     "description": "EFF.org hexagon Logo",
     "raster": "http://hexb.in/hexagons/eff.png",
     "filename": "meta/eff.json"
+  },
+  {
+    "name": "fedora",
+    "author": "matt carter",
+    "license": "https://fedoraproject.org/wiki/Logo",
+    "raster": "http://hexb.in/hexagons/fedora.png",
+    "vector": "http://hexb.in/vector/fedora.svg",
+    "description": "https://getfedora.org",
+    "filename": "meta/fedora.json"
   },
   {
     "name": "freemanlab",
@@ -445,8 +474,19 @@
     "license": "mit",
     "vector": "http://hexb.in/vector/gulp.svg",
     "description": "GulpJS",
+    "order_online_url": "https://www.stickermule.com/marketplace/13509-gulpjs",
     "raster": "http://hexb.in/hexagons/gulp.png",
     "filename": "meta/gulp.json"
+  },
+  {
+    "name": "hearing_things",
+    "author": "Ruxton",
+    "license": "CC-BY-NC-ND",
+    "raster": "http://hexb.in/hexagons/hearing_things.png",
+    "vector": "http://hexb.in/vector/hearing_things.svg",
+    "description": "Hearing Things - A record label/music collective from Perth, Western Australia - http://hearingthings.com.au",
+    "order_online_url": "http://hearingthings.com.au",
+    "filename": "meta/hearing_things.json"
   },
   {
     "name": "icelandjs",
@@ -491,6 +531,7 @@
     "license": "MIT",
     "vector": "http://hexb.in/vector/javascript.svg",
     "description": "JavaScript scripting language",
+    "order_online_url": "https://www.stickermule.com/marketplace/13530-javascript-hex-sticker",
     "raster": "http://hexb.in/hexagons/javascript.png",
     "filename": "meta/javascript.json"
   },
@@ -549,6 +590,24 @@
     "filename": "meta/mapzen.json"
   },
   {
+    "name": "meinanutshell-logo",
+    "author": "Me In a Nutshell",
+    "license": "CC-BY-SA",
+    "raster": "http://hexb.in/hexagons/meinanutshell-logo.png",
+    "vector": "http://hexb.in/vector/meinanutshell-logo.svg",
+    "description": "Logo for Me In a Nutshell http://www.meinanutshell.com",
+    "filename": "meta/meinanutshell-logo.json"
+  },
+  {
+    "name": "meinanutshell-nut",
+    "author": "Me In a Nutshell",
+    "license": "CC-BY-SA",
+    "raster": "http://hexb.in/hexagons/meinanutshell-nut.png",
+    "vector": "http://hexb.in/vector/meinanutshell-nut.svg",
+    "description": "Me In a Nutshell Nut http://www.meinanutshell.com",
+    "filename": "meta/meinanutshell-nut.json"
+  },
+  {
     "name": "metamask",
     "author": "Dan Finlay",
     "license": "CC BY-NC-SA 4.0",
@@ -565,6 +624,26 @@
     "filename": "meta/minaswan.json"
   },
   {
+    "name": "momsfriendlydevco",
+    "author": "matt carter",
+    "license": "mit",
+    "vector": "http://hexb.in/vector/momsfriendlydevco.svg",
+    "description": "http://mfdc.biz",
+    "order_online_url": "https://www.stickermule.com/marketplace/13987-moms-fiendly-dev-co-hex-sticker",
+    "raster": "http://hexb.in/hexagons/momsfriendlydevco.png",
+    "filename": "meta/momsfriendlydevco.json"
+  },
+  {
+    "name": "mongodb",
+    "author": "matt carter",
+    "license": "MIT",
+    "vector": "http://hexb.in/vector/mongodb.svg",
+    "description": "http://www.mongodb.com",
+    "order_online_url": "https://www.stickermule.com/marketplace/13988-mongodb-hex-sticker",
+    "raster": "http://hexb.in/hexagons/mongodb.png",
+    "filename": "meta/mongodb.json"
+  },
+  {
     "name": "move-slow",
     "author": "laurie kemmerer",
     "license": "CC0",
@@ -579,6 +658,24 @@
     "vector": "http://hexb.in/vector/nodejs.pdf",
     "raster": "http://hexb.in/hexagons/nodejs.png",
     "filename": "meta/nodejs.json"
+  },
+  {
+    "name": "nodejs",
+    "author": "matt carter and nodejs.org",
+    "license": "nodejs.org/about/trademark",
+    "vector": "http://hexb.in/vector/nodejs2.svg",
+    "raster": "http://hexb.in/hexagons/nodejs2.png",
+    "filename": "meta/nodejs2.json"
+  },
+  {
+    "name": "nodemon",
+    "author": "matt carter",
+    "license": "mit",
+    "vector": "http://hexb.in/vector/nodemon.svg",
+    "description": "http://nodemon.io",
+    "order_online_url": "https://www.stickermule.com/marketplace/13989-nodemon-hex-sticker",
+    "raster": "http://hexb.in/hexagons/nodemon.png",
+    "filename": "meta/nodemon.json"
   },
   {
     "name": "nodeschool-bcn",
@@ -910,6 +1007,24 @@
     "filename": "meta/sudoroom.json"
   },
   {
+    "name": "tessel",
+    "author": "Tessel Project",
+    "license": "MIT",
+    "raster": "http://hexb.in/hexagons/tessel.png",
+    "vector": "http://hexb.in/vector/tessel.svg",
+    "description": "Tessel is a hardware platform designed for Node.js.",
+    "filename": "meta/tessel.json"
+  },
+  {
+    "name": "ubuntu",
+    "author": "matt carter",
+    "license": "https://wiki.ubuntu.com/Artwork/VisualIdentity",
+    "raster": "http://hexb.in/hexagons/ubuntu.png",
+    "vector": "http://hexb.in/vector/ubuntu.svg",
+    "description": "http://www.ubuntu.com",
+    "filename": "meta/ubuntu.json"
+  },
+  {
     "name": "wavedrom",
     "author": "Aliaksei Chapyzhenka",
     "license": "CC0",
@@ -918,6 +1033,15 @@
     "order_online_url": "http://www.stickermule.com/marketplace/10119-wavedrom",
     "raster": "http://hexb.in/hexagons/wavedrom.png",
     "filename": "meta/wavedrom.json"
+  },
+  {
+    "name": "wireshark",
+    "author": "matt carter",
+    "license": "MIT",
+    "vector": "http://hexb.in/vector/wireshark.svg",
+    "description": "https://www.wireshark.org",
+    "raster": "http://hexb.in/hexagons/wireshark.png",
+    "filename": "meta/wireshark.json"
   },
   {
     "name": "yargs",

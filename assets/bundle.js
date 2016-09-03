@@ -8,7 +8,7 @@ $.getJSON('assets/data.json', function (data) {
     var img = $('<img />', {
       'class': 'hex',
       'src': val.raster,
-      'alt': val.description
+      'alt': val.description,
     })
 
     $('<a />', {

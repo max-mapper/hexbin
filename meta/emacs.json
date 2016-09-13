@@ -1,0 +1,9 @@
+{
+  "name": "emacs",
+  "author": "Florian Adamsky and Nicolas Petton",
+  "license": "GPL",
+  "raster": "http://hexb.in/hexagons/emacs.png",
+  "vector": "http://hexb.in/vector/emacs.svg",
+  "description": "The one true editor: Emacs",
+  "filename": "meta/emacs.json"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "webtorrent",
+  "author": "Feross Aboukhadijeh",
+  "license": "MIT",
+  "raster": "http://hexb.in/hexagons/webtorrent.png",
+  "vector": "http://hexb.in/vector/webtorrent.svg",
+  "description": "Streaming torrent client for the web",
+  "filename": "meta/webtorrent.json",
+  "order_online_url": "https://www.stickermule.com/marketplace/10531-webtorrent-v2"
+}

@@ -469,6 +469,15 @@
     "filename": "meta/gl-como.json"
   },
   {
+    "name": "groovy",
+    "author": "Soeren Glasius",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/groovy.png",
+    "vector": "http://hexb.in/vector/groovy.svg",
+    "description": "The Apache Groovy Logo",
+    "filename": "meta/groovy.json"
+  },
+  {
     "name": "gulp",
     "author": "matt carter",
     "license": "mit",
@@ -993,10 +1002,21 @@
     "name": "standard",
     "author": "Feross Aboukhadijeh",
     "license": "MIT",
+    "raster": "http://hexb.in/hexagons/standard.png",
     "vector": "http://hexb.in/vector/standard.svg",
     "description": "JavaScript Standard Style",
-    "raster": "http://hexb.in/hexagons/standard.png",
-    "filename": "meta/standard.json"
+    "filename": "meta/standard.json",
+    "order_online_url": "https://www.stickermule.com/marketplace/10199-javascript-standard-style"
+  },
+  {
+    "name": "studynotes",
+    "author": "Feross Aboukhadijeh",
+    "license": "-",
+    "raster": "http://hexb.in/hexagons/studynotes.png",
+    "vector": "http://hexb.in/vector/studynotes.svg",
+    "description": "Fast, free study guides",
+    "filename": "meta/studynotes.json",
+    "order_online_url": "https://www.stickermule.com/marketplace/10341-study-notes"
   },
   {
     "name": "sudoroom",
@@ -1033,6 +1053,26 @@
     "order_online_url": "http://www.stickermule.com/marketplace/10119-wavedrom",
     "raster": "http://hexb.in/hexagons/wavedrom.png",
     "filename": "meta/wavedrom.json"
+  },
+  {
+    "name": "webtorrent-desktop",
+    "author": "Feross Aboukhadijeh",
+    "license": "MIT",
+    "raster": "http://hexb.in/hexagons/webtorrent-desktop.png",
+    "vector": "http://hexb.in/vector/webtorrent-desktop.svg",
+    "description": "Streaming torrent app for Mac, Windows, Linux",
+    "filename": "meta/webtorrent-desktop.json",
+    "order_online_url": "https://www.stickermule.com/marketplace/12336-webtorrent-desktop"
+  },
+  {
+    "name": "webtorrent",
+    "author": "Feross Aboukhadijeh",
+    "license": "MIT",
+    "raster": "http://hexb.in/hexagons/webtorrent.png",
+    "vector": "http://hexb.in/vector/webtorrent.svg",
+    "description": "Streaming torrent client for the web",
+    "filename": "meta/webtorrent.json",
+    "order_online_url": "https://www.stickermule.com/marketplace/10531-webtorrent-v2"
   },
   {
     "name": "wireshark",

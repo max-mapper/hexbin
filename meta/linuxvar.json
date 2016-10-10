@@ -1,0 +1,8 @@
+{
+  "name": "linuxvar",
+  "author": "Riccardo Macoratti, valhalla",
+  "license": "CC-NC-SA",
+  "raster": "http://hexb.in/hexagons/linuxvar.png",
+  "vector": "http://hexb.in/vector/linuxvar.svg",
+  "description": "Logo for the LinuxVar LUG http://linuxvar.it/"
+}

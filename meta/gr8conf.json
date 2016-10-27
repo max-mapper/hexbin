@@ -3,6 +3,6 @@
   "author": "Soeren Glasius (GR8Conf Organizer)",
   "license": "CC0",
   "raster": "http://hexb.in/hexagons/gr8conf.png",
-  "vector": "http://hexb.in/vector/gr8conf.ai",
-  "description": "GR8Conf - The 'All Things Groovy' conference",
+  "vector": "http://hexb.in/vector/gr8conf.svg",
+  "description": "GR8Conf - The 'All Things Groovy' conference"
 }

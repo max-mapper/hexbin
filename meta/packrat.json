@@ -1,0 +1,9 @@
+{
+  "name": "packrat",
+  "author": "rstudio",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/packrat.png",
+  "vector": "http://hexb.in/vector/packrat.svg",
+  "description": "packrat: A Dependency Management System for Projects and their R Package Dependencies.",
+  "order_online_url": "https://www.stickermule.com/marketplace/"
+}

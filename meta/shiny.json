@@ -1,0 +1,9 @@
+{
+  "name": "shiny",
+  "author": "rstudio",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/shiny.png",
+  "vector": "http://hexb.in/vector/shiny.svg",
+  "description": "shiny: Web Application Framework for R.",
+  "order_online_url": "https://www.stickermule.com/marketplace/"
+}

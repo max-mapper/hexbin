@@ -1,0 +1,9 @@
+{
+  "name": "purrr",
+  "author": "rstudio",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/purrr.png",
+  "vector": "http://hexb.in/vector/purrr.svg",
+  "description": "purrr: Functional Programming Tools.",
+  "order_online_url": "https://www.stickermule.com/marketplace/"
+}

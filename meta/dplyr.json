@@ -1,0 +1,9 @@
+{
+  "name": "dplyr",
+  "author": "rstudio",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/dplyr.png",
+  "vector": "http://hexb.in/vector/dplyr.svg",
+  "description": "dplyr: A Grammar of Data Manipulation.",
+  "order_online_url": "https://www.stickermule.com/marketplace/"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "devtools",
+  "author": "rstudio",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/devtools.png",
+  "vector": "http://hexb.in/vector/devtools.svg",
+  "description": "devtools: Tools to Make Developing R Packages Easier.",
+  "order_online_url": "https://www.stickermule.com/marketplace/"
+}

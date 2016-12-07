@@ -1,0 +1,9 @@
+{
+  "name": "broom",
+  "author": "Stefan Milton Bache and Hadley Wickham",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/broom.png",
+  "vector": "http://hexb.in/vector/broom.svg",
+  "description": "broom: Convert Statistical Analysis Objects into Tidy Data Frames.",
+  "order_online_url": "https://www.stickermule.com/marketplace/"
+}

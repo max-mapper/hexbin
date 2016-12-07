@@ -1,0 +1,9 @@
+{
+  "name": "roxygen2",
+  "author": "rstudio",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/roxygen2.png",
+  "vector": "http://hexb.in/vector/roxygen2.svg",
+  "description": "roxygen2: In-Source Documentation for R.",
+  "order_online_url": "https://www.stickermule.com/marketplace/"
+}

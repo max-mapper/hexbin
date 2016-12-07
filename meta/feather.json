@@ -1,0 +1,9 @@
+{
+  "name": "feather",
+  "author": "rstudio",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/feather.png",
+  "vector": "http://hexb.in/vector/feather.svg",
+  "description": "feather: R Bindings to the Feather 'API'.",
+  "order_online_url": "https://www.stickermule.com/marketplace/"
+}

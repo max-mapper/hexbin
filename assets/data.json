@@ -83,6 +83,16 @@
     "filename": "meta/blacklight.json"
   },
   {
+    "name": "broom",
+    "author": "Stefan Milton Bache and Hadley Wickham",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/broom.png",
+    "vector": "http://hexb.in/vector/broom.svg",
+    "description": "broom: Convert Statistical Analysis Objects into Tidy Data Frames.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/broom.json"
+  },
+  {
     "name": "browserify",
     "author": "substack and maxogden",
     "license": "BSD",
@@ -379,6 +389,16 @@
     "filename": "meta/debian.json"
   },
   {
+    "name": "devtools",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/devtools.png",
+    "vector": "http://hexb.in/vector/devtools.svg",
+    "description": "devtools: Tools to Make Developing R Packages Easier.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/devtools.json"
+  },
+  {
     "name": "District Taco",
     "author": "Christopher Sexton",
     "license": "CC 4.0 BY NC ND",
@@ -395,6 +415,16 @@
     "description": "Democratic Order of Planets",
     "raster": "http://hexb.in/hexagons/doop.png",
     "filename": "meta/doop.json"
+  },
+  {
+    "name": "dplyr",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/dplyr.png",
+    "vector": "http://hexb.in/vector/dplyr.svg",
+    "description": "dplyr: A Grammar of Data Manipulation.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/dplyr.json"
   },
   {
     "name": "edtech-hamburg",
@@ -416,6 +446,16 @@
     "filename": "meta/eff.json"
   },
   {
+    "name": "feather",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/feather.png",
+    "vector": "http://hexb.in/vector/feather.svg",
+    "description": "feather: R Bindings to the Feather 'API'.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/feather.json"
+  },
+  {
     "name": "fedora",
     "author": "matt carter",
     "license": "https://fedoraproject.org/wiki/Logo",
@@ -423,6 +463,16 @@
     "vector": "http://hexb.in/vector/fedora.svg",
     "description": "https://getfedora.org",
     "filename": "meta/fedora.json"
+  },
+  {
+    "name": "forcats",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/forcats.png",
+    "vector": "http://hexb.in/vector/forcats.svg",
+    "description": "forcats: Tools for Working with Categorical Variables (Factors).",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/forcats.json"
   },
   {
     "name": "freemanlab",
@@ -460,6 +510,16 @@
     "filename": "meta/geohipster.json"
   },
   {
+    "name": "ggplot2",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/ggplot2.png",
+    "vector": "http://hexb.in/vector/ggplot2.svg",
+    "description": "ggplot2: Create Elegant Data Visualisations Using the Grammar of Graphics.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/ggplot2.json"
+  },
+  {
     "name": "gl-como",
     "author": "Fabrixxm, valhalla",
     "license": "CC-BY-SA",
@@ -488,6 +548,16 @@
     "filename": "meta/gulp.json"
   },
   {
+    "name": "haven",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/haven.png",
+    "vector": "http://hexb.in/vector/haven.svg",
+    "description": "haven: Import and Export 'SPSS', 'Stata' and 'SAS' Files.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/haven.json"
+  },
+  {
     "name": "hearing_things",
     "author": "Ruxton",
     "license": "CC-BY-NC-ND",
@@ -496,6 +566,16 @@
     "description": "Hearing Things - A record label/music collective from Perth, Western Australia - http://hearingthings.com.au",
     "order_online_url": "http://hearingthings.com.au",
     "filename": "meta/hearing_things.json"
+  },
+  {
+    "name": "hms",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/hms.png",
+    "vector": "http://hexb.in/vector/hms.svg",
+    "description": "hms: Pretty Time of Day.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/hms.json"
   },
   {
     "name": "icelandjs",
@@ -563,6 +643,16 @@
     "filename": "meta/jsgirls.json"
   },
   {
+    "name": "knitr",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/knitr.png",
+    "vector": "http://hexb.in/vector/knitr.svg",
+    "description": "knitr: A General-Purpose Package for Dynamic Report Generation in R.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/knitr.json"
+  },
+  {
     "name": "kopijs",
     "author": "cheeaun",
     "license": "MIT",
@@ -579,6 +669,16 @@
     "order_online_url": "",
     "raster": "http://hexb.in/hexagons/loowid.png",
     "filename": "meta/loowid.json"
+  },
+  {
+    "name": "lubridate",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/lubridate.png",
+    "vector": "http://hexb.in/vector/lubridate.svg",
+    "description": "lubridate: Make Dealing with Dates a Little Easier.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/lubridate.json"
   },
   {
     "name": "magrittr",
@@ -880,12 +980,32 @@
     "filename": "meta/openshift.json"
   },
   {
+    "name": "packrat",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/packrat.png",
+    "vector": "http://hexb.in/vector/packrat.svg",
+    "description": "packrat: A Dependency Management System for Projects and their R Package Dependencies.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/packrat.json"
+  },
+  {
     "name": "pdxnode",
     "author": "chris dickinson",
     "license": "MIT",
     "vector": "http://hexb.in/vector/pdxnode.svg",
     "raster": "http://hexb.in/hexagons/pdxnode.png",
     "filename": "meta/pdxnode.json"
+  },
+  {
+    "name": "pipe",
+    "author": "David Robinson",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/pipe.png",
+    "vector": "http://hexb.in/vector/pipe.svg",
+    "description": "magrittr: A Forward-Pipe Operator for R.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/pipe.json"
   },
   {
     "name": "piratenpartei",
@@ -896,6 +1016,16 @@
     "description": "hex version of the pirate party germany logo",
     "order_online_url": "http://shop.piratenpartei.de",
     "filename": "meta/piratenpartei.json"
+  },
+  {
+    "name": "plumber",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/plumber.png",
+    "vector": "http://hexb.in/vector/plumber.svg",
+    "description": "plumber: An API Generator for R.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/plumber.json"
   },
   {
     "name": "poisotlab",
@@ -935,6 +1065,16 @@
     "filename": "meta/pubnub.json"
   },
   {
+    "name": "purrr",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/purrr.png",
+    "vector": "http://hexb.in/vector/purrr.svg",
+    "description": "purrr: Functional Programming Tools.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/purrr.json"
+  },
+  {
     "name": "rangle-logo",
     "author": "Neil Fenton",
     "license": "CC0",
@@ -942,6 +1082,16 @@
     "description": "RANGLE.IO",
     "raster": "http://hexb.in/hexagons/rangle.png",
     "filename": "meta/rangle.json"
+  },
+  {
+    "name": "readr",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/readr.png",
+    "vector": "http://hexb.in/vector/readr.svg",
+    "description": "readr: Read Tabular Data.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/readr.json"
   },
   {
     "name": "repositive",
@@ -972,6 +1122,16 @@
     "filename": "meta/rhus.json"
   },
   {
+    "name": "rmarkdown",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/rmarkdown.png",
+    "vector": "http://hexb.in/vector/rmarkdown.svg",
+    "description": "rmarkdown: Dynamic Documents for R.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/rmarkdown.json"
+  },
+  {
     "name": "rOpenSCi",
     "author": "Karthik Ram",
     "license": "CC0",
@@ -979,6 +1139,26 @@
     "description": "The rOpenSci project. http://ropensci.org",
     "raster": "http://hexb.in/hexagons/ropensci.png",
     "filename": "meta/ropensci.json"
+  },
+  {
+    "name": "roxygen2",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/roxygen2.png",
+    "vector": "http://hexb.in/vector/roxygen2.svg",
+    "description": "roxygen2: In-Source Documentation for R.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/roxygen2.json"
+  },
+  {
+    "name": "rstudio",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/rstudio.png",
+    "vector": "http://hexb.in/vector/rstudio.svg",
+    "description": "Open source and enterprise-ready professional software for R.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/rstudio.json"
   },
   {
     "name": "rtcio",
@@ -999,6 +1179,36 @@
     "filename": "meta/rubyforgood.json"
   },
   {
+    "name": "rvest",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/rvest.png",
+    "vector": "http://hexb.in/vector/rvest.svg",
+    "description": "rvest: Easily Harvest (Scrape) Web Pages.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/rvest.json"
+  },
+  {
+    "name": "shiny",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/shiny.png",
+    "vector": "http://hexb.in/vector/shiny.svg",
+    "description": "shiny: Web Application Framework for R.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/shiny.json"
+  },
+  {
+    "name": "sparklyr",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/sparklyr.png",
+    "vector": "http://hexb.in/vector/sparklyr.svg",
+    "description": "sparklyr: R Interface to Apache Spark.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/sparklyr.json"
+  },
+  {
     "name": "standard",
     "author": "Feross Aboukhadijeh",
     "license": "MIT",
@@ -1007,6 +1217,16 @@
     "description": "JavaScript Standard Style",
     "filename": "meta/standard.json",
     "order_online_url": "https://www.stickermule.com/marketplace/10199-javascript-standard-style"
+  },
+  {
+    "name": "stringr",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/stringr.png",
+    "vector": "http://hexb.in/vector/stringr.svg",
+    "description": "stringr: Simple, Consistent Wrappers for Common String Operations.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/stringr.json"
   },
   {
     "name": "studynotes",
@@ -1034,6 +1254,36 @@
     "vector": "http://hexb.in/vector/tessel.svg",
     "description": "Tessel is a hardware platform designed for Node.js.",
     "filename": "meta/tessel.json"
+  },
+  {
+    "name": "testthat",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/testthat.png",
+    "vector": "http://hexb.in/vector/testthat.svg",
+    "description": "testthat: Unit Testing for R.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/testthat.json"
+  },
+  {
+    "name": "tibble",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/tibble.png",
+    "vector": "http://hexb.in/vector/tibble.svg",
+    "description": "tibble: Simple Data Frames.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/tibble.json"
+  },
+  {
+    "name": "tidyr",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/tidyr.png",
+    "vector": "http://hexb.in/vector/tidyr.svg",
+    "description": "tidyr: Easily Tidy Data with 'spread()' and 'gather()' Functions.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/tidyr.json"
   },
   {
     "name": "ubuntu",

@@ -75,14 +75,8 @@ module.exports = function (opts, hexes) {
             y: defined(opts.offsetTop, 0)
         };
     }
-    var initRow = defined(opts.initRow, 0);
-    initRow = parseInt(initRow, 10);
-    if (initRow > 1) initRow = 1;
-    if (initRow < 0) initRow = 0;
-
-    var x = (initRow === 1) ? (hsize.width / 2) + (spacing / 2) : 0;
-    var y = 0;
-    var row = initRow;
+    
+    var x = 0, y = 0, row = 0;
     var results = [], points = [];
     for (var i = 0; i < hexes.length; i++) {
         var hex = hexes[i];
@@ -92,7 +86,7 @@ module.exports = function (opts, hexes) {
             hex.style.top = y;
         }
         results.push({ x: x, y: y });
-
+        
         var hw = hsize.width / 2, hh = hsize.height / 2;
         var cx = x + hw, cy = y + hh;
         var pts = [
@@ -104,12 +98,12 @@ module.exports = function (opts, hexes) {
             [ cx - hw, cy - hh / 2 ]
         ];
         points.push(pts);
-
+        
         x += hsize.width + spacing;
         if (x > rsize.width - hsize.width) {
             y += Math.floor(hsize.height * 3/4) + spacing;
             row ++;
-            x = (row % 2 ? (hsize.width / 2) + (spacing / 2) : 0);
+            x = (row % 2 ? hsize.width / 2 : 0) + (spacing / 2);
         }
     }
     var res = {

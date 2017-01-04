@@ -1,0 +1,9 @@
+{
+  "name": "hms",
+  "author": "rstudio",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/hms.png",
+  "vector": "http://hexb.in/vector/hms.svg",
+  "description": "hms: Pretty Time of Day.",
+  "order_online_url": "https://www.stickermule.com/marketplace/"
+}

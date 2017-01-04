@@ -1,0 +1,9 @@
+{
+  "name": "rstudio",
+  "author": "rstudio",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/rstudio.png",
+  "vector": "http://hexb.in/vector/rstudio.svg",
+  "description": "Open source and enterprise-ready professional software for R.",
+  "order_online_url": "https://www.stickermule.com/marketplace/"
+}

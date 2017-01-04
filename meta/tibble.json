@@ -1,0 +1,9 @@
+{
+  "name": "tibble",
+  "author": "rstudio",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/tibble.png",
+  "vector": "http://hexb.in/vector/tibble.svg",
+  "description": "tibble: Simple Data Frames.",
+  "order_online_url": "https://www.stickermule.com/marketplace/"
+}

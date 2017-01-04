@@ -1,0 +1,9 @@
+{
+  "name": "testthat",
+  "author": "rstudio",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/testthat.png",
+  "vector": "http://hexb.in/vector/testthat.svg",
+  "description": "testthat: Unit Testing for R.",
+  "order_online_url": "https://www.stickermule.com/marketplace/"
+}

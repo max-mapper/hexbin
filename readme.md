@@ -21,6 +21,7 @@ a community curated list of hexagon logos
   "order_online_url": "this is optional. should be a link to where people can buy the sticker online"
 }
 ```
+- add your hexagon to the bottom of the hexagon list in the json (`assets/data.json`). make sure the link points at your meta file.
 
 make sure `name` only has lowercase letters, numbers and hyphens
 

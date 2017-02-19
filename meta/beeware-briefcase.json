@@ -1,0 +1,8 @@
+{
+  "name": "beeware-briefcase",
+  "author": "Russell Keith-Magee",
+  "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License",
+  "raster": "http://hexb.in/hexagons/beeware-briefcase.png",
+  "vector": "http://hexb.in/vector/beeware-briefcase.svg",
+  "description": "A distutils plugin for deploying Python projects as standalone apps",
+}

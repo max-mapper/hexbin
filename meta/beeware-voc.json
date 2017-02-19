@@ -1,0 +1,9 @@
+{
+  "name": "beeware-voc",
+  "author": "Russell Keith-Magee",
+  "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License",
+  "raster": "http://hexb.in/hexagons/beeware-voc.png",
+  "vector": "http://hexb.in/vector/beeware-voc.svg",
+  "description": "A compiler to convert Python source into Java class files",
+  "order_online_url": "https://www.stickermule.com/en/marketplace/16911-hex-voc"
+}

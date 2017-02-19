@@ -1,0 +1,9 @@
+{
+  "name": "beeware-batavia",
+  "author": "Russell Keith-Magee",
+  "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License",
+  "raster": "http://hexb.in/hexagons/beeware-batavia.png",
+  "vector": "http://hexb.in/vector/beeware-batavia.svg",
+  "description": "A Python runtime written in Javascript, for use in browsers",
+  "order_online_url": "https://www.stickermule.com/en/marketplace/16912-hex-batavia"
+}

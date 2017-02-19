@@ -1,0 +1,8 @@
+{
+  "name": "beeware-beefore",
+  "author": "Russell Keith-Magee",
+  "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License",
+  "raster": "http://hexb.in/hexagons/beeware-beefore.png",
+  "vector": "http://hexb.in/vector/beeware-beefore.svg",
+  "description": "Automated premerge checks for open source projects with Github reporting",
+}

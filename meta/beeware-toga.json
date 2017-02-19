@@ -1,0 +1,9 @@
+{
+  "name": "beeware-toga",
+  "author": "Russell Keith-Magee",
+  "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License",
+  "raster": "http://hexb.in/hexagons/beeware-toga.png",
+  "vector": "http://hexb.in/vector/beeware-toga.svg",
+  "description": "A cross platform native user interface toolkit",
+  "order_online_url": "https://www.stickermule.com/en/marketplace/16913-hex-toga"
+}

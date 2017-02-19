@@ -1,0 +1,9 @@
+{
+  "name": "beeware-podium",
+  "author": "Russell Keith-Magee",
+  "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License",
+  "raster": "http://hexb.in/hexagons/beeware-podium.png",
+  "vector": "http://hexb.in/vector/beeware-podium.svg",
+  "description": "A presentation tool for programmers",
+  "order_online_url": "https://www.stickermule.com/en/marketplace/16917-hex-podium"
+}

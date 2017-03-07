@@ -3,5 +3,7 @@
   "author": "eileen wagner",
   "license": "CC0",
   "vector": "http://hexb.in/vector/CodeForBonn.svg",
-  "description": "code for bonn!"
+  "description": "code for bonn!",
+  "raster": "http://hexb.in/hexagons/CodeForBonn.png",
+  "filename": "meta/codefor-bonn.json"
 }

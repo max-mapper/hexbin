@@ -2,5 +2,7 @@
   "name": "move-slow",
   "author": "laurie kemmerer",
   "license": "CC0",
-  "vector": "http://hexb.in/vector/move-slow.svg"
+  "vector": "http://hexb.in/vector/move-slow.svg",
+  "raster": "http://hexb.in/hexagons/move-slow.png",
+  "filename": "meta/move-slow.json"
 }

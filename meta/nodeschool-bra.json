@@ -3,5 +3,7 @@
   "author": "d14",
   "license": "CC 4.0 BY NC SA",
   "vector": "http://hexb.in/vector/nodeschool-bra.svg",
-  "description": "NodeSchool in Bratislava, Slovakia - https://github.com/nodeschool/bratislava"
+  "description": "NodeSchool in Bratislava, Slovakia - https://github.com/nodeschool/bratislava",
+  "raster": "http://hexb.in/hexagons/nodeschool-bra.png",
+  "filename": "meta/nodeschool-bra.json"
 }

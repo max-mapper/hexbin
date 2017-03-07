@@ -1,0 +1,10 @@
+{
+  "name": "angular",
+  "author": "matt carter",
+  "license": "MIT",
+  "vector": "http://hexb.in/vector/angular.svg",
+  "description": "AngularJS",
+  "order_online_url": "https://www.stickermule.com/marketplace/14020-angularjs-hex-sticker",
+  "raster": "http://hexb.in/hexagons/angular.png",
+  "filename": "meta/angular.json"
+}

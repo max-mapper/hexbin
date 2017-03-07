@@ -1,0 +1,8 @@
+{
+  "name": "ubuntu",
+  "author": "matt carter",
+  "license": "https://wiki.ubuntu.com/Artwork/VisualIdentity",
+  "raster": "http://hexb.in/hexagons/ubuntu.png",
+  "vector": "http://hexb.in/vector/ubuntu.svg",
+  "description": "http://www.ubuntu.com"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "lubridate",
+  "author": "rstudio",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/lubridate.png",
+  "vector": "http://hexb.in/vector/lubridate.svg",
+  "description": "lubridate: Make Dealing with Dates a Little Easier.",
+  "order_online_url": "https://www.stickermule.com/marketplace/"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "piratepartyEU",
+  "author": "@PiraToRo",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/ppeu.png",
+  "vector": "http://hexb.in/vector/ppeu.svg",
+  "description": "hex version of the european pirate party logo",
+  "order_online_url": "http://shop.piratenpartei.de"
+}

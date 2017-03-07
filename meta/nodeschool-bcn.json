@@ -1,0 +1,9 @@
+{
+  "name": "nodeschool-bcn",
+  "author": "belenpoyo",
+  "license": "MIT",
+  "vector": "http://hexb.in/vector/nodeschool-bcn.svg",
+  "description": "NodeSchool Barcelona",
+  "raster": "http://hexb.in/hexagons/nodeschool-bcn.png",
+  "filename": "meta/nodeschool-bcn.json"
+}

@@ -2,5 +2,6 @@
   "name": "iojs",
   "author": "substack",
   "license": "CC0",
-  "vector": "http://hexb.in/vector/iojs.pdf"
+  "vector": "http://hexb.in/vector/iojs.pdf",
+  "raster": "http://hexb.in/hexagons/iojs.png"
 }

@@ -1,0 +1,10 @@
+{
+  "name": "studynotes",
+  "author": "Feross Aboukhadijeh",
+  "license": "-",
+  "raster": "http://hexb.in/hexagons/studynotes.png",
+  "vector": "http://hexb.in/vector/studynotes.svg",
+  "description": "Fast, free study guides",
+  "filename": "meta/studynotes.json",
+  "order_online_url": "https://www.stickermule.com/marketplace/10341-study-notes"
+}

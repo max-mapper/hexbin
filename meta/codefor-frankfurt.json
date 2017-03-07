@@ -3,5 +3,7 @@
   "author": "eileen wagner",
   "license": "CC0",
   "vector": "http://hexb.in/vector/CodeForFrankfurt.svg",
-  "description": "code for frankfurt!"
+  "description": "code for frankfurt!",
+  "raster": "http://hexb.in/hexagons/CodeForFrankfurt.png",
+  "filename": "meta/codefor-frankfurt.json"
 }

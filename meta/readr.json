@@ -1,0 +1,9 @@
+{
+  "name": "readr",
+  "author": "rstudio",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/readr.png",
+  "vector": "http://hexb.in/vector/readr.svg",
+  "description": "readr: Read Tabular Data.",
+  "order_online_url": "https://www.stickermule.com/marketplace/"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "arcticjs",
+  "author": "Feross Aboukhadijeh",
+  "license": "MIT",
+  "vector": "http://hexb.in/vector/arcticjs.svg",
+  "description": "JavaScript conference in Longyearbyen, Svalbard, 78° North",
+  "raster": "http://hexb.in/hexagons/arcticjs.png",
+  "filename": "meta/arcticjs.json"
+}

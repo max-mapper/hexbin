@@ -2,5 +2,6 @@
   "name": "browserify",
   "author": "substack and maxogden",
   "license": "BSD",
-  "vector": "http://hexb.in/vector/browserify.pdf"
+  "vector": "http://hexb.in/vector/browserify.pdf",
+  "raster": "http://hexb.in/hexagons/browserify.png"
 }

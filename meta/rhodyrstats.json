@@ -1,0 +1,8 @@
+{
+  "name": "rhodyrstats",
+  "author": "jeff hollister",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/rhodyrstats.png",
+  "vector": "http://hexb.in/vector/rhodyrstats.svg",
+  "description": "Rhode Island R study group: http://rhodyrstats.org"
+}

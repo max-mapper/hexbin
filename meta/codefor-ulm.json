@@ -3,5 +3,7 @@
   "author": "eileen wagner",
   "license": "CC0",
   "vector": "http://hexb.in/vector/CodeForUlm.svg",
-  "description": "code for ulm!"
+  "description": "code for ulm!",
+  "raster": "http://hexb.in/hexagons/CodeForUlm.png",
+  "filename": "meta/codefor-ulm.json"
 }

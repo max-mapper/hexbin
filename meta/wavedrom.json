@@ -4,5 +4,7 @@
   "license": "CC0",
   "vector": "http://hexb.in/vector/wavedrom.svg",
   "description": "Digital Timing Diagram everywhere",
-  "order_online_url": "http://www.stickermule.com/marketplace/10119-wavedrom"
+  "order_online_url": "http://www.stickermule.com/marketplace/10119-wavedrom",
+  "raster": "http://hexb.in/hexagons/wavedrom.png",
+  "filename": "meta/wavedrom.json"
 }

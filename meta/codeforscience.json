@@ -2,5 +2,7 @@
   "name": "codeforscience",
   "author": "freemanlab and maxogden",
   "license": "CC0",
-  "vector": "http://hexb.in/vector/codeforscience.svg"
+  "vector": "http://hexb.in/vector/codeforscience.svg",
+  "raster": "http://hexb.in/hexagons/codeforscience.png",
+  "filename": "meta/codeforscience.json"
 }

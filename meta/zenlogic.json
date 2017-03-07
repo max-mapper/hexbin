@@ -3,5 +3,7 @@
   "author": "vanx2",
   "license": "CC0",
   "vector": "http://hexb.in/vector/zenlogic.svg",
-  "description": "web hosting"
+  "description": "web hosting",
+  "raster": "http://hexb.in/hexagons/zenlogic.png",
+  "filename": "meta/zenlogic.json"
 }

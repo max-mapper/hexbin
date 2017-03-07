@@ -3,5 +3,7 @@
   "author": "Ben Coe",
   "license": "MIT",
   "vector": "http://hexb.in/vector/yargs.svg",
-  "description": "Yargs be a node.js library fer hearties tryin' ter parse optstrings."
+  "description": "Yargs be a node.js library fer hearties tryin' ter parse optstrings.",
+  "raster": "http://hexb.in/hexagons/yargs.png",
+  "filename": "meta/yargs.json"
 }

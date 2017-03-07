@@ -3,5 +3,7 @@
   "author": "eileen wagner",
   "license": "CC0",
   "vector": "http://hexb.in/vector/CodeForMuenchen.svg",
-  "description": "code for muenchen!"
+  "description": "code for muenchen!",
+  "raster": "http://hexb.in/hexagons/CodeForMuenchen.png",
+  "filename": "meta/codefor-muenchen.json"
 }

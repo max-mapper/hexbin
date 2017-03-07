@@ -3,5 +3,7 @@
   "author": "eileen wagner",
   "license": "CC0",
   "vector": "http://hexb.in/vector/CodeForWuppertal.svg",
-  "description": "code for wuppertal!"
+  "description": "code for wuppertal!",
+  "raster": "http://hexb.in/hexagons/CodeForWuppertal.png",
+  "filename": "meta/codefor-wuppertal.json"
 }

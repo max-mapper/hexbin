@@ -3,5 +3,7 @@
   "author": "hikarock",
   "license": "MIT",
   "vector": "http://hexb.in/vector/casto.svg",
-  "description": "http://ca.storyboards.jp/"
+  "description": "http://ca.storyboards.jp/",
+  "raster": "http://hexb.in/hexagons/casto.png",
+  "filename": "meta/casto.json"
 }

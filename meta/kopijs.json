@@ -2,5 +2,7 @@
   "name": "kopijs",
   "author": "cheeaun",
   "license": "MIT",
-  "vector": "http://hexb.in/vector/kopijs.svg"
+  "vector": "http://hexb.in/vector/kopijs.svg",
+  "raster": "http://hexb.in/hexagons/kopijs.png",
+  "filename": "meta/kopijs.json"
 }

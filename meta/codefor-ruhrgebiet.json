@@ -1,0 +1,9 @@
+{
+  "name": "codefor-ruhrgebiet",
+  "author": "Phil Ninh",
+  "license": "CC0",
+  "vector": "http://hexb.in/vector/CodeForRuhrgebiet.svg",
+  "description": "Code for Ruhrgebiet!",
+  "raster": "http://hexb.in/hexagons/CodeForRuhrgebiet.png",
+  "filename": "meta/codefor-ruhrgebiet.json"
+}

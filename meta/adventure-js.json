@@ -1,0 +1,9 @@
+{
+  "name": "adventure-js",
+  "author": "Stephen Whitmore",
+  "license": "MIT",
+  "vector": "http://hexb.in/vector/adventure-js.svg",
+  "description": "Taking javascript to the wilderness.",
+  "raster": "http://hexb.in/hexagons/adventure-js.png",
+  "filename": "meta/adventure-js.json"
+}

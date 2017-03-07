@@ -3,5 +3,7 @@
   "author": "eileen wagner",
   "license": "CC0",
   "vector": "http://hexb.in/vector/CodeForBerlin.svg",
-  "description": "code for berlin!"
+  "description": "code for berlin!",
+  "raster": "http://hexb.in/hexagons/CodeForBerlin.png",
+  "filename": "meta/codefor-berlin.json"
 }

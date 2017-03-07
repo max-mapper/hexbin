@@ -3,5 +3,7 @@
   "author": "nvk",
   "license": "CCNCBY",
   "vector": "http://hexb.in/vector/coinkite.svg",
-  "description": "coinkite.com"
+  "description": "coinkite.com",
+  "raster": "http://hexb.in/hexagons/coinkite.png",
+  "filename": "meta/coinkite.json"
 }

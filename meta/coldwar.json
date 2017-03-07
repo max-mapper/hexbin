@@ -1,0 +1,10 @@
+{
+  "name": "coldwar",
+  "author": "Simon Swain",
+  "license": "CC0",
+  "vector": "http://hexb.in/vector/coldwar.svg",
+  "description": "ColdWar.io Simulation Platform. Artwork by @cj_barnaby",
+  "order_online_url": "https://www.stickermule.com/marketplace/9199-coldwar-dot-io",
+  "raster": "http://hexb.in/hexagons/coldwar.png",
+  "filename": "meta/coldwar.json"
+}

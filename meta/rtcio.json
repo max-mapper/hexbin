@@ -3,5 +3,7 @@
   "author": "Damon Oehlman",
   "license": "CC BY",
   "vector": "http://hexb.in/vector/rtcio.svg",
-  "description": "Logo for rtc.io (suite of WebRTC packages)"
+  "description": "Logo for rtc.io (suite of WebRTC packages)",
+  "raster": "http://hexb.in/hexagons/rtcio.png",
+  "filename": "meta/rtcio.json"
 }

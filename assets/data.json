@@ -1,0 +1,1354 @@
+[
+  {
+    "name": "Mermaid",
+    "author": "Lookmai Rattana",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/757rb.svg",
+    "description": "757 Ruby UserGroup http://757rb.org/",
+    "raster": "http://hexb.in/hexagons/757rb.png",
+    "filename": "meta/757rb.json"
+  },
+  {
+    "name": "adventure-js",
+    "author": "Stephen Whitmore",
+    "license": "MIT",
+    "vector": "http://hexb.in/vector/adventure-js.svg",
+    "description": "Taking javascript to the wilderness.",
+    "raster": "http://hexb.in/hexagons/adventure-js.png",
+    "filename": "meta/adventure-js.json"
+  },
+  {
+    "name": "airgidfaolchu",
+    "author": "Attila Farkas",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/airgidfaolchu.svg",
+    "description": "Airgidfaolchu on Twitter https://twitter.com/airgidfaolchu",
+    "raster": "http://hexb.in/hexagons/airgidfaolchu.png",
+    "filename": "meta/airgidfaolchu.json"
+  },
+  {
+    "name": "angular",
+    "author": "matt carter",
+    "license": "MIT",
+    "vector": "http://hexb.in/vector/angular.svg",
+    "description": "AngularJS",
+    "order_online_url": "https://www.stickermule.com/marketplace/14020-angularjs-hex-sticker",
+    "raster": "http://hexb.in/hexagons/angular.png",
+    "filename": "meta/angular.json"
+  },
+  {
+    "name": "apis-ipas",
+    "author": "Kristján Oddsson",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/apis-ipas.svg",
+    "description": "For people who love APIs and IPAs",
+    "raster": "http://hexb.in/hexagons/apis-ipas.png",
+    "filename": "meta/apis-ipas.json"
+  },
+  {
+    "name": "arcticjs",
+    "author": "Feross Aboukhadijeh",
+    "license": "MIT",
+    "vector": "http://hexb.in/vector/arcticjs.svg",
+    "description": "JavaScript conference in Longyearbyen, Svalbard, 78° North",
+    "raster": "http://hexb.in/hexagons/arcticjs.png",
+    "filename": "meta/arcticjs.json"
+  },
+  {
+    "name": "arlington-ruby",
+    "author": "Christopher Sexton",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/arlingtonruby.svg",
+    "description": "Arlington Ruby http://arlingtonruby.org/",
+    "raster": "http://hexb.in/hexagons/arlingtonruby.png",
+    "filename": "meta/arlingtonruby.json"
+  },
+  {
+    "name": "bionode",
+    "author": "Bruno Vieira",
+    "license": "CC BY-NC",
+    "vector": "http://hexb.in/vector/bionode.svg",
+    "description": "Modular and universal bioinformatics",
+    "order_online_url": "http://www.stickermule.com/marketplace/1917-bionode-modular-and-universal-bioinformatics",
+    "raster": "http://hexb.in/hexagons/bionode.png",
+    "filename": "meta/bionode.json"
+  },
+  {
+    "name": "blacklight",
+    "author": "Chris Jesudurai, Jack Reed",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/blacklight.svg",
+    "description": "Logo for the Blacklight project http://projectblacklight.org",
+    "raster": "http://hexb.in/hexagons/blacklight.png",
+    "filename": "meta/blacklight.json"
+  },
+  {
+    "name": "broom",
+    "author": "Stefan Milton Bache and Hadley Wickham",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/broom.png",
+    "vector": "http://hexb.in/vector/broom.svg",
+    "description": "broom: Convert Statistical Analysis Objects into Tidy Data Frames.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/broom.json"
+  },
+  {
+    "name": "browserify",
+    "author": "substack and maxogden",
+    "license": "BSD",
+    "vector": "http://hexb.in/vector/browserify.pdf",
+    "raster": "http://hexb.in/hexagons/browserify.png",
+    "filename": "meta/browserify.json"
+  },
+  {
+    "name": "campjs-vi",
+    "author": "Damon Oehlman <damon.oehlman@gmail.com>",
+    "license": "MIT",
+    "vector": "http://hexb.in/vector/campjs-vi.svg",
+    "description": "CampJS VI Sticker",
+    "raster": "http://hexb.in/hexagons/campjs-vi.png",
+    "filename": "meta/campjs-vi.json"
+  },
+  {
+    "name": "casto",
+    "author": "hikarock",
+    "license": "MIT",
+    "vector": "http://hexb.in/vector/casto.svg",
+    "description": "http://ca.storyboards.jp/",
+    "raster": "http://hexb.in/hexagons/casto.png",
+    "filename": "meta/casto.json"
+  },
+  {
+    "name": "codefor-berlin",
+    "author": "eileen wagner",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/CodeForBerlin.svg",
+    "description": "code for berlin!",
+    "raster": "http://hexb.in/hexagons/CodeForBerlin.png",
+    "filename": "meta/codefor-berlin.json"
+  },
+  {
+    "name": "codefor-bonn",
+    "author": "eileen wagner",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/CodeForBonn.svg",
+    "description": "code for bonn!",
+    "raster": "http://hexb.in/hexagons/CodeForBonn.png",
+    "filename": "meta/codefor-bonn.json"
+  },
+  {
+    "name": "codefor-chemnitz",
+    "author": "eileen wagner",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/CodeForChemnitz.svg",
+    "description": "code for chemnitz!",
+    "raster": "http://hexb.in/hexagons/CodeForChemnitz.png",
+    "filename": "meta/codefor-chemnitz.json"
+  },
+  {
+    "name": "codefor-dresden",
+    "author": "eileen wagner",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/CodeForDresden.svg",
+    "description": "code for dresden!",
+    "raster": "http://hexb.in/hexagons/CodeForDresden.png",
+    "filename": "meta/codefor-dresden.json"
+  },
+  {
+    "name": "codefor-frankfurt",
+    "author": "eileen wagner",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/CodeForFrankfurt.svg",
+    "description": "code for frankfurt!",
+    "raster": "http://hexb.in/hexagons/CodeForFrankfurt.png",
+    "filename": "meta/codefor-frankfurt.json"
+  },
+  {
+    "name": "codefor-giessen",
+    "author": "eileen wagner",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/CodeForGiessen.svg",
+    "description": "code for giessen!",
+    "raster": "http://hexb.in/hexagons/CodeForGiessen.png",
+    "filename": "meta/codefor-giessen.json"
+  },
+  {
+    "name": "codefor-hamburg",
+    "author": "eileen wagner",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/CodeForHamburg.svg",
+    "description": "code for hamburg!",
+    "raster": "http://hexb.in/hexagons/CodeForHamburg.png",
+    "filename": "meta/codefor-hamburg.json"
+  },
+  {
+    "name": "codefor-heilbronn",
+    "author": "eileen wagner",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/CodeForHeilbronn.svg",
+    "description": "code for heilbronn!",
+    "raster": "http://hexb.in/hexagons/CodeForHeilbronn.png",
+    "filename": "meta/codefor-heilbronn.json"
+  },
+  {
+    "name": "codefor-jena",
+    "author": "eileen wagner",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/CodeForJena.svg",
+    "description": "code for jena!",
+    "raster": "http://hexb.in/hexagons/CodeForJena.png",
+    "filename": "meta/codefor-jena.json"
+  },
+  {
+    "name": "codefor-karlsruhe",
+    "author": "eileen wagner",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/CodeForKarlsruhe.svg",
+    "description": "code for karlsruhe!",
+    "raster": "http://hexb.in/hexagons/CodeForKarlsruhe.png",
+    "filename": "meta/codefor-karlsruhe.json"
+  },
+  {
+    "name": "codefor-koeln",
+    "author": "eileen wagner",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/CodeForKoeln.svg",
+    "description": "code for koeln!",
+    "raster": "http://hexb.in/hexagons/CodeForKoeln.png",
+    "filename": "meta/codefor-koeln.json"
+  },
+  {
+    "name": "codefor-leipzig",
+    "author": "eileen wagner",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/CodeForLeipzig.svg",
+    "description": "code for leipzig!",
+    "raster": "http://hexb.in/hexagons/CodeForLeipzig.png",
+    "filename": "meta/codefor-leipzig.json"
+  },
+  {
+    "name": "codefor-magdeburg",
+    "author": "eileen wagner",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/CodeForMagdeburg.svg",
+    "description": "code for magdeburg!",
+    "raster": "http://hexb.in/hexagons/CodeForMagdeburg.png",
+    "filename": "meta/codefor-magdeburg.json"
+  },
+  {
+    "name": "codefor-muenchen",
+    "author": "eileen wagner",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/CodeForMuenchen.svg",
+    "description": "code for muenchen!",
+    "raster": "http://hexb.in/hexagons/CodeForMuenchen.png",
+    "filename": "meta/codefor-muenchen.json"
+  },
+  {
+    "name": "codefor-muenster",
+    "author": "eileen wagner",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/CodeForMuenster.svg",
+    "description": "code for muenster!",
+    "raster": "http://hexb.in/hexagons/CodeForMuenster.png",
+    "filename": "meta/codefor-muenster.json"
+  },
+  {
+    "name": "codefor-ruhrgebiet",
+    "author": "Phil Ninh",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/CodeForRuhrgebiet.svg",
+    "description": "Code for Ruhrgebiet!",
+    "raster": "http://hexb.in/hexagons/CodeForRuhrgebiet.png",
+    "filename": "meta/codefor-ruhrgebiet.json"
+  },
+  {
+    "name": "codefor-stuttgart",
+    "author": "eileen wagner",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/CodeForStuttgart.svg",
+    "description": "code for stuttgart!",
+    "raster": "http://hexb.in/hexagons/CodeForStuttgart.png",
+    "filename": "meta/codefor-stuttgart.json"
+  },
+  {
+    "name": "codefor-ulm",
+    "author": "eileen wagner",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/CodeForUlm.svg",
+    "description": "code for ulm!",
+    "raster": "http://hexb.in/hexagons/CodeForUlm.png",
+    "filename": "meta/codefor-ulm.json"
+  },
+  {
+    "name": "codefor-wuppertal",
+    "author": "eileen wagner",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/CodeForWuppertal.svg",
+    "description": "code for wuppertal!",
+    "raster": "http://hexb.in/hexagons/CodeForWuppertal.png",
+    "filename": "meta/codefor-wuppertal.json"
+  },
+  {
+    "name": "Code for America flag tag logo",
+    "author": "Drew Wilson",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/codeforamerica.svg",
+    "description": "Code for America's nerd-compliant sticker",
+    "raster": "http://hexb.in/hexagons/codeforamerica.png",
+    "filename": "meta/codeforamerica.json"
+  },
+  {
+    "name": "Code for Canada",
+    "author": "Rodolfo Novak",
+    "license": "CC BY NC",
+    "vector": "http://hexb.in/vector/codeforcanada.svg",
+    "description": "codeforcanada.org",
+    "raster": "http://hexb.in/hexagons/codeforcanada.png",
+    "filename": "meta/codeforcanada.json"
+  },
+  {
+    "name": "Code for Germany",
+    "author": "Open Knowledge Foundation Deutschland",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/codeforde.svg",
+    "description": "Logo of Code for Germany as Hex Sticker",
+    "raster": "http://hexb.in/hexagons/codeforde.png",
+    "filename": "meta/codeforde.json"
+  },
+  {
+    "name": "codeforscience",
+    "author": "freemanlab and maxogden",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/codeforscience.svg",
+    "raster": "http://hexb.in/hexagons/codeforscience.png",
+    "filename": "meta/codeforscience.json"
+  },
+  {
+    "name": "Coinkite",
+    "author": "nvk",
+    "license": "CCNCBY",
+    "vector": "http://hexb.in/vector/coinkite.svg",
+    "description": "coinkite.com",
+    "raster": "http://hexb.in/hexagons/coinkite.png",
+    "filename": "meta/coinkite.json"
+  },
+  {
+    "name": "coldwar",
+    "author": "Simon Swain",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/coldwar.svg",
+    "description": "ColdWar.io Simulation Platform. Artwork by @cj_barnaby",
+    "order_online_url": "https://www.stickermule.com/marketplace/9199-coldwar-dot-io",
+    "raster": "http://hexb.in/hexagons/coldwar.png",
+    "filename": "meta/coldwar.json"
+  },
+  {
+    "name": "cssconfuy",
+    "author": "jsconfuy",
+    "license": "CC0",
+    "description": "jsconf.uy",
+    "vector": "http://hexb.in/vector/cssconfuy.ai",
+    "raster": "http://hexb.in/hexagons/cssconfuy.png",
+    "filename": "meta/cssconfuy.json"
+  },
+  {
+    "name": "csvconf",
+    "author": "maxogden",
+    "license": "CC0",
+    "description": "csvconf.com",
+    "vector": "http://hexb.in/vector/csvconf.psd",
+    "raster": "http://hexb.in/hexagons/csvconf.png",
+    "filename": "meta/csvconf.json"
+  },
+  {
+    "name": "dancejs-logo",
+    "author": "Zeke Sikelianos",
+    "license": "ISC",
+    "vector": "http://hexb.in/vector/dancejs.svg",
+    "description": "DanceJS is a unique speaker series that aims to foster a community around audio-hacking and dance music.",
+    "raster": "http://hexb.in/hexagons/dancejs.png",
+    "filename": "meta/dancejs.json"
+  },
+  {
+    "name": "dat",
+    "author": "jlord",
+    "license": "CC0",
+    "description": "dat-data.com",
+    "raster": "http://hexb.in/hexagons/dat.png",
+    "filename": "meta/dat.json",
+    "order_online_url": "https://www.stickermule.com/marketplace/9709-dat-data-v3"
+  },
+  {
+    "name": "debian",
+    "author": "Software in the Public Interest, Inc.",
+    "license": "CC-BY-SA 3.0 or LGPL 3+",
+    "raster": "http://hexb.in/hexagons/debian.png",
+    "vector": "http://hexb.in/vector/debian.svg",
+    "description": "Debian Open Use Logo https://www.debian.org/logos/",
+    "filename": "meta/debian.json"
+  },
+  {
+    "name": "devtools",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/devtools.png",
+    "vector": "http://hexb.in/vector/devtools.svg",
+    "description": "devtools: Tools to Make Developing R Packages Easier.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/devtools.json"
+  },
+  {
+    "name": "District Taco",
+    "author": "Christopher Sexton",
+    "license": "CC 4.0 BY NC ND",
+    "vector": "http://hexb.in/vector/districttaco.svg",
+    "description": "District Taco http://districttaco.com/",
+    "raster": "http://hexb.in/hexagons/districttaco.png",
+    "filename": "meta/districttaco.json"
+  },
+  {
+    "name": "doop",
+    "author": "matt carter",
+    "license": "mit",
+    "vector": "http://hexb.in/vector/doop.svg",
+    "description": "Democratic Order of Planets",
+    "raster": "http://hexb.in/hexagons/doop.png",
+    "filename": "meta/doop.json"
+  },
+  {
+    "name": "dplyr",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/dplyr.png",
+    "vector": "http://hexb.in/vector/dplyr.svg",
+    "description": "dplyr: A Grammar of Data Manipulation.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/dplyr.json"
+  },
+  {
+    "name": "edtech-hamburg",
+    "author": "isger janson",
+    "license": "CC BY 4.0",
+    "raster": "http://hexb.in/hexagons/edtech-hamburg.png",
+    "vector": "http://hexb.in/vector/edtech-hamburg.svg",
+    "description": "This is the logo of the EdTech Hamburg initiative. Check us out, http://edtech.hamburg",
+    "order_online_url": "https://www.stickermule.com/en/user/1070755644/stickers",
+    "filename": "meta/edtech-hamburg.json"
+  },
+  {
+    "name": "EFF",
+    "author": "EFF",
+    "license": "https://www.eff.org/copyright",
+    "vector": "vectors not available, open an issue if you really want them and we might be able to find them",
+    "description": "EFF.org hexagon Logo",
+    "raster": "http://hexb.in/hexagons/eff.png",
+    "filename": "meta/eff.json"
+  },
+  {
+    "name": "feather",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/feather.png",
+    "vector": "http://hexb.in/vector/feather.svg",
+    "description": "feather: R Bindings to the Feather 'API'.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/feather.json"
+  },
+  {
+    "name": "fedora",
+    "author": "matt carter",
+    "license": "https://fedoraproject.org/wiki/Logo",
+    "raster": "http://hexb.in/hexagons/fedora.png",
+    "vector": "http://hexb.in/vector/fedora.svg",
+    "description": "https://getfedora.org",
+    "filename": "meta/fedora.json"
+  },
+  {
+    "name": "forcats",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/forcats.png",
+    "vector": "http://hexb.in/vector/forcats.svg",
+    "description": "forcats: Tools for Working with Categorical Variables (Factors).",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/forcats.json"
+  },
+  {
+    "name": "freemanlab",
+    "author": "freemanlab",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/freemanlab.svg",
+    "raster": "http://hexb.in/hexagons/freemanlab.png",
+    "filename": "meta/freemanlab.json"
+  },
+  {
+    "name": "geoblacklight",
+    "author": "Jack Reed",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/geoblacklight.svg",
+    "description": "Logo for the GeoBlacklight project http://geoblacklight.org",
+    "raster": "http://hexb.in/hexagons/geoblacklight.png",
+    "filename": "meta/geoblacklight.json"
+  },
+  {
+    "name": "geofs-pacman",
+    "author": "Fachschaft Geoinformatik Münster",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/geofs.svg",
+    "description": "logo of Fachschaft Geoinformatik Münster aka geofs pacman",
+    "raster": "http://hexb.in/hexagons/geofs.png",
+    "filename": "meta/geofs.json"
+  },
+  {
+    "name": "geohipster",
+    "author": "jonah adkins",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/geohipster.svg",
+    "description": "sticker logo B for www.geohipster.com",
+    "raster": "http://hexb.in/hexagons/geohipster.png",
+    "filename": "meta/geohipster.json"
+  },
+  {
+    "name": "ggplot2",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/ggplot2.png",
+    "vector": "http://hexb.in/vector/ggplot2.svg",
+    "description": "ggplot2: Create Elegant Data Visualisations Using the Grammar of Graphics.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/ggplot2.json"
+  },
+  {
+    "name": "gl-como",
+    "author": "Fabrixxm, valhalla",
+    "license": "CC-BY-SA",
+    "raster": "http://hexb.in/hexagons/gl-como.png",
+    "vector": "http://hexb.in/vector/gl-como.svg",
+    "description": "Logo for the GL-Como LUG http://www.gl-como.it",
+    "filename": "meta/gl-como.json"
+  },
+  {
+    "name": "groovy",
+    "author": "Soeren Glasius",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/groovy.png",
+    "vector": "http://hexb.in/vector/groovy.svg",
+    "description": "The Apache Groovy Logo",
+    "filename": "meta/groovy.json"
+  },
+  {
+    "name": "gulp",
+    "author": "matt carter",
+    "license": "mit",
+    "vector": "http://hexb.in/vector/gulp.svg",
+    "description": "GulpJS",
+    "order_online_url": "https://www.stickermule.com/marketplace/13509-gulpjs",
+    "raster": "http://hexb.in/hexagons/gulp.png",
+    "filename": "meta/gulp.json"
+  },
+  {
+    "name": "haven",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/haven.png",
+    "vector": "http://hexb.in/vector/haven.svg",
+    "description": "haven: Import and Export 'SPSS', 'Stata' and 'SAS' Files.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/haven.json"
+  },
+  {
+    "name": "hearing_things",
+    "author": "Ruxton",
+    "license": "CC-BY-NC-ND",
+    "raster": "http://hexb.in/hexagons/hearing_things.png",
+    "vector": "http://hexb.in/vector/hearing_things.svg",
+    "description": "Hearing Things - A record label/music collective from Perth, Western Australia - http://hearingthings.com.au",
+    "order_online_url": "http://hearingthings.com.au",
+    "filename": "meta/hearing_things.json"
+  },
+  {
+    "name": "hms",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/hms.png",
+    "vector": "http://hexb.in/vector/hms.svg",
+    "description": "hms: Pretty Time of Day.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/hms.json"
+  },
+  {
+    "name": "icelandjs",
+    "author": "Kristjan Broder Lund & Kristján Oddsson",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/icelandjs.svg",
+    "description": "Javascript Iceland user group logo",
+    "raster": "http://hexb.in/hexagons/icelandjs.png",
+    "filename": "meta/icelandjs.json"
+  },
+  {
+    "name": "interledger",
+    "author": "Interledger Team",
+    "license": "CC BY 4.0",
+    "raster": "http://hexb.in/hexagons/interledger.png",
+    "vector": "http://hexb.in/vector/interledger.svg",
+    "description": "https://interledger.org",
+    "order_online_url": "https://www.stickermule.com/en/marketplace/13455-interledger-hexagon-sticker",
+    "filename": "meta/interledger.json"
+  },
+  {
+    "name": "iojs",
+    "author": "substack",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/iojs.pdf",
+    "raster": "http://hexb.in/hexagons/iojs.png",
+    "filename": "meta/iojs.json"
+  },
+  {
+    "name": "ipfs",
+    "author": "ipfs community",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/ipfs.png",
+    "vector": "http://hexb.in/vector/ipfs.svg",
+    "description": "The IPFS logo. https://ipfs.io",
+    "order_online_url": "https://www.stickermule.com/en/user/1070654024/stickers",
+    "filename": "meta/ipfs.json"
+  },
+  {
+    "name": "javascript",
+    "author": "matt carter",
+    "license": "MIT",
+    "vector": "http://hexb.in/vector/javascript.svg",
+    "description": "JavaScript scripting language",
+    "order_online_url": "https://www.stickermule.com/marketplace/13530-javascript-hex-sticker",
+    "raster": "http://hexb.in/hexagons/javascript.png",
+    "filename": "meta/javascript.json"
+  },
+  {
+    "name": "jsconfuy",
+    "author": "jsconfuy",
+    "license": "CC0",
+    "description": "jsconf.uy",
+    "vector": "http://hexb.in/vector/jsconfuy.ai",
+    "raster": "http://hexb.in/hexagons/jsconfuy.png",
+    "filename": "meta/jsconfuy.json"
+  },
+  {
+    "name": "jsgirls",
+    "author": "tomoe tani and jsgirls.org",
+    "license": "MIT",
+    "vector": "http://hexb.in/vector/jsgirls.svg",
+    "description": "http://jsgirls.org/",
+    "raster": "http://hexb.in/hexagons/jsgirls.png",
+    "filename": "meta/jsgirls.json"
+  },
+  {
+    "name": "knitr",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/knitr.png",
+    "vector": "http://hexb.in/vector/knitr.svg",
+    "description": "knitr: A General-Purpose Package for Dynamic Report Generation in R.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/knitr.json"
+  },
+  {
+    "name": "kopijs",
+    "author": "cheeaun",
+    "license": "MIT",
+    "vector": "http://hexb.in/vector/kopijs.svg",
+    "raster": "http://hexb.in/hexagons/kopijs.png",
+    "filename": "meta/kopijs.json"
+  },
+  {
+    "name": "loowid-logo",
+    "author": "sinmsinm",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/loowid.svg",
+    "description": "LooWID videoconferencing hex logo",
+    "order_online_url": "",
+    "raster": "http://hexb.in/hexagons/loowid.png",
+    "filename": "meta/loowid.json"
+  },
+  {
+    "name": "lubridate",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/lubridate.png",
+    "vector": "http://hexb.in/vector/lubridate.svg",
+    "description": "lubridate: Make Dealing with Dates a Little Easier.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/lubridate.json"
+  },
+  {
+    "name": "magrittr",
+    "author": "stefan milton bache",
+    "license": "MIT",
+    "vector": "http://hexb.in/vector/magrittr.svg",
+    "description": "magrittr R package. http://github.com/smbache/magrittr",
+    "raster": "http://hexb.in/hexagons/magrittr.png",
+    "filename": "meta/magrittr.json"
+  },
+  {
+    "name": "mapzen",
+    "author": "mapzen",
+    "license": "MIT",
+    "vector": "http://hexb.in/vector/mapzen.svg",
+    "description": "an open source mapping lab · mapzen.com",
+    "raster": "http://hexb.in/hexagons/mapzen.png",
+    "filename": "meta/mapzen.json"
+  },
+  {
+    "name": "meinanutshell-logo",
+    "author": "Me In a Nutshell",
+    "license": "CC-BY-SA",
+    "raster": "http://hexb.in/hexagons/meinanutshell-logo.png",
+    "vector": "http://hexb.in/vector/meinanutshell-logo.svg",
+    "description": "Logo for Me In a Nutshell http://www.meinanutshell.com",
+    "filename": "meta/meinanutshell-logo.json"
+  },
+  {
+    "name": "meinanutshell-nut",
+    "author": "Me In a Nutshell",
+    "license": "CC-BY-SA",
+    "raster": "http://hexb.in/hexagons/meinanutshell-nut.png",
+    "vector": "http://hexb.in/vector/meinanutshell-nut.svg",
+    "description": "Me In a Nutshell Nut http://www.meinanutshell.com",
+    "filename": "meta/meinanutshell-nut.json"
+  },
+  {
+    "name": "metamask",
+    "author": "Dan Finlay",
+    "license": "CC BY-NC-SA 4.0",
+    "raster": "http://hexb.in/hexagons/metamask.png",
+    "filename": "meta/metamask.json"
+  },
+  {
+    "name": "minaswan",
+    "author": "Christopher Sexton",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/minaswan.svg",
+    "description": "MINASWAN: Matz is nice and so we are nice",
+    "raster": "http://hexb.in/hexagons/minaswan.png",
+    "filename": "meta/minaswan.json"
+  },
+  {
+    "name": "momsfriendlydevco",
+    "author": "matt carter",
+    "license": "mit",
+    "vector": "http://hexb.in/vector/momsfriendlydevco.svg",
+    "description": "http://mfdc.biz",
+    "order_online_url": "https://www.stickermule.com/marketplace/13987-moms-fiendly-dev-co-hex-sticker",
+    "raster": "http://hexb.in/hexagons/momsfriendlydevco.png",
+    "filename": "meta/momsfriendlydevco.json"
+  },
+  {
+    "name": "mongodb",
+    "author": "matt carter",
+    "license": "MIT",
+    "vector": "http://hexb.in/vector/mongodb.svg",
+    "description": "http://www.mongodb.com",
+    "order_online_url": "https://www.stickermule.com/marketplace/13988-mongodb-hex-sticker",
+    "raster": "http://hexb.in/hexagons/mongodb.png",
+    "filename": "meta/mongodb.json"
+  },
+  {
+    "name": "move-slow",
+    "author": "laurie kemmerer",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/move-slow.svg",
+    "raster": "http://hexb.in/hexagons/move-slow.png",
+    "filename": "meta/move-slow.json"
+  },
+  {
+    "name": "nodejs",
+    "author": "josh hartigan and nodejs.org",
+    "license": "nodejs.org/about/trademark",
+    "vector": "http://hexb.in/vector/nodejs.pdf",
+    "raster": "http://hexb.in/hexagons/nodejs.png",
+    "filename": "meta/nodejs.json"
+  },
+  {
+    "name": "nodejs",
+    "author": "matt carter and nodejs.org",
+    "license": "nodejs.org/about/trademark",
+    "vector": "http://hexb.in/vector/nodejs2.svg",
+    "raster": "http://hexb.in/hexagons/nodejs2.png",
+    "filename": "meta/nodejs2.json"
+  },
+  {
+    "name": "nodemon",
+    "author": "matt carter",
+    "license": "mit",
+    "vector": "http://hexb.in/vector/nodemon.svg",
+    "description": "http://nodemon.io",
+    "order_online_url": "https://www.stickermule.com/marketplace/13989-nodemon-hex-sticker",
+    "raster": "http://hexb.in/hexagons/nodemon.png",
+    "filename": "meta/nodemon.json"
+  },
+  {
+    "name": "nodeschool-bcn",
+    "author": "belenpoyo",
+    "license": "MIT",
+    "vector": "http://hexb.in/vector/nodeschool-bcn.svg",
+    "description": "NodeSchool Barcelona",
+    "raster": "http://hexb.in/hexagons/nodeschool-bcn.png",
+    "filename": "meta/nodeschool-bcn.json"
+  },
+  {
+    "name": "nodeschool-bra",
+    "author": "d14",
+    "license": "CC 4.0 BY NC SA",
+    "vector": "http://hexb.in/vector/nodeschool-bra.svg",
+    "description": "NodeSchool in Bratislava, Slovakia - https://github.com/nodeschool/bratislava",
+    "raster": "http://hexb.in/hexagons/nodeschool-bra.png",
+    "filename": "meta/nodeschool-bra.json"
+  },
+  {
+    "name": "nodeschool-che",
+    "author": "denysdovhan",
+    "license": "MIT",
+    "vector": "http://hexb.in/vector/nodeschool-che.svg",
+    "description": "NodeSchool Chernivtsi",
+    "raster": "http://hexb.in/hexagons/nodeschool-che.png",
+    "filename": "meta/nodeschool-che.json"
+  },
+  {
+    "name": "nodeschool-ham",
+    "author": "oleharland",
+    "license": "CC0",
+    "description": "Logo for NodeSchool Hamburg chapter",
+    "vector": "http://hexb.in/vector/nodeschool-ham.svg",
+    "raster": "http://hexb.in/hexagons/nodeschool-ham.png",
+    "filename": "meta/nodeschool-ham.json"
+  },
+  {
+    "name": "NodeSchool HMO",
+    "author": "Axel Valdez",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/nodeschool-hmo.svg",
+    "description": "NodeSchool Hermosillo",
+    "raster": "http://hexb.in/hexagons/nodeschool-hmo.png",
+    "filename": "meta/nodeschool-hmo.json"
+  },
+  {
+    "name": "NodeSchool International Day",
+    "author": "Ole Harland",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/nodeschool-int.svg",
+    "description": "NodeSchool International Day http://nodeschool.io/international-day",
+    "raster": "http://hexb.in/hexagons/nodeschool-int.png",
+    "filename": "meta/nodeschool-int.json"
+  },
+  {
+    "name": "nodeschool-mvd",
+    "author": "Sophilabs.co",
+    "license": "CC0",
+    "description": "Logo for NodeSchool Montevideo",
+    "vector": "http://hexb.in/vector/nodeschool-mvd.ai",
+    "raster": "http://hexb.in/hexagons/nodeschool-mvd.png",
+    "filename": "meta/nodeschool-mvd.json"
+  },
+  {
+    "name": "nodeschool osaka",
+    "author": "Martin Heidegger",
+    "license": "BSD",
+    "vector": "http://hexb.in/vector/nodeschool-osa.svg",
+    "description": "nodeschool osaka",
+    "raster": "http://hexb.in/hexagons/nodeschool-osa.png",
+    "filename": "meta/nodeschool-osa.json"
+  },
+  {
+    "name": "nodeschool-toronto",
+    "author": "Will Du",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/nodeschool-tor.svg",
+    "description": "NodeSchool Toronto http://nodeschool.io/toronto",
+    "raster": "http://hexb.in/hexagons/nodeschool-tor.png",
+    "filename": "meta/nodeschool-tor.json"
+  },
+  {
+    "name": "nodeschool",
+    "author": "jlord",
+    "license": "BSD",
+    "description": "nodeschool.io",
+    "vector": "http://hexb.in/vector/nodeschool.svg",
+    "raster": "http://hexb.in/hexagons/nodeschool.png",
+    "filename": "meta/nodeschool.json"
+  },
+  {
+    "name": "nodeschool-dc",
+    "author": "Robbie Holmes",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/nodeschooldc.svg",
+    "description": "NodeSchool DC group url: http://nodeschool.io/washingtondc/",
+    "raster": "http://hexb.in/hexagons/nodeschooldc.png",
+    "filename": "meta/nodeschooldc.json"
+  },
+  {
+    "name": "Norfolk.js",
+    "author": "Lookmai Rattana",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/norfolkjs.svg",
+    "description": "Norfolk JavaScript UserGroup http://norfolkjs.org/",
+    "raster": "http://hexb.in/hexagons/norfolkjs.png",
+    "filename": "meta/norfolkjs.json"
+  },
+  {
+    "name": "oaklandjs",
+    "author": "substack",
+    "license": "BSD",
+    "description": "oaklandjs.com",
+    "vector": "http://hexb.in/vector/oaklandjs.svg",
+    "raster": "http://hexb.in/hexagons/oaklandjs.png",
+    "filename": "meta/oaklandjs.json"
+  },
+  {
+    "name": "offline-trex",
+    "author": "d14",
+    "license": "CC 4.0 BY NC SA",
+    "vector": "http://hexb.in/vector/offline-trex.svg",
+    "description": "Offline First T-Rex for http://offlinefirst.org/",
+    "raster": "http://hexb.in/hexagons/offline-trex.png",
+    "filename": "meta/offline-trex.json"
+  },
+  {
+    "name": "opbeat",
+    "author": "opbeat",
+    "license": "Opbeat, Inc. Trademark",
+    "raster": "http://hexb.in/hexagons/opbeat.png",
+    "vector": "http://hexb.in/vector/opbeat.svg",
+    "description": "Performance/Error/Release monitoring for your Node apps",
+    "filename": "meta/opbeat.json"
+  },
+  {
+    "name": "opendatasicilia",
+    "author": "Andrea Borruso",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/opendatasicilia.svg",
+    "description": "code for berlin!",
+    "raster": "http://hexb.in/hexagons/opendatasicilia.png",
+    "filename": "meta/opendatasicilia.json"
+  },
+  {
+    "name": "opengeometadata",
+    "author": "Jack Reed",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/opengeometadata.svg",
+    "description": "Logo for the OpenGeoMetadata project https://github.com/opengeometadata",
+    "raster": "http://hexb.in/hexagons/opengeometadata.png",
+    "filename": "meta/opengeometadata.json"
+  },
+  {
+    "name": "openmrs-hex-icon",
+    "author": "OpenMRS",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/openmrs-hex-icon.png",
+    "vector": "http://hexb.in/vector/openmrs-hex-icon.svg",
+    "description": "OpenMRS Logo",
+    "order_online_url": "https://www.stickermule.com/marketplace/10481-hex-openmrs-logo",
+    "filename": "meta/openmrs-hex-icon.json"
+  },
+  {
+    "name": "openmrs-hex-talk",
+    "author": "OpenMRS",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/openmrs-hex-talk.png",
+    "vector": "http://hexb.in/vector/openmrs-hex-talk.svg",
+    "description": "OpenMRS Talk Logo",
+    "order_online_url": "https://www.stickermule.com/marketplace/10482-hex-openmrs-talk",
+    "filename": "meta/openmrs-hex-talk.json"
+  },
+  {
+    "name": "openmrs-hex-wcsl",
+    "author": "OpenMRS",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/openmrs-hex-wcsl.png",
+    "vector": "http://hexb.in/vector/openmrs-hex-wcsl.svg",
+    "description": "Write Code - Save Lives - OpenMRS",
+    "order_online_url": "https://www.stickermule.com/marketplace/10483-hex-write-code-save-lives",
+    "filename": "meta/openmrs-hex-wcsl.json"
+  },
+  {
+    "name": "openshift-logo",
+    "author": "ryanj",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/openshift.svg",
+    "description": "open source hosting - free accounts at openshift.com",
+    "order_online_url": "https://www.stickermule.com/marketplace/4611-openshift",
+    "raster": "http://hexb.in/hexagons/openshift.png",
+    "filename": "meta/openshift.json"
+  },
+  {
+    "name": "packrat",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/packrat.png",
+    "vector": "http://hexb.in/vector/packrat.svg",
+    "description": "packrat: A Dependency Management System for Projects and their R Package Dependencies.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/packrat.json"
+  },
+  {
+    "name": "pdxnode",
+    "author": "chris dickinson",
+    "license": "MIT",
+    "vector": "http://hexb.in/vector/pdxnode.svg",
+    "raster": "http://hexb.in/hexagons/pdxnode.png",
+    "filename": "meta/pdxnode.json"
+  },
+  {
+    "name": "pipe",
+    "author": "David Robinson",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/pipe.png",
+    "vector": "http://hexb.in/vector/pipe.svg",
+    "description": "magrittr: A Forward-Pipe Operator for R.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/pipe.json"
+  },
+  {
+    "name": "piratenpartei",
+    "author": "PiraToRo",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/piratenpartei.png",
+    "vector": "http://hexb.in/vector/piratenpartei.svg",
+    "description": "hex version of the pirate party germany logo",
+    "order_online_url": "http://shop.piratenpartei.de",
+    "filename": "meta/piratenpartei.json"
+  },
+  {
+    "name": "plumber",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/plumber.png",
+    "vector": "http://hexb.in/vector/plumber.svg",
+    "description": "plumber: An API Generator for R.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/plumber.json"
+  },
+  {
+    "name": "poisotlab",
+    "author": "Timothée Poisot",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/poisotlab.svg",
+    "description": "Current logo for the Poisot lab, computational ecology @ Université de Montréal http://poisotlab.io",
+    "raster": "http://hexb.in/hexagons/poisotlab.png",
+    "filename": "meta/poisotlab.json"
+  },
+  {
+    "name": "piratepartyEU",
+    "author": "@PiraToRo",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/ppeu.png",
+    "vector": "http://hexb.in/vector/ppeu.svg",
+    "description": "hex version of the european pirate party logo",
+    "order_online_url": "http://shop.piratenpartei.de",
+    "filename": "meta/ppeu.json"
+  },
+  {
+    "name": "Privacy Badger",
+    "author": "EFF",
+    "license": "https://www.eff.org/copyright",
+    "vector": "vectors not available, open an issue if you really want them and we might be able to find them",
+    "description": "https://www.eff.org/privacybadger",
+    "raster": "http://hexb.in/hexagons/privacybadger.png",
+    "filename": "meta/privacybadger.json"
+  },
+  {
+    "name": "pubnub",
+    "author": "joe hanson",
+    "license": "CC0 1.0",
+    "vector": "http://hexb.in/vector/pubnub.svg",
+    "description": "pubnub.com",
+    "raster": "http://hexb.in/hexagons/pubnub.png",
+    "filename": "meta/pubnub.json"
+  },
+  {
+    "name": "purrr",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/purrr.png",
+    "vector": "http://hexb.in/vector/purrr.svg",
+    "description": "purrr: Functional Programming Tools.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/purrr.json"
+  },
+  {
+    "name": "rangle-logo",
+    "author": "Neil Fenton",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/rangle.svg",
+    "description": "RANGLE.IO",
+    "raster": "http://hexb.in/hexagons/rangle.png",
+    "filename": "meta/rangle.json"
+  },
+  {
+    "name": "readr",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/readr.png",
+    "vector": "http://hexb.in/vector/readr.svg",
+    "description": "readr: Read Tabular Data.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/readr.json"
+  },
+  {
+    "name": "repositive",
+    "author": "jana grajciarova",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/repositive_io.png",
+    "vector": "http://hexb.in/vector/repositive_io.svg",
+    "description": "Connecting the world of genomic data. ",
+    "order_online_url": "",
+    "filename": "meta/repositive_io.json"
+  },
+  {
+    "name": "rhodyrstats",
+    "author": "jeff hollister",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/rhodyrstats.png",
+    "vector": "http://hexb.in/vector/rhodyrstats.svg",
+    "description": "Rhode Island R study group: http://rhodyrstats.org",
+    "filename": "meta/rhodyrstats.json"
+  },
+  {
+    "name": "rhus",
+    "author": "stefan milton bache",
+    "license": "MIT",
+    "vector": "http://hexb.in/vector/Rhus.svg",
+    "description": "Logo for the Arhus useR meetup, http://Rhus.club.",
+    "raster": "http://hexb.in/hexagons/rhus.png",
+    "filename": "meta/rhus.json"
+  },
+  {
+    "name": "rmarkdown",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/rmarkdown.png",
+    "vector": "http://hexb.in/vector/rmarkdown.svg",
+    "description": "rmarkdown: Dynamic Documents for R.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/rmarkdown.json"
+  },
+  {
+    "name": "rOpenSCi",
+    "author": "Karthik Ram",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/ropensci.svg",
+    "description": "The rOpenSci project. http://ropensci.org",
+    "raster": "http://hexb.in/hexagons/ropensci.png",
+    "filename": "meta/ropensci.json"
+  },
+  {
+    "name": "roxygen2",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/roxygen2.png",
+    "vector": "http://hexb.in/vector/roxygen2.svg",
+    "description": "roxygen2: In-Source Documentation for R.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/roxygen2.json"
+  },
+  {
+    "name": "rstudio",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/rstudio.png",
+    "vector": "http://hexb.in/vector/rstudio.svg",
+    "description": "Open source and enterprise-ready professional software for R.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/rstudio.json"
+  },
+  {
+    "name": "rtcio",
+    "author": "Damon Oehlman",
+    "license": "CC BY",
+    "vector": "http://hexb.in/vector/rtcio.svg",
+    "description": "Logo for rtc.io (suite of WebRTC packages)",
+    "raster": "http://hexb.in/hexagons/rtcio.png",
+    "filename": "meta/rtcio.json"
+  },
+  {
+    "name": "ruby-for-good",
+    "author": "Christopher Sexton",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/rubyforgood.svg",
+    "description": "Ruby for Good http://rubyforgood.org/",
+    "raster": "http://hexb.in/hexagons/rubyforgood.png",
+    "filename": "meta/rubyforgood.json"
+  },
+  {
+    "name": "rvest",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/rvest.png",
+    "vector": "http://hexb.in/vector/rvest.svg",
+    "description": "rvest: Easily Harvest (Scrape) Web Pages.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/rvest.json"
+  },
+  {
+    "name": "shiny",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/shiny.png",
+    "vector": "http://hexb.in/vector/shiny.svg",
+    "description": "shiny: Web Application Framework for R.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/shiny.json"
+  },
+  {
+    "name": "sparklyr",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/sparklyr.png",
+    "vector": "http://hexb.in/vector/sparklyr.svg",
+    "description": "sparklyr: R Interface to Apache Spark.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/sparklyr.json"
+  },
+  {
+    "name": "standard",
+    "author": "Feross Aboukhadijeh",
+    "license": "MIT",
+    "raster": "http://hexb.in/hexagons/standard.png",
+    "vector": "http://hexb.in/vector/standard.svg",
+    "description": "JavaScript Standard Style",
+    "filename": "meta/standard.json",
+    "order_online_url": "https://www.stickermule.com/marketplace/10199-javascript-standard-style"
+  },
+  {
+    "name": "stringr",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/stringr.png",
+    "vector": "http://hexb.in/vector/stringr.svg",
+    "description": "stringr: Simple, Consistent Wrappers for Common String Operations.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/stringr.json"
+  },
+  {
+    "name": "studynotes",
+    "author": "Feross Aboukhadijeh",
+    "license": "-",
+    "raster": "http://hexb.in/hexagons/studynotes.png",
+    "vector": "http://hexb.in/vector/studynotes.svg",
+    "description": "Fast, free study guides",
+    "filename": "meta/studynotes.json",
+    "order_online_url": "https://www.stickermule.com/marketplace/10341-study-notes"
+  },
+  {
+    "name": "sudoroom",
+    "author": "maxogden + sudoroom",
+    "license": "BSD",
+    "vector": "http://hexb.in/vector/sudoroom.psd",
+    "raster": "http://hexb.in/hexagons/sudoroom.png",
+    "filename": "meta/sudoroom.json"
+  },
+  {
+    "name": "tessel",
+    "author": "Tessel Project",
+    "license": "MIT",
+    "raster": "http://hexb.in/hexagons/tessel.png",
+    "vector": "http://hexb.in/vector/tessel.svg",
+    "description": "Tessel is a hardware platform designed for Node.js.",
+    "filename": "meta/tessel.json"
+  },
+  {
+    "name": "testthat",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/testthat.png",
+    "vector": "http://hexb.in/vector/testthat.svg",
+    "description": "testthat: Unit Testing for R.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/testthat.json"
+  },
+  {
+    "name": "tibble",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/tibble.png",
+    "vector": "http://hexb.in/vector/tibble.svg",
+    "description": "tibble: Simple Data Frames.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/tibble.json"
+  },
+  {
+    "name": "tidyr",
+    "author": "rstudio",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/tidyr.png",
+    "vector": "http://hexb.in/vector/tidyr.svg",
+    "description": "tidyr: Easily Tidy Data with 'spread()' and 'gather()' Functions.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/tidyr.json"
+  },
+  {
+    "name": "ubuntu",
+    "author": "matt carter",
+    "license": "https://wiki.ubuntu.com/Artwork/VisualIdentity",
+    "raster": "http://hexb.in/hexagons/ubuntu.png",
+    "vector": "http://hexb.in/vector/ubuntu.svg",
+    "description": "http://www.ubuntu.com",
+    "filename": "meta/ubuntu.json"
+  },
+  {
+    "name": "wavedrom",
+    "author": "Aliaksei Chapyzhenka",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/wavedrom.svg",
+    "description": "Digital Timing Diagram everywhere",
+    "order_online_url": "http://www.stickermule.com/marketplace/10119-wavedrom",
+    "raster": "http://hexb.in/hexagons/wavedrom.png",
+    "filename": "meta/wavedrom.json"
+  },
+  {
+    "name": "webtorrent-desktop",
+    "author": "Feross Aboukhadijeh",
+    "license": "MIT",
+    "raster": "http://hexb.in/hexagons/webtorrent-desktop.png",
+    "vector": "http://hexb.in/vector/webtorrent-desktop.svg",
+    "description": "Streaming torrent app for Mac, Windows, Linux",
+    "filename": "meta/webtorrent-desktop.json",
+    "order_online_url": "https://www.stickermule.com/marketplace/12336-webtorrent-desktop"
+  },
+  {
+    "name": "webtorrent",
+    "author": "Feross Aboukhadijeh",
+    "license": "MIT",
+    "raster": "http://hexb.in/hexagons/webtorrent.png",
+    "vector": "http://hexb.in/vector/webtorrent.svg",
+    "description": "Streaming torrent client for the web",
+    "filename": "meta/webtorrent.json",
+    "order_online_url": "https://www.stickermule.com/marketplace/10531-webtorrent-v2"
+  },
+  {
+    "name": "wireshark",
+    "author": "matt carter",
+    "license": "MIT",
+    "vector": "http://hexb.in/vector/wireshark.svg",
+    "description": "https://www.wireshark.org",
+    "raster": "http://hexb.in/hexagons/wireshark.png",
+    "filename": "meta/wireshark.json"
+  },
+  {
+    "name": "yargs",
+    "author": "Ben Coe",
+    "license": "MIT",
+    "vector": "http://hexb.in/vector/yargs.svg",
+    "description": "Yargs be a node.js library fer hearties tryin' ter parse optstrings.",
+    "raster": "http://hexb.in/hexagons/yargs.png",
+    "filename": "meta/yargs.json"
+  },
+  {
+    "name": "zenlogic-logo",
+    "author": "vanx2",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/zenlogic.svg",
+    "description": "web hosting",
+    "raster": "http://hexb.in/hexagons/zenlogic.png",
+    "filename": "meta/zenlogic.json"
+  }
+]

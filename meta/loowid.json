@@ -4,5 +4,7 @@
   "license": "CC0",
   "vector": "http://hexb.in/vector/loowid.svg",
   "description": "LooWID videoconferencing hex logo",
-  "order_online_url": ""
+  "order_online_url": "",
+  "raster": "http://hexb.in/hexagons/loowid.png",
+  "filename": "meta/loowid.json"
 }

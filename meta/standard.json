@@ -1,0 +1,10 @@
+{
+  "name": "standard",
+  "author": "Feross Aboukhadijeh",
+  "license": "MIT",
+  "raster": "http://hexb.in/hexagons/standard.png",
+  "vector": "http://hexb.in/vector/standard.svg",
+  "description": "JavaScript Standard Style",
+  "filename": "meta/standard.json",
+  "order_online_url": "https://www.stickermule.com/marketplace/10199-javascript-standard-style"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "webtorrent-desktop",
+  "author": "Feross Aboukhadijeh",
+  "license": "MIT",
+  "raster": "http://hexb.in/hexagons/webtorrent-desktop.png",
+  "vector": "http://hexb.in/vector/webtorrent-desktop.svg",
+  "description": "Streaming torrent app for Mac, Windows, Linux",
+  "filename": "meta/webtorrent-desktop.json",
+  "order_online_url": "https://www.stickermule.com/marketplace/12336-webtorrent-desktop"
+}

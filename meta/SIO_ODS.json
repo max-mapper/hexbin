@@ -1,0 +1,7 @@
+{
+  "name": "scripps institution of oceanography open data science",
+  "author": "Hao Ye and Jess Blanton",
+  "license": "CC BY",
+  "raster": "http://hexb.in/hexagons/SIO_ODS.png",
+  "vector": "http://hexb.in/vector/SIO_ODS.pdf"
+}

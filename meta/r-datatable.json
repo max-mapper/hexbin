@@ -1,0 +1,9 @@
+{
+  "name": "r-datatable",
+  "author": "Matt Dowle and Arun Srinivasan",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/r-datatable.png",
+  "vector": "http://hexb.in/vector/r-datatable.svg",
+  "description": "data.table: Extension of data.frame for R",
+  "order_online_url": "http://r-datatable.com"
+}

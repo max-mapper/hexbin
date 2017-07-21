@@ -1,0 +1,8 @@
+{
+  "name": "magma",
+  "author": "Simon Garnier",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/magma.png",
+  "vector": "http://hexb.in/vector/magma.svg",
+  "description": "viridis family of color maps https://CRAN.R-project.org/package=viridis",
+}

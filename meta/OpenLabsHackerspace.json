@@ -1,0 +1,9 @@
+{
+  "name": "Open Labs Hackerspace",
+  "author": "Elio Qoshi",
+  "license": "CC-BY-SA 3.0",
+  "raster": "http://hexb.in/hexagons/OpenLabsHackerspace.png",
+  "vector": "http://hexb.in/vector/OpenLabsHackerspace.svg",
+  "description": "Open Labs is a hackerspace devoted to empower Free Open Source Software. It's based in Tirana, Albania.",
+  "order_online_url": "We will add this soon."
+}

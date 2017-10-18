@@ -5,11 +5,11 @@ node_js:
   - "7"
   - "8"
 
-# Build all branches, *including* gh-pages:
-branches:
-  only:
-  - gh-pages
-  - /.*/
-
 script:
   - npm run build
+
+branches:
+  only:
+    - gh-pages
+    - /.*/
+

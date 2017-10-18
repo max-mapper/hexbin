@@ -9,6 +9,10 @@ node_js:
   - "7"
   - "8"
 
+branches:
+  only:
+    - gh-pages
+    
 # be nice and limit workload; queued commits older than this value will not be built
 git:
   depth: 5

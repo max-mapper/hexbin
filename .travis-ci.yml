@@ -1,8 +1,4 @@
 language: node_js
-sudo: false
-cache:
-  directories:
-    - "node_modules"
     
 node_js:
   - "node"
@@ -14,13 +10,6 @@ branches:
   only:
   - gh-pages
   - /.*/
-  
-# be nice and limit workload; queued commits older than this value will not be built
-git:
-  depth: 5
-
-# do lint here
-#before_script:
 
 script:
   - npm run build

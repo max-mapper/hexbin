@@ -20,7 +20,7 @@ git:
   depth: 5
 
 # do lint here
-before_script:
+#before_script:
 
 script:
   - npm run build

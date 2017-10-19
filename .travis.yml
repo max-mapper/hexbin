@@ -10,7 +10,7 @@ before_install:
   - sudo apt-get install -y python-demjson
 
 before_script:
-  - echo "linting"
+  - jsonlint meta/*.json
   
 script:
   - npm run build

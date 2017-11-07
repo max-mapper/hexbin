@@ -1,0 +1,9 @@
+{
+  "name": "netlify",
+  "author": "eli williamson",
+  "license": "CC0",
+  "vector": "http://hexb.in/vector/netlify.svg",
+  "description": "The all-in-one platform for automating modern web projects.",
+  "raster": "http://hexb.in/hexagons/netlify.png",
+  "filename": "meta/netlify.json"
+}

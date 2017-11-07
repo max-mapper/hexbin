@@ -1,0 +1,8 @@
+{
+  "name": "wildcard",
+  "author": "William Michael Landau <will.landau@gmail.com>",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/wildcard.png",
+  "vector": "http://hexb.in/vector/wildcard.svg",
+  "description": "wildcard: A Templating Mechanism for Data Frames in R."
+}

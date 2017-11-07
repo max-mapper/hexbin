@@ -1,0 +1,9 @@
+{
+  "name": "forecast",
+  "author": "Rob J Hyndman",
+  "license": "GPL 3",
+  "raster": "http://hexb.in/hexagons/forecast.png",
+  "vector": "http://hexb.in/vector/forecast.svg",
+  "description": "forecast: Forecasting Functions for Time Series and Linear Models",
+  "order_online_url": "https://hexi.pics/items/fcc3adf8def529e1f13b70a04d74dd69"
+}

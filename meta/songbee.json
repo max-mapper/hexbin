@@ -1,0 +1,8 @@
+{
+  "name": "songbee",
+  "author": "Alexander Pushkov",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/songbee.png",
+  "vector": "http://hexb.in/vector/songbee.svg",
+  "description": "Post-cloud music streaming. https://github.com/Songbee/desktop"
+}

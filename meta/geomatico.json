@@ -1,0 +1,8 @@
+{
+  "name": "geomatico",
+  "author": "geomati.co <info@geomati.co>",
+  "license": "CC BY-NC 2.0",
+  "vector": "http://hexb.in/vector/geomatico.svg",
+  "raster": "http://hexb.in/hexagons/geomatico.png",
+  "filename": "meta/geomatico.json"
+}

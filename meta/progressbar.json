@@ -1,0 +1,9 @@
+{
+  "name": "progressbar",
+  "author": "wao + zden",
+  "license": "BSD",
+  "vector": "http://hexb.in/vector/progressbar.svg",
+  "description": "Progressbar hackerspace Bratislava https://progressbar.sk",
+  "raster": "http://hexb.in/hexagons/progressbar.png",
+  "filename": "meta/progressbar.json"
+}

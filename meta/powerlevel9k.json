@@ -1,0 +1,8 @@
+{
+  "name": "powerlevel9k",
+  "author": "toish",
+  "license": "CC-BY-SA",
+  "raster": "http://hexb.in/hexagons/powerlevel9k.png",
+  "vector": "http://hexb.in/vector/powerlevel9k.ai",
+  "description": "Sticker for the PowerLevel9K ZSH theme! https://github.com/bhilburn/powerlevel9k"
+}

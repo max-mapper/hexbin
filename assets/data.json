@@ -529,6 +529,15 @@
     "filename": "meta/gl-como.json"
   },
   {
+    "name": "gr8conf",
+    "author": "Soeren Glasius (GR8Conf Organizer)",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/gr8conf.png",
+    "vector": "http://hexb.in/vector/gr8conf.svg",
+    "description": "GR8Conf - The 'All Things Groovy' conference",
+    "filename": "meta/gr8conf.json"
+  },
+  {
     "name": "groovy",
     "author": "Soeren Glasius",
     "license": "CC0",
@@ -659,6 +668,16 @@
     "vector": "http://hexb.in/vector/kopijs.svg",
     "raster": "http://hexb.in/hexagons/kopijs.png",
     "filename": "meta/kopijs.json"
+  },
+  {
+    "name": "linuxmint",
+    "author": "jsaturno",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/linux_mint.png",
+    "vector": "http://hexb.in/vector/linux_mint.svg",
+    "description": "Linux Mint",
+    "order_online_url": "https://www.stickermule.com/marketplace/15707-linux-mint-hexagon",
+    "filename": "meta/linux_mint.json"
   },
   {
     "name": "loowid-logo",
@@ -922,6 +941,16 @@
     "filename": "meta/opbeat.json"
   },
   {
+    "name": "openaccess",
+    "author": "jsaturno",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/openaccess.png",
+    "vector": "http://hexb.in/vector/openaccess.svg",
+    "description": "Support openaccess publications",
+    "order_online_url": "https://www.stickermule.com/marketplace/15627-openaccess",
+    "filename": "meta/openaccess.json"
+  },
+  {
     "name": "opendatasicilia",
     "author": "Andrea Borruso",
     "license": "CC0",
@@ -996,6 +1025,15 @@
     "vector": "http://hexb.in/vector/pdxnode.svg",
     "raster": "http://hexb.in/hexagons/pdxnode.png",
     "filename": "meta/pdxnode.json"
+  },
+  {
+    "name": "phpugffm",
+    "author": "Christian Nielebock",
+    "license": "CC0 1.0",
+    "vector": "http://hexb.in/vector/phpugffm.svg",
+    "description": "Hex logo of the PHP Usergroup Frankfurt am Main",
+    "raster": "http://hexb.in/hexagons/phpugffm.png",
+    "filename": "meta/phpugffm.json"
   },
   {
     "name": "pipe",
@@ -1073,6 +1111,16 @@
     "description": "purrr: Functional Programming Tools.",
     "order_online_url": "https://www.stickermule.com/marketplace/",
     "filename": "meta/purrr.json"
+  },
+  {
+    "name": "r-datatable",
+    "author": "Matt Dowle and Arun Srinivasan",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/r-datatable.png",
+    "vector": "http://hexb.in/vector/r-datatable.svg",
+    "description": "data.table: Extension of data.frame for R",
+    "order_online_url": "http://r-datatable.com",
+    "filename": "meta/r-datatable.json"
   },
   {
     "name": "rangle-logo",

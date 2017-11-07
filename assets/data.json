@@ -475,6 +475,16 @@
     "filename": "meta/forcats.json"
   },
   {
+    "name": "forecast",
+    "author": "Rob J Hyndman",
+    "license": "GPL 3",
+    "raster": "http://hexb.in/hexagons/forecast.png",
+    "vector": "http://hexb.in/vector/forecast.svg",
+    "description": "forecast: Forecasting Functions for Time Series and Linear Models",
+    "order_online_url": "https://hexi.pics/items/fcc3adf8def529e1f13b70a04d74dd69",
+    "filename": "meta/forecast.json"
+  },
+  {
     "name": "freemanlab",
     "author": "freemanlab",
     "license": "CC0",
@@ -508,6 +518,14 @@
     "description": "sticker logo B for www.geohipster.com",
     "raster": "http://hexb.in/hexagons/geohipster.png",
     "filename": "meta/geohipster.json"
+  },
+  {
+    "name": "geomatico",
+    "author": "geomati.co <info@geomati.co>",
+    "license": "CC BY-NC 2.0",
+    "vector": "http://hexb.in/vector/geomatico.svg",
+    "raster": "http://hexb.in/hexagons/geomatico.png",
+    "filename": "meta/geomatico.json"
   },
   {
     "name": "ggplot2",
@@ -680,6 +698,15 @@
     "filename": "meta/linux_mint.json"
   },
   {
+    "name": "linuxvar",
+    "author": "Riccardo Macoratti, valhalla",
+    "license": "CC-NC-SA",
+    "raster": "http://hexb.in/hexagons/linuxvar.png",
+    "vector": "http://hexb.in/vector/linuxvar.svg",
+    "description": "Logo for the LinuxVar LUG http://linuxvar.it/",
+    "filename": "meta/linuxvar.json"
+  },
+  {
     "name": "loowid-logo",
     "author": "sinmsinm",
     "license": "CC0",
@@ -778,6 +805,15 @@
     "vector": "http://hexb.in/vector/move-slow.svg",
     "raster": "http://hexb.in/hexagons/move-slow.png",
     "filename": "meta/move-slow.json"
+  },
+  {
+    "name": "netlify",
+    "author": "eli williamson",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/netlify.svg",
+    "description": "The all-in-one platform for automating modern web projects.",
+    "raster": "http://hexb.in/hexagons/netlify.png",
+    "filename": "meta/netlify.json"
   },
   {
     "name": "nodejs",
@@ -1027,6 +1063,15 @@
     "filename": "meta/pdxnode.json"
   },
   {
+    "name": "people-consensually",
+    "author": "Elena ``of Valhalla''",
+    "license": "CC-BY-SA 3.0 or LGPL 3+",
+    "raster": "http://hexb.in/hexagons/people-consensually.png",
+    "vector": "http://hexb.in/vector/people-consensually.svg",
+    "description": "http://www.enricozini.org/blog/2015/debian/standup-comedy-notes/",
+    "filename": "meta/people-consensually.json"
+  },
+  {
     "name": "phpugffm",
     "author": "Christian Nielebock",
     "license": "CC0 1.0",
@@ -1073,6 +1118,15 @@
     "description": "Current logo for the Poisot lab, computational ecology @ Université de Montréal http://poisotlab.io",
     "raster": "http://hexb.in/hexagons/poisotlab.png",
     "filename": "meta/poisotlab.json"
+  },
+  {
+    "name": "powerlevel9k",
+    "author": "toish",
+    "license": "CC-BY-SA",
+    "raster": "http://hexb.in/hexagons/powerlevel9k.png",
+    "vector": "http://hexb.in/vector/powerlevel9k.ai",
+    "description": "Sticker for the PowerLevel9K ZSH theme! https://github.com/bhilburn/powerlevel9k",
+    "filename": "meta/powerlevel9k.json"
   },
   {
     "name": "piratepartyEU",
@@ -1247,6 +1301,15 @@
     "filename": "meta/shiny.json"
   },
   {
+    "name": "songbee",
+    "author": "Alexander Pushkov",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/songbee.png",
+    "vector": "http://hexb.in/vector/songbee.svg",
+    "description": "Post-cloud music streaming. https://github.com/Songbee/desktop",
+    "filename": "meta/songbee.json"
+  },
+  {
     "name": "sparklyr",
     "author": "rstudio",
     "license": "CC0",
@@ -1293,6 +1356,16 @@
     "vector": "http://hexb.in/vector/sudoroom.psd",
     "raster": "http://hexb.in/hexagons/sudoroom.png",
     "filename": "meta/sudoroom.json"
+  },
+  {
+    "name": "Tech Masters",
+    "author": "Ahmad Nassri",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/techmasters.png",
+    "vector": "http://hexb.in/vector/techmasters.svg",
+    "description": "Online Slack Community of Technologists & Founders",
+    "order_online_url": "https://www.stickermule.com/marketplace/16075-techmasters-community",
+    "filename": "meta/techmasters.json"
   },
   {
     "name": "tessel",
@@ -1343,6 +1416,24 @@
     "filename": "meta/ubuntu.json"
   },
   {
+    "name": "utopia-pia",
+    "author": "chris reinbothe",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/utopia-pia.png",
+    "vector": "http://hexb.in/vector/utopia-pia.svg",
+    "description": "utopia is everywhere! http://www.utopiastadt.eu",
+    "filename": "meta/utopia-pia.json"
+  },
+  {
+    "name": "utopia-uto",
+    "author": "chris reinbothe",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/utopia-uto.png",
+    "vector": "http://hexb.in/vector/utopia-uto.svg",
+    "description": "utopia is everywhere! http://www.utopiastadt.eu",
+    "filename": "meta/utopia-uto.json"
+  },
+  {
     "name": "wavedrom",
     "author": "Aliaksei Chapyzhenka",
     "license": "CC0",
@@ -1371,6 +1462,15 @@
     "description": "Streaming torrent client for the web",
     "filename": "meta/webtorrent.json",
     "order_online_url": "https://www.stickermule.com/marketplace/10531-webtorrent-v2"
+  },
+  {
+    "name": "wildcard",
+    "author": "William Michael Landau <will.landau@gmail.com>",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/wildcard.png",
+    "vector": "http://hexb.in/vector/wildcard.svg",
+    "description": "wildcard: A Templating Mechanism for Data Frames in R.",
+    "filename": "meta/wildcard.json"
   },
   {
     "name": "wireshark",

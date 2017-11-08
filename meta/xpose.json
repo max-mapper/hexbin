@@ -4,6 +4,5 @@
   "license": "CC0",
   "raster": "http://hexb.in/hexagons/xpose.png",
   "vector": "http://hexb.in/vector/xpose.svg",
-  "description": "xpose: Graphical diagnostics for pharmacometric models",
-  "order_online_url": "https://www.stickermule.com/marketplace/"
+  "description": "xpose: diagnostics for pharmacometric models"
 }

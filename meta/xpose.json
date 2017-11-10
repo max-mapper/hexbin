@@ -1,0 +1,8 @@
+{
+  "name": "xpose",
+  "author": "benjamin guiastrennec",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/xpose.png",
+  "vector": "http://hexb.in/vector/xpose.svg",
+  "description": "xpose: diagnostics for pharmacometric models"
+}

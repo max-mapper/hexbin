@@ -1,0 +1,8 @@
+{
+  "name": "pulp",
+  "author": "Red Hat, Inc.",
+  "license": "",
+  "raster": "http://hexb.in/hexagons/pulp.png",
+  "vector": "http://hexb.in/vector/pulp.svg",
+  "description": "Pulp makes it easy to fetch, upload, host, publish, and apply software packages."
+}

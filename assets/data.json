@@ -83,6 +83,15 @@
     "filename": "meta/blacklight.json"
   },
   {
+    "name": "blug",
+    "author": "Tong Hui",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/blug.png",
+    "vector": "http://hexb.in/vector/blug.svg",
+    "description": "Beijing GNU/Linux User Group - https://beijinglug.club",
+    "filename": "meta/blug.json"
+  },
+  {
     "name": "broom",
     "author": "Stefan Milton Bache and Hadley Wickham",
     "license": "CC0",
@@ -425,6 +434,14 @@
     "description": "dplyr: A Grammar of Data Manipulation.",
     "order_online_url": "https://www.stickermule.com/marketplace/",
     "filename": "meta/dplyr.json"
+  },
+  {
+    "name": "earlconf",
+    "author": "karis bouher",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/earlconf.png",
+    "description": "Enterprise Applications of the R Language https://earlconf.com",
+    "filename": "meta/earlconf.json"
   },
   {
     "name": "edtech-hamburg",
@@ -1148,6 +1165,15 @@
     "filename": "meta/privacybadger.json"
   },
   {
+    "name": "progressbar",
+    "author": "wao + zden",
+    "license": "BSD",
+    "vector": "http://hexb.in/vector/progressbar.svg",
+    "description": "Progressbar hackerspace Bratislava https://progressbar.sk",
+    "raster": "http://hexb.in/hexagons/progressbar.png",
+    "filename": "meta/progressbar.json"
+  },
+  {
     "name": "pubnub",
     "author": "joe hanson",
     "license": "CC0 1.0",
@@ -1155,6 +1181,15 @@
     "description": "pubnub.com",
     "raster": "http://hexb.in/hexagons/pubnub.png",
     "filename": "meta/pubnub.json"
+  },
+  {
+    "name": "pulp",
+    "author": "Red Hat, Inc.",
+    "license": "",
+    "raster": "http://hexb.in/hexagons/pulp.png",
+    "vector": "http://hexb.in/vector/pulp.svg",
+    "description": "Pulp makes it easy to fetch, upload, host, publish, and apply software packages.",
+    "filename": "meta/pulp.json"
   },
   {
     "name": "purrr",
@@ -1165,6 +1200,14 @@
     "description": "purrr: Functional Programming Tools.",
     "order_online_url": "https://www.stickermule.com/marketplace/",
     "filename": "meta/purrr.json"
+  },
+  {
+    "name": "r-consortium",
+    "author": "karis bouher",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/r-consortium.png",
+    "description": "The R Consortium https://www.r-consortium.org",
+    "filename": "meta/r-consortium.json"
   },
   {
     "name": "r-datatable",
@@ -1301,6 +1344,24 @@
     "filename": "meta/shiny.json"
   },
   {
+    "name": "SIO BUG",
+    "author": "Du Niu and Hao Ye and Jess Blanton",
+    "license": "CC BY",
+    "raster": "http://hexb.in/hexagons/SIO_BUG.png",
+    "vector": "http://hexb.in/vector/SUI_BUG.pdf",
+    "description": "Scripps Institution of Oceanography Bioinformatics Users Group",
+    "filename": "meta/SIO_BUG.json"
+  },
+  {
+    "name": "SIO ODS",
+    "author": "Hao Ye and Jess Blanton",
+    "license": "CC BY",
+    "raster": "http://hexb.in/hexagons/SIO_ODS.png",
+    "vector": "http://hexb.in/vector/SUI_ODS.pdf",
+    "description": "Scripps Institution of Oceanography Open Data Science",
+    "filename": "meta/SIO_ODS.json"
+  },
+  {
     "name": "songbee",
     "author": "Alexander Pushkov",
     "license": "CC0",
@@ -1434,6 +1495,15 @@
     "filename": "meta/utopia-uto.json"
   },
   {
+    "name": "vigotech",
+    "author": "Pedro Figueras www.pedrofigueras.com",
+    "license": "CC BY-NC-ND 4.0",
+    "vector": "http://hexb.in/vector/vigotech.svg",
+    "description": "Tech user group alliance from Vigo, Spain",
+    "raster": "http://hexb.in/hexagons/vigotech.png",
+    "filename": "meta/vigotech.json"
+  },
+  {
     "name": "wavedrom",
     "author": "Aliaksei Chapyzhenka",
     "license": "CC0",
@@ -1480,6 +1550,15 @@
     "description": "https://www.wireshark.org",
     "raster": "http://hexb.in/hexagons/wireshark.png",
     "filename": "meta/wireshark.json"
+  },
+  {
+    "name": "xpose",
+    "author": "benjamin guiastrennec",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/xpose.png",
+    "vector": "http://hexb.in/vector/xpose.svg",
+    "description": "xpose: diagnostics for pharmacometric models",
+    "filename": "meta/xpose.json"
   },
   {
     "name": "yargs",

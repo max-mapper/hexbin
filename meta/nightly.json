@@ -1,0 +1,9 @@
+{
+  "name": "nightly",
+  "author": "mozilla",
+  "license": "mozilla",
+  "raster": "http://hexb.in/hexagons/nightly.png",
+  "vector": "http://hexb.in/vector/nightly.svg",
+  "description": "Firefox hexbin stickers",
+  "order_online_url": ""
+}

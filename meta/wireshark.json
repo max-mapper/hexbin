@@ -5,6 +5,5 @@
   "vector": "http://hexb.in/vector/wireshark.svg",
   "description": "https://www.wireshark.org",
   "raster": "http://hexb.in/hexagons/wireshark.png",
-  "filename": "meta/wireshark.json",
-  "order_online_url": "https://www.redbubble.com/people/volcanotees/works/25282120-wireshark?p=sticker&size=small&utm_source=google&utm_medium=cpc&utm_campaign=g.pla+notset&country_code=US&gclid=Cj0KCQiAgNrQBRC0ARIsAE-m-1yebKGWKKZ44fc_62KofIJXkiUOjTvOjdPvxpKn-co31t2l3ZIMCp8aAtNZEALw_wcB"
+  "filename": "meta/wireshark.json"
 }

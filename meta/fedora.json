@@ -4,5 +4,6 @@
   "license": "https://fedoraproject.org/wiki/Logo",
   "raster": "http://hexb.in/hexagons/fedora.png",
   "vector": "http://hexb.in/vector/fedora.svg",
-  "description": "https://getfedora.org"
+  "description": "https://getfedora.org",
+  "order_online_url": "https://www.stickermule.com/marketplace/14721-fedora-hex-sticker"
 }

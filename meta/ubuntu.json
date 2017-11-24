@@ -4,6 +4,5 @@
   "license": "https://wiki.ubuntu.com/Artwork/VisualIdentity",
   "raster": "http://hexb.in/hexagons/ubuntu.png",
   "vector": "http://hexb.in/vector/ubuntu.svg",
-  "description": "http://www.ubuntu.com",
-  "order_online_url": "http://hexb.in/hexagons/ubuntu.png"
+  "description": "http://www.ubuntu.com"
 }

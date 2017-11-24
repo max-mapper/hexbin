@@ -5,6 +5,5 @@
   "vector": "http://hexb.in/vector/codeforamerica.svg",
   "description": "Code for America's nerd-compliant sticker",
   "raster": "http://hexb.in/hexagons/codeforamerica.png",
-  "filename": "meta/codeforamerica.json",
-  "order_online_url": "https://www.stickermule.com/marketplace/3974-codeforamerica-hexagon"
+  "filename": "meta/codeforamerica.json"
 }

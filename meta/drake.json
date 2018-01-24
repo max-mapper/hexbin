@@ -4,5 +4,5 @@
   "license": "CC0",
   "raster": "http://hexb.in/hexagons/drake.png",
   "vector": "http://hexb.in/vector/drake.svg",
-  "description": "drake: an R package for reproducible pipelines and high-performance computing"
+  "description": "drake: an R package for reproducible code and high-performance computing"
 }

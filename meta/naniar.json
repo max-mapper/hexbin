@@ -1,0 +1,8 @@
+{
+  "name": "naniar",
+  "author": "Nicholas Tierney",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/naniar.png",
+  "vector": "http://hexb.in/vector/naniar.svg",
+  "description": "naniar is an R package for working with missing data. More information is available at naniar.njtierney.com"
+}

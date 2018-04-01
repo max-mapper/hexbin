@@ -32,6 +32,8 @@ here is an example of a great PR: https://github.com/maxogden/hexbin/pull/5
 
 You do not need to rebuild the site in your PR, in fact this makes merges more complicated for maintainers. Please let the maintainers handle rebuilding after merges.
 
+You can use [hexsticker]((https://github.com/fridex/hexsticker) to automate sticker creation based on the sticker standard.
+
 # for maintainers
 
 after merging PRs/adding new hexes you have to build the site:

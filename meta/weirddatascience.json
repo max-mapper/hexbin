@@ -1,0 +1,9 @@
+{
+  "name": "weirddatascience",
+  "author": "Joss Wright",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/weirddatascience.png",
+  "vector": "http://hexb.in/vector/weirddatascience.svg",
+  "description": "Esoteric data science investigations: http://www.weirddatascience.net",
+  "filename": "meta/weirddatascience.json"
+}

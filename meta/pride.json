@@ -3,5 +3,6 @@
   "author": "mitchell ohara-wild",
   "license": "CC0",
   "raster": "http://hexb.in/hexagons/pride.png",
-  "vector": "http://hexb.in/vector/pride.svg"
+  "vector": "http://hexb.in/vector/pride.svg",
+  "description": "Hexagon symbolising the pride flag."
 }

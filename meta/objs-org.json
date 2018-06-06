@@ -1,0 +1,8 @@
+{
+  "name": "objs-org",
+  "author": "jon van oast",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/objs-org.png",
+  "vector": "http://hexb.in/vector/objs-org.svg",
+  "description": "objs.org : experimental, transportable, flexible, json objects [ a sito.org side-project ]"
+}

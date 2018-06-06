@@ -1,0 +1,8 @@
+{
+  "name": "moderndive",
+  "author": "Chester Ismay and Albert Y. Kim",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/ModernDive.png",
+  "vector": "http://hexb.in/vector/ModernDive.ai",
+  "description": "An open-source and fully-reproducible electronic textbook bridging the gap between traditional introductory statistics and data science courses available at moderndive.com"
+}

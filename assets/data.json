@@ -683,6 +683,15 @@
     "filename": "meta/icelandjs.json"
   },
   {
+    "name": "indico",
+    "author": "Indico Team (CERN)",
+    "license": "CC-BY-NC-ND",
+    "raster": "http://hexb.in/hexagons/indico.png",
+    "vector": "http://hexb.in/vector/indico.svg",
+    "description": "Indico - An Event Management Tool",
+    "filename": "meta/indico.json"
+  },
+  {
     "name": "interledger",
     "author": "Interledger Team",
     "license": "CC BY 4.0",
@@ -1231,6 +1240,15 @@
     "vector": "http://hexb.in/vector/people-consensually.svg",
     "description": "http://www.enricozini.org/blog/2015/debian/standup-comedy-notes/",
     "filename": "meta/people-consensually.json"
+  },
+  {
+    "name": "perl6",
+    "author": "Suman Khanal",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/perl6.png",
+    "vector": "http://hexb.in/vector/perl6.svg",
+    "description": "Hexsticker for Perl 6",
+    "filename": "meta/perl6.json"
   },
   {
     "name": "phpugffm",

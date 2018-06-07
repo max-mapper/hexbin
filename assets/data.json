@@ -898,6 +898,15 @@
     "order_online_url": "https://www.stickermule.com/marketplace/1580-move-slow-and-make-things"
   },
   {
+    "name": "naniar",
+    "author": "Nicholas Tierney",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/naniar.png",
+    "vector": "http://hexb.in/vector/naniar.svg",
+    "description": "naniar is an R package for working with missing data. More information is available at naniar.njtierney.com",
+    "filename": "meta/naniar.json"
+  },
+  {
     "name": "netlify",
     "author": "eli williamson",
     "license": "CC0",
@@ -1640,6 +1649,15 @@
     "description": "Tech user group alliance from Vigo, Spain",
     "raster": "http://hexb.in/hexagons/vigotech.png",
     "filename": "meta/vigotech.json"
+  },
+  {
+    "name": "visdat",
+    "author": "Nicholas Tierney",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/visdat.png",
+    "vector": "http://hexb.in/vector/visdat.svg",
+    "description": "visdat is an R package to quickly visualise whole dataframes. More information is available at visdat.njtierney.com",
+    "filename": "meta/visdat.json"
   },
   {
     "name": "wavedrom",

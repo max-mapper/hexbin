@@ -1,0 +1,8 @@
+{
+  "name": "indico",
+  "author": "Indico Team (CERN)",
+  "license": "CC-BY-NC-ND",
+  "raster": "http://hexb.in/hexagons/indico.png",
+  "vector": "http://hexb.in/vector/indico.svg",
+  "description": "Indico - An Event Management Tool"
+}

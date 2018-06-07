@@ -5,5 +5,5 @@
   "vector": "http://hexb.in/vector/elephant-shed.svg",
   "description": "Elephant Shed PostgreSQL Appliance http://elephant-shed.io/",
   "raster": "http://hexb.in/hexagons/elephant-shed.png",
-  "filename": "meta/elephant-shed.json",
+  "filename": "meta/elephant-shed.json"
 }

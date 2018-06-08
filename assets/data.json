@@ -1641,6 +1641,16 @@
     "filename": "meta/tidyr.json"
   },
   {
+    "name": "tsibble",
+    "author": "Earo Wang",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/tsibble.png",
+    "vector": "http://hexb.in/vector/tsibble.svg",
+    "description": "tsibble: Tidy Temporal Data Frames and Tools.",
+    "order_online_url": "https://www.stickermule.com/marketplace/",
+    "filename": "meta/tsibble.json"
+  },
+  {
     "name": "ubuntu",
     "author": "matt carter",
     "license": "https://wiki.ubuntu.com/Artwork/VisualIdentity",

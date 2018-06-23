@@ -1,0 +1,8 @@
+{
+  "name": "riot",
+  "author": "Jan Christian Grünhage",
+  "license": "CC BY-NC-ND 4.0",
+  "raster": "http://hexb.in/hexagons/riot.png",
+  "vector": "http://hexb.in/vector/riot.svg",
+  "description": "A workplace group chat built on Matrix. (https://riot.im/)"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "be-excellent",
+  "author": "be-excellent",
+  "license": "MIT",
+  "raster": "http://hexb.in/hexagons/be-excellent.png",
+  "vector": "http://hexb.in/vector/be-excellent.svg",
+  "description": "Code of conduct: Be excellent to each other",
+  "filename": "meta/be-excellent.json"
+}

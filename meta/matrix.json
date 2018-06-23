@@ -1,0 +1,8 @@
+{
+  "name": "matrix",
+  "author": "Jan Christian Grünhage",
+  "license": "CC BY-NC-ND 4.0",
+  "raster": "http://hexb.in/hexagons/matrix.png",
+  "vector": "http://hexb.in/vector/matrix.svg",
+  "description": "An open network for secure, decentralized communication. (https://matrix.org)"
+}

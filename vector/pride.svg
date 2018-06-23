@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="611.834px" height="706.506px" viewBox="0.083 42.123 611.834 706.506"
+	 enable-background="new 0.083 42.123 611.834 706.506" xml:space="preserve">
+<g id="Layer_3">
+	<polyline fill="#750787" points="70.972,612.947 541.018,612.947 305.994,748.629 	"/>
+	<polygon fill="#004DFF" points="-0.334,503.673 611.665,503.673 611.911,572.024 541.018,612.947 70.972,612.947 0.077,572.021 	
+		"/>
+	<rect x="-0.334" y="396.208" fill="#008026" width="612" height="108.369"/>
+	<rect x="-0.334" y="287.837" fill="#FFED00" width="612" height="108.37"/>
+	<polygon fill="#FF8C00" points="0.077,218.728 68.098,179.468 543.89,179.468 611.911,218.728 611.665,287.837 -0.334,287.837 	"/>
+	<polyline fill="#E40303" points="68.098,179.468 305.994,42.123 543.89,179.468 	"/>
+</g>
+<linearGradient id="gradient_1_" gradientUnits="userSpaceOnUse" x1="305.665" y1="404.7256" x2="305.665" y2="134.4175" gradientTransform="matrix(1 0 0 1 0 -80)">
+	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<path id="gradient_2_" opacity="0.2" fill="url(#gradient_1_)" d="M305.585,54.417L59.214,197.048
+	c36.979,74.535,133.292,127.677,246.28,127.677c113.336,0,209.895-53.47,246.621-128.366L305.585,54.417z"/>
+<g id="img">
+</g>
+<path id="outline_2_" fill="#FFFFFF" d="M587.514,204.656L356.203,71.099l-50.209-28.976l-50.209,28.976L24.474,204.656
+	L0.077,218.728v353.293l24.396,14.071l234.142,135.225l47.379,27.312l47.378-27.312l234.142-135.223l24.397-14.07V218.728
+	L587.514,204.656z M587.514,558.783l-281.52,162.534L24.474,558.783v-325.15l281.52-162.534l0,0l281.52,162.534V558.783z"/>
+</svg>

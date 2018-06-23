@@ -1,0 +1,8 @@
+{
+  "name": "visdat",
+  "author": "Nicholas Tierney",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/visdat.png",
+  "vector": "http://hexb.in/vector/visdat.svg",
+  "description": "visdat is an R package to quickly visualise whole dataframes. More information is available at visdat.njtierney.com"
+}

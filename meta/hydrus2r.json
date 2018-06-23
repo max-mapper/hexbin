@@ -1,0 +1,8 @@
+{
+  "name": "hydrus2r",
+  "author": "Jan Knappe",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/hydrus2r.png",
+  "vector": "http://hexb.in/vector/hydrus2r.svg",
+  "description": "The hydrus2r R-package logo"
+}

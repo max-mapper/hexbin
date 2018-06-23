@@ -1,0 +1,9 @@
+{
+  "name": "pdp",
+  "author": "Brandon greenwell",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/pdp.png",
+  "vector": "http://hexb.in/vector/pdp.svg",
+  "description": "pdp: A general framework for constructing partial dependence (i.e., marginal effect) plots from various types machine learning models in R.",
+  "order_online_url": "https://www.stickermule.com/marketplace/"
+}

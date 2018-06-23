@@ -1,0 +1,9 @@
+{
+  "name": "makezurich",
+  "author": "makezurich",
+  "license": "MIT",
+  "raster": "http://hexb.in/hexagons/makezurich.png",
+  "vector": "http://hexb.in/vector/makezurich.svg",
+  "description": "makezurich.ch: Civic tech and LoRaWAN hackathon for a better city",
+  "filename": "meta/makezurich.json"
+}

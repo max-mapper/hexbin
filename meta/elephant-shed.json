@@ -1,0 +1,9 @@
+{
+  "name": "elephant-shed",
+  "author": "credativ",
+  "license": "CC-BY-SA 3.0 or GPL 3+",
+  "vector": "http://hexb.in/vector/elephant-shed.svg",
+  "description": "Elephant Shed PostgreSQL Appliance http://elephant-shed.io/",
+  "raster": "http://hexb.in/hexagons/elephant-shed.png",
+  "filename": "meta/elephant-shed.json"
+}

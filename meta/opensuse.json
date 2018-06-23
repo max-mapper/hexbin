@@ -1,0 +1,8 @@
+{
+  "name": "opensuse",
+  "author": "Douglas DeMaio",
+  "license": "https://en.opensuse.org/openSUSE:License",
+  "raster": "http://hexb.in/hexagons/opensuse.png",
+  "vector": "http://hexb.in/vector/opensuse.svg",
+  "description": "openSUSE is a Linux-based project with many distributions and tools - https://www.opensuse.org/"
+}

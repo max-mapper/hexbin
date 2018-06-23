@@ -40,3 +40,16 @@ after merging PRs/adding new hexes you have to build the site:
 - commit + add
 - git push origin gh-pages
 
+So the general workflow I'd suggest is to start with the oldest PRs first and work towards the newer ones.
+
+Usually I click the 'Files changed' tab to look at what files they touched. If they followed the directions it should only touch files in hexagons/, meta/, and vectors/.
+
+If github lets me I then hit the green 'Merge pull request' button on github and move to the next one.
+
+I basically repeat this process for all the straightforward PRs. If you get one that changes other files beyond those 3 folders or otherwise looks weird, ignore it for now.
+
+After merging them all you have to clone/pull the gh-pages branch (there is no master branch only gh-pages on this repo), git pull origin gh-pages. To push you do git push origin gh-pages.
+
+After pulling, run `npm run build`. This should build a new data.json file. You can run `npm start` to start a local test server to visually inspect if the page looks ok. If it does, you can push.
+
+OK for the weird ones, you can simply comment like how DanFinlay does and point out the weird stuff they did. If you're feeling generous you can just merge it anyway and then go in manually and fix their files after in a new commit, rebuild and push a fixed version.

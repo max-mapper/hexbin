@@ -1,0 +1,8 @@
+{
+  "name": "drake",
+  "author": "William Michael Landau <will.landau@gmail.com>",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/drake.png",
+  "vector": "http://hexb.in/vector/drake.svg",
+  "description": "drake: an R package for reproducible code and high-performance computing"
+}

@@ -32,7 +32,12 @@ here is an example of a great PR: https://github.com/maxogden/hexbin/pull/5
 
 You do not need to rebuild the site in your PR, in fact this makes merges more complicated for maintainers. Please let the maintainers handle rebuilding after merges.
 
-You can use [hexsticker]((https://github.com/fridex/hexsticker) to automate sticker creation based on the sticker standard.
+## resources
+
+Tools are available in several programming to help automate sticker creation based on the sticker standard:
+
+- [hexsticker](https://github.com/fridex/hexsticker) uses python
+- [hexSticker](https://github.com/GuangchuangYu/hexSticker) uses R
 
 # for maintainers
 

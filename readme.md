@@ -34,7 +34,7 @@ You do not need to rebuild the site in your PR, in fact this makes merges more c
 
 ## resources
 
-Tools are available in several programming to help automate sticker creation based on the sticker standard:
+Tools are available in several programming languages to help automate sticker creation based on the sticker standard:
 
 - [hexsticker](https://github.com/fridex/hexsticker) uses python
 - [hexSticker](https://github.com/GuangchuangYu/hexSticker) uses R

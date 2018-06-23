@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="445px"
+   height="509px"
+   viewBox="0 0 445 509"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="osig.svg"
+   inkscape:export-filename="E:\My Documents\My Papers\SAAAR\OSIG\hexbin\hexagons\osig.png"
+   inkscape:export-xdpi="38.756535"
+   inkscape:export-ydpi="38.756535">
+  <metadata
+     id="metadata41">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>pdxnode</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     id="namedview39"
+     showgrid="false"
+     inkscape:zoom="0.93122652"
+     inkscape:cx="220.86237"
+     inkscape:cy="254.5"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Group" />
+  <title
+     id="title4">pdxnode</title>
+  <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+  <defs
+     id="defs6">
+    <polygon
+       id="path-1"
+       points="230.325958 0 429.794088 115.211219 429.794088 345.633656 230.325958 460.844875 30.8578272 345.633656 30.8578272 115.211219 " />
+    <mask
+       id="mask-2"
+       sketch:name="Polygon 13"
+       fill="white">
+      <use
+         xlink:href="#path-1"
+         id="use10" />
+    </mask>
+    <path
+       id="path-3"
+       d="M83.2019067,291.017915 C88.2754828,289.562521 96.2060883,291.396066 101.01871,289.325262 C103.205639,288.384256 109.428117,289.356889 111.129887,287.892392 C115.103541,284.472775 143.239595,280.114768 150.403266,276.418611 C151.427857,275.889965 180.361128,274.779149 185.961404,273.172668 C192.287831,271.357885 222.857679,252.363283 224.541418,248.74488 C224.733138,248.332869 234.887346,239.754787 236.831745,242.161325 C243.450945,250.353759 257.519699,247.946927 263.987748,259.048281 C264.618032,260.130061 270.394163,258.474923 272.756216,260.602925 C274.327341,262.01837 291.128027,267.622261 291.920443,268.031115 C300.448159,272.431063 307.045464,271.410992 316.617438,273.470337 C320.034692,274.205536 324.066801,277.424483 326.233354,279.376357 C331.491396,284.113389 347.738289,282.173378 354.544966,283.34753 C360.902975,284.444287 365.838751,288.424137 373.503227,288.424137 C390.683813,288.424137 399.007333,292.39531 415.333093,292.39531 C420.547506,292.39531 426.577503,296.193863 429.480252,292.621267 C432.744773,288.603416 437.816271,-52.4065018 437.816271,-58.5204085 C437.816271,-71.272906 -17.0564585,-58.5204085 -19.7245767,-58.5204085 C-26.4032716,-58.5204085 11.8284075,254.153087 11.5259071,264.82441 C11.4867322,266.206385 7.66265497,296.547404 11.525907,297.378556 C16.4680718,298.441829 53.0047825,296.217913 60.5079658,295.231282 C67.9333857,295.231282 76.9483151,292.811804 83.2019067,291.017915 Z" />
+  </defs>
+  <g
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+     transform="translate(-10.221558,10.039916)"
+     sketch:type="MSLayerGroup"
+     id="Group">
+    <polygon
+       style="stroke:#303030;stroke-width:24;stroke-opacity:1"
+       points="31.757929,343.544 31.757929,117.02508 229.57756,3.765625 427.3972,117.02508 427.3972,343.544 229.57756,456.80346 "
+       sketch:type="MSShapeGroup"
+       id="polygon34" />
+    <g
+       id="g4983-0"
+       transform="matrix(0.9499338,0,0,0.9499338,-799.42873,-349.6775)">
+      <g
+         transform="translate(4,-22)"
+         id="g4969-99">
+        <text
+           style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:233.12831116px;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;writing-mode:lr-tb;fill:#303030;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text4905-07"
+           x="905.57025"
+           y="718.18182">
+          <tspan
+             x="905.57025"
+             y="718.18182"
+             id="tspan4907-9"></tspan>
+        </text>
+        <text
+           style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:62.01213837px;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;writing-mode:lr-tb;fill:#303030;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text4909-3-9"
+           x="933.24164"
+           y="592.78326">
+          <tspan
+             x="933.24164"
+             y="592.78326"
+             id="tspan4911-7-2"></tspan>
+        </text>
+        <text
+           style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56.49699783px;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;writing-mode:lr-tb;fill:#303030;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text4913-4-2"
+           x="936.65723"
+           y="655.25671">
+          <tspan
+             x="936.65723"
+             y="655.25671"
+             id="tspan4915-2-6"></tspan>
+        </text>
+        <text
+           style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.61726379px;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;writing-mode:lr-tb;fill:#303030;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text4917-4-7"
+           x="952.74701"
+           y="716.22839">
+          <tspan
+             x="952.74701"
+             y="716.22839"
+             id="tspan4919-1-0"></tspan>
+        </text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text5652-1-2"
+           y="716.85388"
+           x="1022.4425"
+           style="font-style:normal;font-weight:normal;font-size:46.69859314px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="716.85388"
+             x="1022.4425"
+             id="tspan5654-3-0"
+             sodipodi:role="line"></tspan></text>
+        <text
+           style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:107.37059021px;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text4877-0-5-8"
+           x="1023.3959"
+           y="654.37012"
+           inkscape:export-xdpi="600"
+           inkscape:export-ydpi="600">
+          <tspan
+             x="1023.3959"
+             y="654.37012"
+             id="tspan4879-9-9-85"
+             style="font-size:48.36515808px;fill:#333333"></tspan>
+        </text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:148.75476074px;line-height:99.00000095%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-235.50694"
+       y="364.90561"
+       id="text5060-4"
+       sodipodi:linespacing="99.000001%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         x="-235.50694"
+         y="364.90561"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.87928772px;line-height:99.00000095%;font-family:'Helvetica LT Narrow';-inkscape-font-specification:'Helvetica LT Narrow';text-align:center;text-anchor:middle"
+         id="tspan5078-1">OSIG</tspan></text>
+  </g>
+</svg>

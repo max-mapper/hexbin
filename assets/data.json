@@ -842,6 +842,15 @@
     "filename": "meta/mapzen.json"
   },
   {
+    "name": "matrix",
+    "author": "Jan Christian Grünhage",
+    "license": "CC BY-NC-ND 4.0",
+    "raster": "http://hexb.in/hexagons/matrix.png",
+    "vector": "http://hexb.in/vector/matrix.svg",
+    "description": "An open network for secure, decentralized communication. (https://matrix.org)",
+    "filename": "meta/matrix.json"
+  },
+  {
     "name": "meinanutshell-logo",
     "author": "Me In a Nutshell",
     "license": "CC-BY-SA",
@@ -1205,6 +1214,15 @@
     "filename": "meta/opensuse.json"
   },
   {
+    "name": "osig",
+    "author": "Ben Marwick",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/osig.png",
+    "vector": "http://hexb.in/vector/osig.svg",
+    "description": "Open Science Interest Group (Society of American Archaeology), https://osf.io/2dfhz/",
+    "filename": "meta/osig.json"
+  },
+  {
     "name": "packrat",
     "author": "rstudio",
     "license": "CC0",
@@ -1400,6 +1418,15 @@
     "filename": "meta/rangle.json"
   },
   {
+    "name": "raukr",
+    "author": "Jonas SÃderberg, Sebastian DiLorenzo, Marcin Kierczak",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/raukr-2018.png",
+    "vector": "http://hexb.in/vector/raukr-2018.svg",
+    "description": "RaukR. Advanced R for Bioinformatics Summer School. 11-21 June 2018, Visby, Sweden",
+    "filename": "meta/raukr.json"
+  },
+  {
     "name": "readr",
     "author": "rstudio",
     "license": "CC0",
@@ -1436,6 +1463,15 @@
     "description": "Logo for the Arhus useR meetup, http://Rhus.club.",
     "raster": "http://hexb.in/hexagons/rhus.png",
     "filename": "meta/rhus.json"
+  },
+  {
+    "name": "riot",
+    "author": "Jan Christian Grünhage",
+    "license": "CC BY-NC-ND 4.0",
+    "raster": "http://hexb.in/hexagons/riot.png",
+    "vector": "http://hexb.in/vector/riot.svg",
+    "description": "A workplace group chat built on Matrix. (https://riot.im/)",
+    "filename": "meta/riot.json"
   },
   {
     "name": "rmarkdown",

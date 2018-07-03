@@ -607,6 +607,15 @@
     "filename": "meta/gl-como.json"
   },
   {
+    "name": "goodpractice",
+    "author": "Hannah Frick",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/goodpractice.png",
+    "vector": "http://hexb.in/vector/goodpractice.svg",
+    "description": "goodpractice: Advice on R Package Building. https://github.com/MangoTheCat/goodpractice",
+    "filename": "meta/goodpractice.json"
+  },
+  {
     "name": "gr8conf",
     "author": "Soeren Glasius (GR8Conf Organizer)",
     "license": "CC0",

@@ -1,0 +1,8 @@
+{
+  "name": "eplusr",
+  "author": "Hongyuan Jia",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/eplusr.png",
+  "vector": "http://hexb.in/vector/eplusr.svg",
+  "description": "eplusr: A Toolkit for Using EnergyPlus in R."
+}

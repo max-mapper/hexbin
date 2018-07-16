@@ -505,6 +505,15 @@
     "filename": "meta/elephant-shed.json"
   },
   {
+    "name": "eplusr",
+    "author": "Hongyuan Jia",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/eplusr.png",
+    "vector": "http://hexb.in/vector/eplusr.svg",
+    "description": "eplusr: A Toolkit for Using EnergyPlus in R.",
+    "filename": "meta/eplusr.json"
+  },
+  {
     "name": "feather",
     "author": "rstudio",
     "license": "CC0",
@@ -783,6 +792,14 @@
     "vector": "http://hexb.in/vector/kopijs.svg",
     "raster": "http://hexb.in/hexagons/kopijs.png",
     "filename": "meta/kopijs.json"
+  },
+  {
+    "name": "licensezero",
+    "author": "Kyle E. Mitchell",
+    "license": "CC0-1.0",
+    "raster": "http://hexb.in/hexagons/licensezero.png",
+    "vector": "http://hexb.in/vector/licensezero.svg",
+    "filename": "meta/licensezero.json"
   },
   {
     "name": "linuxmint",

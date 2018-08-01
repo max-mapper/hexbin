@@ -1510,6 +1510,15 @@
     "filename": "meta/riot.json"
   },
   {
+    "name": "rise",
+    "author": "david wiley",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/rise.png",
+    "vector": "http://hexb.in/vector/rise.svg",
+    "description": "RISE analysis helps identify open educational resources that are not adequately supporting student learning",
+    "filename": "meta/rise.json"
+  },
+  {
     "name": "rmarkdown",
     "author": "rstudio",
     "license": "CC0",

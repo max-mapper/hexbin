@@ -2,8 +2,7 @@
   "name": "rise",
   "author": "david wiley",
   "license": "CC0",
-  "raster": "http://hexb.in/hexagons/dat.png",
-  "vector": "http://hexb.in/vector/dat.svg",
-  "description": "this is optional!",
-  "order_online_url": "this is optional. should be a link to where people can buy the sticker online"
+  "raster": "http://hexb.in/hexagons/rise.png",
+  "vector": "http://hexb.in/vector/rise.svg",
+  "description": "RISE analysis helps identify open educational resources that are not adequately supporting student learning"
 }

@@ -1,0 +1,9 @@
+{
+  "name": "circumplex",
+  "author": "jeffrey girard",
+  "license": "GPL 3",
+  "raster": "http://hexb.in/hexagons/circumplex.png",
+  "vector": "http://hexb.in/vector/circumplex.svg",
+  "description": "circumplex: Analysis and Visualization of Circumplex Data",
+  "order_online_url": "https://www.redbubble.com/people/jmgirard/works/32902204?asc=u&p=sticker&rel=carousel"
+}

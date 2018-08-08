@@ -1,0 +1,9 @@
+{
+  "name": "ggrepel",
+  "author": "Kamil Slowikowski",
+  "license": "CC BY-SA",
+  "raster": "http://hexb.in/hexagons/ggrepel.png",
+  "vector": "http://hexb.in/vector/ggrepel.svg",
+  "description": "ggrepel: Automatically Position Non-Overlapping Text Labels with 'ggplot2'",
+  "order_online_url": "https://www.stickermule.com/marketplace/"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Taipan",
+  "author": "Mitchell O'Hara-Wild",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/taipan.png",
+  "vector": "http://hexb.in/vector/taipan.svg",
+  "description": "R Tool for Annotating Images in Preparation for ANalysis",
+}

@@ -1,0 +1,8 @@
+{
+  "name": "inkscape",
+  "author": "shadab khan",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/inkscape.png",
+  "vector": "http://hexb.in/vector/inkscape.svg",
+  "description": "A powerful, free design tool.",
+}

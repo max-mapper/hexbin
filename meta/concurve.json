@@ -1,0 +1,8 @@
+{
+  "name": "concurve",
+  "author": "zad rafi chow",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/concurve.png",
+  "vector": "http://hexb.in/vector/concurve.svg",
+  "description": "Compute and plot confidence/consonance curves!"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "loon",
+  "author": "loon",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/loon.png",
+  "vector": "http://hexb.in/vector/loon.svg",
+  "description": "loon: Interactive Statistical Data Visualization.",
+  "filename": "meta/loon.json"
+}

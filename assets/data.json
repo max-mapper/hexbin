@@ -39,6 +39,15 @@
     "filename": "meta/angular.json"
   },
   {
+    "name": "Antifaschistische Aktion",
+    "author": "Rosa Josephson",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/antifaschistische-aktion.png",
+    "vector": "http://hexb.in/vector/antifaschistische-aktion.svg",
+    "description": "Logo of the \"Antifaschistische Aktion,\" a German antifacist group",
+    "filename": "meta/antifaschistische-aktion.json"
+  },
+  {
     "name": "apis-ipas",
     "author": "Kristján Oddsson",
     "license": "CC0",
@@ -460,6 +469,22 @@
     "filename": "meta/doop.json"
   },
   {
+    "name": "dotnetbot",
+    "author": ".NET Foundation",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/dotnetbot.png",
+    "vector": "http://hexb.in/vector/dotnetbot.svg",
+    "filename": "meta/dotnetbot.json"
+  },
+  {
+    "name": "dotnetfoundation",
+    "author": ".NET Foundation",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/dotnetfoundation.png",
+    "vector": "http://hexb.in/vector/dotnetfoundation.svg",
+    "filename": "meta/dotnetfoundation.json"
+  },
+  {
     "name": "dplyr",
     "author": "rstudio",
     "license": "CC0",
@@ -524,6 +549,16 @@
     "filename": "meta/eplusr.json"
   },
   {
+    "name": "evil-genius-labs",
+    "author": "Jason Coon",
+    "license": "CC4",
+    "raster": "http://hexb.in/hexagons/evil-genius-labs.png",
+    "vector": "http://hexb.in/vector/evil-genius-labs.svg",
+    "description": "Evil Genius Labs - Custom Electronic Art: https://www.evilgeniuslabs.org",
+    "order_online_url": "https://www.evilgeniuslabs.org",
+    "filename": "meta/evil-genius-labs.json"
+  },
+  {
     "name": "feather",
     "author": "rstudio",
     "license": "CC0",
@@ -535,12 +570,11 @@
   },
   {
     "name": "fedora",
-    "author": "matt carter",
-    "license": "https://fedoraproject.org/wiki/Logo",
+    "author": "Fedora Design Team",
+    "license": "https://fedoraproject.org/Logo/UsageGuidelines",
     "raster": "http://hexb.in/hexagons/fedora.png",
     "vector": "http://hexb.in/vector/fedora.svg",
     "description": "https://getfedora.org",
-    "order_online_url": "https://www.stickermule.com/marketplace/14721-fedora-hex-sticker",
     "filename": "meta/fedora.json"
   },
   {
@@ -691,6 +725,15 @@
     "description": "Hearing Things - A record label/music collective from Perth, Western Australia - http://hearingthings.com.au",
     "order_online_url": "http://hearingthings.com.au",
     "filename": "meta/hearing_things.json"
+  },
+  {
+    "name": "hexagonal-awareness-seed",
+    "author": "graham steele",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/hexagonal-awareness-seed.png",
+    "vector": "http://hexb.in/vector/hexagonal-awareness-seed.svg",
+    "description": "An interdisciplinary logo representing global hexagonal awareness",
+    "filename": "meta/hexagonal-awareness-seed.json"
   },
   {
     "name": "hms",
@@ -1681,6 +1724,15 @@
     "raster": "http://hexb.in/hexagons/sudoroom.png",
     "order_online_url": "https://www.stickermule.com/marketplace/1648-sudoroom-2-hexagon-sticker",
     "filename": "meta/sudoroom.json"
+  },
+  {
+    "name": "tdastats",
+    "author": "Raoul Wadhwa",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/TDAstats.png",
+    "vector": "http://hexb.in/vector/TDAstats.svg",
+    "description": "R pipeline to compute persistent homology in topological data analysis",
+    "filename": "meta/TDAstats.json"
   },
   {
     "name": "Tech Masters",

@@ -390,7 +390,7 @@
     "author": "david severski",
     "license": "CC0",
     "raster": "http://hexb.in/hexagons/collector.png",
-    "vector": "http://hexb.in/hexagons/collector.ai",
+    "vector": "http://hexb.in/vector/collector.ai",
     "description": "collector: conducting quantified information risk interviews with R.",
     "filename": "meta/collector.json"
   },
@@ -562,7 +562,7 @@
     "author": "david severski",
     "license": "CC0",
     "raster": "http://hexb.in/hexagons/evaluator.png",
-    "vector": "http://hexb.in/hexagons/evaluator.ai",
+    "vector": "http://hexb.in/vector/evaluator.ai",
     "description": "evaluator: quantified information risk analysis in R.",
     "filename": "meta/evaluator.json"
   },

@@ -4,6 +4,5 @@
   "license": "CC0",
   "raster": "http://hexb.in/hexagons/finalfit.png",
   "vector": "http://hexb.in/vector/finalfit.svg",
-  "description": "finalfit hex",
-  "order_online_url": ""
+  "description": "Finalfit package"
 }

@@ -1,0 +1,9 @@
+{
+  "name": "bolt",
+  "author": "ahpook",
+  "license": "CC0",
+  "vector": "http://hexb.in/vector/bolt.svg",
+  "description": "http://puppet.com/bolt/",
+  "raster": "http://hexb.in/hexagons/bolt.png",
+  "filename": "meta/bolt.json"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "carpentries",
+  "author": "serah rono",
+  "license": "CC BY",
+  "raster": "http://hexb.in/hexagons/carpentries.png",
+  "vector": "http://hexb.in/vector/carpentries.svg",
+  "description": "The Carpentries: teaching foundational coding, and data science skills to researchers worldwide."
+}

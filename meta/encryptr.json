@@ -1,0 +1,8 @@
+{
+  "name": "encryptr",
+  "author": "ewen harrison",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/encryptr.png",
+  "vector": "http://hexb.in/vector/encryptr.svg",
+  "description": "Encryptr package"
+}

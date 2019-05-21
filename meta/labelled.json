@@ -1,0 +1,8 @@
+{
+  "name": "labelled",
+  "author": "Joseph Larmarange",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/labelled.png",
+  "vector": "http://hexb.in/vector/labelled.svg",
+  "description": "labelled: Manipulating labelled vectors in R"
+}

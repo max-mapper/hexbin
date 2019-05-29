@@ -1084,6 +1084,16 @@
     "filename": "meta/minaswan.json"
   },
   {
+    "name": "mne",
+    "author": "Dan McCloy and Chris Holdgraf",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/mne.png",
+    "vector": "http://hexb.in/vector/mne.svg",
+    "description": "MNE-Python software",
+    "order_online_url": "https://www.stickermule.com/marketplace",
+    "filename": "meta/mne.json"
+  },
+  {
     "name": "moderndive",
     "author": "Chester Ismay and Albert Y. Kim",
     "license": "CC0",

@@ -1768,6 +1768,14 @@
     "filename": "meta/rvest.json"
   },
   {
+    "name": "sentohexabin",
+    "author": "sentometrics",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/sentohexabin.svg",
+    "raster": "http://hexb.in/hexagons/sentohexabin.png",
+    "filename": "meta/sentohexabin.json"
+  },
+  {
     "name": "shiny",
     "author": "rstudio",
     "license": "CC0",

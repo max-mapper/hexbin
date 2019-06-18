@@ -1,0 +1,8 @@
+{
+  "name": "odch",
+  "author": "thierry blancpain",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/odch.png",
+  "vector": "http://hexb.in/vector/odch.svg",
+  "description": "Opendata.ch ist die Schweizer Sektion der Open Knowledge Foundation"
+}

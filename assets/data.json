@@ -650,6 +650,15 @@
     "filename": "meta/fedora.json"
   },
   {
+    "name": "felp",
+    "author": "Atsushi Yasumoto:",
+    "license": "CC BY 4.0",
+    "raster": "http://hexb.in/hexagons/felp.png",
+    "vector": "http://hexb.in/vector/felp.svg",
+    "description": "Functional Help for Functions, Objects, and Packages",
+    "filename": "meta/felp.json"
+  },
+  {
     "name": "finalfit",
     "author": "ewen harrison",
     "license": "CC0",

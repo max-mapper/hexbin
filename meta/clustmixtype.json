@@ -1,9 +1,0 @@
-{
-  "name": "clustmixtype",
-  "author": "Gero Szepannek",
-  "license": "CC0",
-  "vector": "http://hexb.in/vector/clustmixtype.svg",
-  "description": "clustMixType: R package for clustering mixed-type data https://CRAN.R-project.org/package=clustMixType",
-  "raster": "http://hexb.in/hexagons/clustmixtype.png",
-  "filename": "meta/clustmixtype.json"
-}

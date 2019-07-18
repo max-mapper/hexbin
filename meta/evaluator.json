@@ -1,0 +1,8 @@
+{
+  "name": "evaluator",
+  "author": "david severski",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/evaluator.png",
+  "vector": "http://hexb.in/vector/evaluator.ai",
+  "description": "evaluator: quantified information risk analysis in R."
+}

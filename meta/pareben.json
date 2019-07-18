@@ -1,0 +1,9 @@
+{
+  "name": "pareben",
+  "author": "Colby Ford",
+  "license": "Apache 2.0",
+  "raster": "http://hexb.in/hexagons/pareben.png",
+  "vector": "http://hexb.in/vector/pareben.svg",
+  "description": "Parallel Implementations of the Empirical Bayesian Elastic Net Cross-Validation in R.",
+  "order_online_url": "https://github.com/colbyford/parEBEN"
+}

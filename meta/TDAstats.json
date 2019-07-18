@@ -1,0 +1,8 @@
+{
+  "name": "tdastats",
+  "author": "Raoul Wadhwa",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/TDAstats.png",
+  "vector": "http://hexb.in/vector/TDAstats.svg",
+  "description": "R pipeline to compute persistent homology in topological data analysis"
+}

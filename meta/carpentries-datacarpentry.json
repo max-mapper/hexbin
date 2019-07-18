@@ -1,0 +1,8 @@
+{
+  "name": "carpentries-datacarpentry",
+  "author": "serah rono",
+  "license": "CC BY",
+  "raster": "http://hexb.in/hexagons/carpentries-datacarpentry.png",
+  "vector": "http://hexb.in/vector/carpentries-datacarpentry.svg",
+  "description": "Data Carpentry: An introductory computational skills lesson project within The Carpentries."
+}

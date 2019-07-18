@@ -39,6 +39,15 @@
     "filename": "meta/angular.json"
   },
   {
+    "name": "Antifaschistische Aktion",
+    "author": "Rosa Josephson",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/antifaschistische-aktion.png",
+    "vector": "http://hexb.in/vector/antifaschistische-aktion.svg",
+    "description": "Logo of the \"Antifaschistische Aktion,\" a German antifacist group",
+    "filename": "meta/antifaschistische-aktion.json"
+  },
+  {
     "name": "apis-ipas",
     "author": "Kristján Oddsson",
     "license": "CC0",
@@ -103,6 +112,15 @@
     "filename": "meta/blug.json"
   },
   {
+    "name": "bolt",
+    "author": "ahpook",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/bolt.svg",
+    "description": "http://puppet.com/bolt/",
+    "raster": "http://hexb.in/hexagons/bolt.png",
+    "filename": "meta/bolt.json"
+  },
+  {
     "name": "broom",
     "author": "Stefan Milton Bache and Hadley Wickham",
     "license": "CC0",
@@ -130,6 +148,42 @@
     "raster": "http://hexb.in/hexagons/campjs-vi.png",
     "filename": "meta/campjs-vi.json",
     "order_online_url": "https://www.stickermule.com/marketplace/9006-campjs-vi"
+  },
+  {
+    "name": "carpentries-datacarpentry",
+    "author": "serah rono",
+    "license": "CC BY",
+    "raster": "http://hexb.in/hexagons/carpentries-datacarpentry.png",
+    "vector": "http://hexb.in/vector/carpentries-datacarpentry.svg",
+    "description": "Data Carpentry: An introductory computational skills lesson project within The Carpentries.",
+    "filename": "meta/carpentries-datacarpentry.json"
+  },
+  {
+    "name": "carpentries-librarycarpentry",
+    "author": "serah rono",
+    "license": "CC BY",
+    "raster": "http://hexb.in/hexagons/carpentries-librarycarpentry.png",
+    "vector": "http://hexb.in/vector/carpentries-librarycarpentry.svg",
+    "description": "Library Carpentry: An introductory computational skills lesson project within The Carpentries.",
+    "filename": "meta/carpentries-librarycarpentry.json"
+  },
+  {
+    "name": "carpentries-softwarecarpentry",
+    "author": "serah rono",
+    "license": "CC BY",
+    "raster": "http://hexb.in/hexagons/carpentries-softwarecarpentry.png",
+    "vector": "http://hexb.in/vector/carpentries-softwarecarpentry.svg",
+    "description": "Software Carpentry: An introductory computational skills lesson project within The Carpentries.",
+    "filename": "meta/carpentries-softwarecarpentry.json"
+  },
+  {
+    "name": "carpentries",
+    "author": "serah rono",
+    "license": "CC BY",
+    "raster": "http://hexb.in/hexagons/carpentries.png",
+    "vector": "http://hexb.in/vector/carpentries.svg",
+    "description": "The Carpentries: teaching foundational coding, and data science skills to researchers worldwide.",
+    "filename": "meta/carpentries.json"
   },
   {
     "name": "casto",
@@ -377,6 +431,15 @@
     "filename": "meta/coldwar.json"
   },
   {
+    "name": "collector",
+    "author": "david severski",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/collector.png",
+    "vector": "http://hexb.in/vector/collector.ai",
+    "description": "collector: conducting quantified information risk interviews with R.",
+    "filename": "meta/collector.json"
+  },
+  {
     "name": "cssconfuy",
     "author": "jsconfuy",
     "license": "CC0",
@@ -460,6 +523,22 @@
     "filename": "meta/doop.json"
   },
   {
+    "name": "dotnetbot",
+    "author": ".NET Foundation",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/dotnetbot.png",
+    "vector": "http://hexb.in/vector/dotnetbot.svg",
+    "filename": "meta/dotnetbot.json"
+  },
+  {
+    "name": "dotnetfoundation",
+    "author": ".NET Foundation",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/dotnetfoundation.png",
+    "vector": "http://hexb.in/vector/dotnetfoundation.svg",
+    "filename": "meta/dotnetfoundation.json"
+  },
+  {
     "name": "dplyr",
     "author": "rstudio",
     "license": "CC0",
@@ -515,6 +594,15 @@
     "filename": "meta/elephant-shed.json"
   },
   {
+    "name": "encryptr",
+    "author": "ewen harrison",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/encryptr.png",
+    "vector": "http://hexb.in/vector/encryptr.svg",
+    "description": "Encryptr package",
+    "filename": "meta/encryptr.json"
+  },
+  {
     "name": "eplusr",
     "author": "Hongyuan Jia",
     "license": "CC0",
@@ -522,6 +610,25 @@
     "vector": "http://hexb.in/vector/eplusr.svg",
     "description": "eplusr: A Toolkit for Using EnergyPlus in R.",
     "filename": "meta/eplusr.json"
+  },
+  {
+    "name": "evaluator",
+    "author": "david severski",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/evaluator.png",
+    "vector": "http://hexb.in/vector/evaluator.ai",
+    "description": "evaluator: quantified information risk analysis in R.",
+    "filename": "meta/evaluator.json"
+  },
+  {
+    "name": "evil-genius-labs",
+    "author": "Jason Coon",
+    "license": "CC4",
+    "raster": "http://hexb.in/hexagons/evil-genius-labs.png",
+    "vector": "http://hexb.in/vector/evil-genius-labs.svg",
+    "description": "Evil Genius Labs - Custom Electronic Art: https://www.evilgeniuslabs.org",
+    "order_online_url": "https://www.evilgeniuslabs.org",
+    "filename": "meta/evil-genius-labs.json"
   },
   {
     "name": "feather",
@@ -535,13 +642,30 @@
   },
   {
     "name": "fedora",
-    "author": "matt carter",
-    "license": "https://fedoraproject.org/wiki/Logo",
+    "author": "Fedora Design Team",
+    "license": "https://fedoraproject.org/Logo/UsageGuidelines",
     "raster": "http://hexb.in/hexagons/fedora.png",
     "vector": "http://hexb.in/vector/fedora.svg",
     "description": "https://getfedora.org",
-    "order_online_url": "https://www.stickermule.com/marketplace/14721-fedora-hex-sticker",
     "filename": "meta/fedora.json"
+  },
+  {
+    "name": "felp",
+    "author": "Atsushi Yasumoto:",
+    "license": "CC BY 4.0",
+    "raster": "http://hexb.in/hexagons/felp.png",
+    "vector": "http://hexb.in/vector/felp.svg",
+    "description": "Functional Help for Functions, Objects, and Packages",
+    "filename": "meta/felp.json"
+  },
+  {
+    "name": "finalfit",
+    "author": "ewen harrison",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/finalfit.png",
+    "vector": "http://hexb.in/vector/finalfit.svg",
+    "description": "Finalfit package",
+    "filename": "meta/finalfit.json"
   },
   {
     "name": "forcats",
@@ -693,6 +817,15 @@
     "filename": "meta/hearing_things.json"
   },
   {
+    "name": "hexagonal-awareness-seed",
+    "author": "graham steele",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/hexagonal-awareness-seed.png",
+    "vector": "http://hexb.in/vector/hexagonal-awareness-seed.svg",
+    "description": "An interdisciplinary logo representing global hexagonal awareness",
+    "filename": "meta/hexagonal-awareness-seed.json"
+  },
+  {
     "name": "hms",
     "author": "rstudio",
     "license": "CC0",
@@ -814,6 +947,15 @@
     "filename": "meta/kopijs.json"
   },
   {
+    "name": "labelled",
+    "author": "Joseph Larmarange",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/labelled.png",
+    "vector": "http://hexb.in/vector/labelled.svg",
+    "description": "labelled: Manipulating labelled vectors in R",
+    "filename": "meta/labelled.json"
+  },
+  {
     "name": "licensezero",
     "author": "Kyle E. Mitchell",
     "license": "CC0-1.0",
@@ -841,6 +983,15 @@
     "filename": "meta/linuxvar.json"
   },
   {
+    "name": "loon",
+    "author": "loon",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/loon.png",
+    "vector": "http://hexb.in/vector/loon.svg",
+    "description": "loon: Interactive Statistical Data Visualization.",
+    "filename": "meta/loon.json"
+  },
+  {
     "name": "loowid-logo",
     "author": "sinmsinm",
     "license": "CC0",
@@ -859,6 +1010,15 @@
     "description": "lubridate: Make Dealing with Dates a Little Easier.",
     "order_online_url": "https://www.stickermule.com/marketplace/",
     "filename": "meta/lubridate.json"
+  },
+  {
+    "name": "lyra",
+    "author": "ahpook",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/lyra.svg",
+    "description": "http://lyraproj.io/",
+    "raster": "http://hexb.in/hexagons/lyra.png",
+    "filename": "meta/lyra.json"
   },
   {
     "name": "magrittr",
@@ -931,6 +1091,16 @@
     "description": "MINASWAN: Matz is nice and so we are nice",
     "raster": "http://hexb.in/hexagons/minaswan.png",
     "filename": "meta/minaswan.json"
+  },
+  {
+    "name": "mne",
+    "author": "Dan McCloy and Chris Holdgraf",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/mne.png",
+    "vector": "http://hexb.in/vector/mne.svg",
+    "description": "MNE-Python software",
+    "order_online_url": "https://www.stickermule.com/marketplace",
+    "filename": "meta/mne.json"
   },
   {
     "name": "moderndive",
@@ -1279,6 +1449,16 @@
     "filename": "meta/packrat.json"
   },
   {
+    "name": "pareben",
+    "author": "Colby Ford",
+    "license": "Apache 2.0",
+    "raster": "http://hexb.in/hexagons/pareben.png",
+    "vector": "http://hexb.in/vector/pareben.svg",
+    "description": "Parallel Implementations of the Empirical Bayesian Elastic Net Cross-Validation in R.",
+    "order_online_url": "https://github.com/colbyford/parEBEN",
+    "filename": "meta/pareben.json"
+  },
+  {
     "name": "pdp",
     "author": "Brandon greenwell",
     "license": "CC0",
@@ -1597,6 +1777,14 @@
     "filename": "meta/rvest.json"
   },
   {
+    "name": "sentohexabin",
+    "author": "sentometrics",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/sentohexabin.svg",
+    "raster": "http://hexb.in/hexagons/sentohexabin.png",
+    "filename": "meta/sentohexabin.json"
+  },
+  {
     "name": "shiny",
     "author": "rstudio",
     "license": "CC0",
@@ -1681,6 +1869,15 @@
     "raster": "http://hexb.in/hexagons/sudoroom.png",
     "order_online_url": "https://www.stickermule.com/marketplace/1648-sudoroom-2-hexagon-sticker",
     "filename": "meta/sudoroom.json"
+  },
+  {
+    "name": "tdastats",
+    "author": "Raoul Wadhwa",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/TDAstats.png",
+    "vector": "http://hexb.in/vector/TDAstats.svg",
+    "description": "R pipeline to compute persistent homology in topological data analysis",
+    "filename": "meta/TDAstats.json"
   },
   {
     "name": "Tech Masters",

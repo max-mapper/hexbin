@@ -1,0 +1,9 @@
+{
+  "name": "lyra",
+  "author": "ahpook",
+  "license": "CC0",
+  "vector": "http://hexb.in/vector/lyra.svg",
+  "description": "http://lyraproj.io/",
+  "raster": "http://hexb.in/hexagons/lyra.png",
+  "filename": "meta/lyra.json"
+}

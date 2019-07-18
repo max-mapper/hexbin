@@ -1,0 +1,8 @@
+{
+  "name": "collector",
+  "author": "david severski",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/collector.png",
+  "vector": "http://hexb.in/vector/collector.ai",
+  "description": "collector: conducting quantified information risk interviews with R."
+}

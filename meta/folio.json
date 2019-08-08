@@ -1,0 +1,8 @@
+{
+  "name": "folio",
+  "author": "FOLIO Community",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/folio.png",
+  "vector": "http://hexb.in/vector/folio.svg",
+  "description": "Logo for the FOLIO Project: an open source library services platform (https://www.folio.org/)",
+}

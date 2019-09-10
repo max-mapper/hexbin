@@ -1,0 +1,8 @@
+{
+  "name": "Manubot",
+  "author": "Vincent Rubinetti",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/manubot.png",
+  "vector": "http://hexb.in/vector/manubot.svg",
+  "description": "Manubot is a workflow and set of tools for the next generation of scholarly publishing."
+}

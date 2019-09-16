@@ -10,6 +10,7 @@ glob('meta/*.json', function (err, files) {
     file.filename = f
     data.push(file)
   })
-  
+
   fs.writeFileSync(__dirname + '/assets/data.json', JSON.stringify(data, null, '  '))
 })
+

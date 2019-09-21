@@ -1,0 +1,9 @@
+{
+  "name": "centos",
+  "author": "williamjmorenor",
+  "license": "CC-By",
+  "vector": "http://hexb.in/vector/centos.svg",
+  "description": "CentOS Project",
+  "raster": "http://hexb.in/hexagons/centos.png",
+  "filename": "meta/centos.json"
+}

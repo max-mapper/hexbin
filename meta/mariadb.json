@@ -1,0 +1,9 @@
+{
+  "name": "mariadb",
+  "author": "williamjmorenor",
+  "license": "https://mariadb.org/about/trademark/",
+  "vector": "http://hexb.in/vector/mariadb.svg",
+  "description": "MariaDB",
+  "raster": "http://hexb.in/hexagons/mariadb.png",
+  "filename": "meta/mariadb.json"
+}

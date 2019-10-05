@@ -1,0 +1,8 @@
+{
+  "name": "fedora",
+  "author": "William Moreno Reyes",
+  "license": "https://wiki.postgresql.org/wiki/Logo",
+  "raster": "http://hexb.in/hexagons/postgresql.png",
+  "vector": "http://hexb.in/vector/postgresql.svg",
+  "description": "https://postgresql.org"
+}

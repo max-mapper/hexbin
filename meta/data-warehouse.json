@@ -1,0 +1,9 @@
+{
+  "name": "data-warehouse",
+  "author": "rockmedia-es",
+  "license": "CC BY-NC-SA 4.0",
+  "raster": "http://hexb.in/hexagons/data-warehouse.png",
+  "vector": "http://hexb.in/vector/data-warehouse.svg",
+  "description": "One warehouse to store all the data",
+  "order_online_url": "https://www.rockmedia.es"
+}

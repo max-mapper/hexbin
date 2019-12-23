@@ -1,0 +1,9 @@
+{
+  "name": "hydrotsm",
+  "author": "gayan gunaratne",
+  "license": "DWER",
+  "vector": "http://hexb.in/vector/hydrotsm.svg",
+  "description": "hydroTSM",
+  "raster": "http://hexb.in/hexagons/hydrotsm.png",
+  "filename": "meta/hydrotsm.json"
+}

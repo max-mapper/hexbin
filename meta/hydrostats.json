@@ -1,0 +1,9 @@
+{
+  "name": "hydrostats",
+  "author": "gayan gunaratne",
+  "license": "DWER",
+  "vector": "http://hexb.in/vector/hydrostats.svg",
+  "description": "hydrostats",
+  "raster": "http://hexb.in/hexagons/hydrostats.png",
+  "filename": "meta/hydrostats.json"
+}

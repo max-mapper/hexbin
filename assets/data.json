@@ -140,6 +140,15 @@
     "filename": "meta/browserify.json"
   },
   {
+    "name": "buffalo-r",
+    "author": "Scott Jackson <github:scottmmjackson>",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/buffalo-r.png",
+    "vector": "http://hexb.in/vector/buffalo-r.svg",
+    "description": "BuffaloR is a free meetup for the R programming language in the Buffalo, NY area. https://www.meetup.com/Buffalo-R/",
+    "filename": "meta/buffalo-r.json"
+  },
+  {
     "name": "campjs-vi",
     "author": "Damon Oehlman <damon.oehlman@gmail.com>",
     "license": "MIT",
@@ -1037,6 +1046,15 @@
     "vector": "http://hexb.in/vector/makezurich.svg",
     "description": "makezurich.ch: Civic tech and LoRaWAN hackathon for a better city",
     "filename": "meta/makezurich.json"
+  },
+  {
+    "name": "Manubot",
+    "author": "Vincent Rubinetti",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/manubot.png",
+    "vector": "http://hexb.in/vector/manubot.svg",
+    "description": "Manubot is a workflow and set of tools for the next generation of scholarly publishing.",
+    "filename": "meta/manubot.json"
   },
   {
     "name": "mapzen",

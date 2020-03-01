@@ -677,6 +677,15 @@
     "filename": "meta/finalfit.json"
   },
   {
+    "name": "folio",
+    "author": "FOLIO Community",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/folio.png",
+    "vector": "http://hexb.in/vector/folio.svg",
+    "description": "Logo for the FOLIO Project: an open source library services platform (https://www.folio.org/)",
+    "filename": "meta/folio.json"
+  },
+  {
     "name": "forcats",
     "author": "rstudio",
     "license": "CC0",
@@ -1157,6 +1166,14 @@
     "raster": "http://hexb.in/hexagons/move-slow.png",
     "filename": "meta/move-slow.json",
     "order_online_url": "https://www.stickermule.com/marketplace/1580-move-slow-and-make-things"
+  },
+  {
+    "name": "msgarchhexbin",
+    "author": "msgarch",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/msgarchhexbin.svg",
+    "raster": "http://hexb.in/hexagons/msgarchhexbin.png",
+    "filename": "meta/msgarchhexbin.json"
   },
   {
     "name": "naniar",
@@ -1735,6 +1752,15 @@
     "description": "rmarkdown: Dynamic Documents for R.",
     "order_online_url": "https://www.stickermule.com/marketplace/",
     "filename": "meta/rmarkdown.json"
+  },
+  {
+    "name": "rockstar",
+    "author": "Dylan Beattie",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/rockstar.png",
+    "vector": "http://hexb.in/vector/rockstar.svg",
+    "description": "Logo for the Rockstar programming language (https://codewithrockstar.com)",
+    "filename": "meta/rockstar.json"
   },
   {
     "name": "rOpenSCi",

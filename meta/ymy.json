@@ -1,0 +1,9 @@
+{
+  "name": "ymy",
+  "author": "Yazılımcıların Mola Yeri",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/ymy.png",
+  "vector": "http://hexb.in/vector/ymy.svg",
+  "description": "The 'Yazılımcıların Mola Yeri' is the community that brings together people who love programming.",
+  "order_online_url": "https://www.ymy-discord.github.io/"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "comparewith",
+  "author": "mirai-solutions",
+  "license": "CC BY 4.0",
+  "raster": "http://hexb.in/hexagons/comparewith.png",
+  "vector": "http://hexb.in/vector/comparewith.svg",
+  "description": "RStudio Addins for Enhanced Diff and Merge"
+}

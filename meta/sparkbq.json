@@ -1,0 +1,8 @@
+{
+  "name": "sparkbq",
+  "author": "mirai-solutions",
+  "license": "CC BY 4.0",
+  "raster": "http://hexb.in/hexagons/sparkbq.png",
+  "vector": "http://hexb.in/vector/sparkbq.svg",
+  "description": "Google BigQuery Support for sparklyr"
+}

@@ -513,6 +513,16 @@
     "order_online_url": "https://www.stickermule.com/marketplace/9709-dat-data-v3"
   },
   {
+    "name": "data-warehouse",
+    "author": "rockmedia-es",
+    "license": "CC BY-NC-SA 4.0",
+    "raster": "http://hexb.in/hexagons/data-warehouse.png",
+    "vector": "http://hexb.in/vector/data-warehouse.svg",
+    "description": "One warehouse to store all the data",
+    "order_online_url": "https://www.rockmedia.es",
+    "filename": "meta/data-warehouse.json"
+  },
+  {
     "name": "debian",
     "author": "Software in the Public Interest, Inc.",
     "license": "CC-BY-SA 3.0 or LGPL 3+",
@@ -1492,6 +1502,16 @@
     "filename": "meta/osig.json"
   },
   {
+    "name": "oyd",
+    "author": "Özgür Yazılım Derneği",
+    "license": "https://www.oyd.org.tr/lisans/",
+    "raster": "http://hexb.in/hexagons/oyd.png",
+    "vector": "http://hexb.in/vector/oyd.svg",
+    "description": "Free Software Association is a community of people defending the free software movement and the freedom of all people in the modern world. Starting with the software freedom, Free Software Association advocates the freedom of people in connection with hardware freedom, Internet freedom, document freedom and freedom of information. ",
+    "order_online_url": "https://www.oyd.org.tr/iletisim/",
+    "filename": "meta/oyd.json"
+  },
+  {
     "name": "packrat",
     "author": "rstudio",
     "license": "CC0",
@@ -1575,6 +1595,15 @@
     "description": "hex version of the pirate party germany logo",
     "order_online_url": "http://shop.piratenpartei.de",
     "filename": "meta/piratenpartei.json"
+  },
+  {
+    "name": "pkgnet",
+    "author": "brian burns",
+    "license": "BSD3",
+    "raster": "http://hexb.in/hexagons/pkgnet.png",
+    "vector": "http://hexb.in/vector/pkgnet.svg",
+    "description": "pkgnet is an R library designed for the analysis of R libraries!",
+    "filename": "meta/pkgnet.json"
   },
   {
     "name": "plumber",
@@ -2017,6 +2046,15 @@
     "description": "tsibble: Tidy Temporal Data Frames and Tools.",
     "order_online_url": "https://www.stickermule.com/marketplace/",
     "filename": "meta/tsibble.json"
+  },
+  {
+    "name": "tulipride2020",
+    "author": "Jeff Henshaw and Ryan Gunn",
+    "license": "CC BY NC",
+    "raster": "http://hexb.in/hexagons/TulipRide2020.png",
+    "vector": "http://hexb.in/vector/TulipRide2020.svg",
+    "description": "The 2020 Tulip Ride fundraiser benefiting Seattle Humane - http://www.tulipride.org",
+    "filename": "meta/TulipRide2020.json"
   },
   {
     "name": "ubuntu",

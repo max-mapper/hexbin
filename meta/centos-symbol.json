@@ -1,0 +1,9 @@
+{
+  "name": "centos-symbol",
+  "author": "williamjmorenor",
+  "license": "CC-By",
+  "vector": "http://hexb.in/vector/centos-symbol.svg",
+  "description": "CentOS Project",
+  "raster": "http://hexb.in/hexagons/centos-symbol.png",
+  "filename": "meta/centos-symbol.json"
+}

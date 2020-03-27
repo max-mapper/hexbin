@@ -204,6 +204,24 @@
     "filename": "meta/casto.json"
   },
   {
+    "name": "centos-symbol",
+    "author": "williamjmorenor",
+    "license": "CC-By",
+    "vector": "http://hexb.in/vector/centos-symbol.svg",
+    "description": "CentOS Project",
+    "raster": "http://hexb.in/hexagons/centos-symbol.png",
+    "filename": "meta/centos-symbol.json"
+  },
+  {
+    "name": "centos",
+    "author": "williamjmorenor",
+    "license": "CC-By",
+    "vector": "http://hexb.in/vector/centos.svg",
+    "description": "CentOS Project",
+    "raster": "http://hexb.in/hexagons/centos.png",
+    "filename": "meta/centos.json"
+  },
+  {
     "name": "circumplex",
     "author": "jeffrey girard",
     "license": "GPL 3",
@@ -1578,6 +1596,15 @@
     "filename": "meta/poisotlab.json"
   },
   {
+    "name": "postgresql",
+    "author": "William Moreno Reyes",
+    "license": "https://wiki.postgresql.org/wiki/Logo",
+    "raster": "http://hexb.in/hexagons/postgresql.png",
+    "vector": "http://hexb.in/vector/postgresql.svg",
+    "description": "https://postgresql.org",
+    "filename": "meta/postgresql.json"
+  },
+  {
     "name": "powerlevel9k",
     "author": "toish",
     "license": "CC-BY-SA",
@@ -1913,6 +1940,15 @@
     "raster": "http://hexb.in/hexagons/sudoroom.png",
     "order_online_url": "https://www.stickermule.com/marketplace/1648-sudoroom-2-hexagon-sticker",
     "filename": "meta/sudoroom.json"
+  },
+  {
+    "name": "Taipei Video Technology",
+    "author": "Padi Cheng",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/taipeivideotech.png",
+    "vector": "http://hexb.in/vector/taipeivideotech.svg",
+    "description": "https://www.meetup.com/Taipei-Video-Technology/",
+    "filename": "meta/taipeivideotech.json"
   },
   {
     "name": "tdastats",

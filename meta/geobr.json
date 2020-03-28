@@ -4,6 +4,5 @@
   "license": "MIT + file LICENSE",
   "raster": "http://hexb.in/hexagons/geobr.png",
   "vector": "http://hexb.in/vector/geobr.svg",
-  "description": "geobr: easy access to official spatial data sets of Brazil",
-  "filename": "meta/geofs.json"
+  "description": "geobr: easy access to official spatial data sets of Brazil"
 }

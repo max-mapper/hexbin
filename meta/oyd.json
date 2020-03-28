@@ -1,0 +1,9 @@
+{
+  "name": "oyd",
+  "author": "Özgür Yazılım Derneği",
+  "license": "https://www.oyd.org.tr/lisans/",
+  "raster": "http://hexb.in/hexagons/oyd.png",
+  "vector": "http://hexb.in/vector/oyd.svg",
+  "description": "Free Software Association is a community of people defending the free software movement and the freedom of all people in the modern world. Starting with the software freedom, Free Software Association advocates the freedom of people in connection with hardware freedom, Internet freedom, document freedom and freedom of information. ",
+  "order_online_url": "https://www.oyd.org.tr/iletisim/"
+}

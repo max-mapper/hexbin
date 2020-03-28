@@ -1,0 +1,8 @@
+{
+  "name": "rockstar",
+  "author": "Dylan Beattie",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/rockstar.png",
+  "vector": "http://hexb.in/vector/rockstar.svg",
+  "description": "Logo for the Rockstar programming language (https://codewithrockstar.com)"
+}

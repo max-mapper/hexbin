@@ -140,6 +140,15 @@
     "filename": "meta/browserify.json"
   },
   {
+    "name": "buffalo-r",
+    "author": "Scott Jackson <github:scottmmjackson>",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/buffalo-r.png",
+    "vector": "http://hexb.in/vector/buffalo-r.svg",
+    "description": "BuffaloR is a free meetup for the R programming language in the Buffalo, NY area. https://www.meetup.com/Buffalo-R/",
+    "filename": "meta/buffalo-r.json"
+  },
+  {
     "name": "campjs-vi",
     "author": "Damon Oehlman <damon.oehlman@gmail.com>",
     "license": "MIT",
@@ -193,6 +202,24 @@
     "description": "http://ca.storyboards.jp/",
     "raster": "http://hexb.in/hexagons/casto.png",
     "filename": "meta/casto.json"
+  },
+  {
+    "name": "centos-symbol",
+    "author": "williamjmorenor",
+    "license": "CC-By",
+    "vector": "http://hexb.in/vector/centos-symbol.svg",
+    "description": "CentOS Project",
+    "raster": "http://hexb.in/hexagons/centos-symbol.png",
+    "filename": "meta/centos-symbol.json"
+  },
+  {
+    "name": "centos",
+    "author": "williamjmorenor",
+    "license": "CC-By",
+    "vector": "http://hexb.in/vector/centos.svg",
+    "description": "CentOS Project",
+    "raster": "http://hexb.in/hexagons/centos.png",
+    "filename": "meta/centos.json"
   },
   {
     "name": "circumplex",
@@ -486,6 +513,16 @@
     "order_online_url": "https://www.stickermule.com/marketplace/9709-dat-data-v3"
   },
   {
+    "name": "data-warehouse",
+    "author": "rockmedia-es",
+    "license": "CC BY-NC-SA 4.0",
+    "raster": "http://hexb.in/hexagons/data-warehouse.png",
+    "vector": "http://hexb.in/vector/data-warehouse.svg",
+    "description": "One warehouse to store all the data",
+    "order_online_url": "https://www.rockmedia.es",
+    "filename": "meta/data-warehouse.json"
+  },
+  {
     "name": "debian",
     "author": "Software in the Public Interest, Inc.",
     "license": "CC-BY-SA 3.0 or LGPL 3+",
@@ -666,6 +703,15 @@
     "vector": "http://hexb.in/vector/finalfit.svg",
     "description": "Finalfit package",
     "filename": "meta/finalfit.json"
+  },
+  {
+    "name": "folio",
+    "author": "FOLIO Community",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/folio.png",
+    "vector": "http://hexb.in/vector/folio.svg",
+    "description": "Logo for the FOLIO Project: an open source library services platform (https://www.folio.org/)",
+    "filename": "meta/folio.json"
   },
   {
     "name": "forcats",
@@ -1039,6 +1085,15 @@
     "filename": "meta/makezurich.json"
   },
   {
+    "name": "Manubot",
+    "author": "Vincent Rubinetti",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/manubot.png",
+    "vector": "http://hexb.in/vector/manubot.svg",
+    "description": "Manubot is a workflow and set of tools for the next generation of scholarly publishing.",
+    "filename": "meta/manubot.json"
+  },
+  {
     "name": "mapzen",
     "author": "mapzen",
     "license": "MIT",
@@ -1139,6 +1194,14 @@
     "raster": "http://hexb.in/hexagons/move-slow.png",
     "filename": "meta/move-slow.json",
     "order_online_url": "https://www.stickermule.com/marketplace/1580-move-slow-and-make-things"
+  },
+  {
+    "name": "msgarchhexbin",
+    "author": "msgarch",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/msgarchhexbin.svg",
+    "raster": "http://hexb.in/hexagons/msgarchhexbin.png",
+    "filename": "meta/msgarchhexbin.json"
   },
   {
     "name": "naniar",
@@ -1439,6 +1502,16 @@
     "filename": "meta/osig.json"
   },
   {
+    "name": "oyd",
+    "author": "Özgür Yazılım Derneği",
+    "license": "https://www.oyd.org.tr/lisans/",
+    "raster": "http://hexb.in/hexagons/oyd.png",
+    "vector": "http://hexb.in/vector/oyd.svg",
+    "description": "Free Software Association is a community of people defending the free software movement and the freedom of all people in the modern world. Starting with the software freedom, Free Software Association advocates the freedom of people in connection with hardware freedom, Internet freedom, document freedom and freedom of information. ",
+    "order_online_url": "https://www.oyd.org.tr/iletisim/",
+    "filename": "meta/oyd.json"
+  },
+  {
     "name": "packrat",
     "author": "rstudio",
     "license": "CC0",
@@ -1524,6 +1597,15 @@
     "filename": "meta/piratenpartei.json"
   },
   {
+    "name": "pkgnet",
+    "author": "brian burns",
+    "license": "BSD3",
+    "raster": "http://hexb.in/hexagons/pkgnet.png",
+    "vector": "http://hexb.in/vector/pkgnet.svg",
+    "description": "pkgnet is an R library designed for the analysis of R libraries!",
+    "filename": "meta/pkgnet.json"
+  },
+  {
     "name": "plumber",
     "author": "rstudio",
     "license": "CC0",
@@ -1541,6 +1623,15 @@
     "description": "Current logo for the Poisot lab, computational ecology @ Université de Montréal http://poisotlab.io",
     "raster": "http://hexb.in/hexagons/poisotlab.png",
     "filename": "meta/poisotlab.json"
+  },
+  {
+    "name": "postgresql",
+    "author": "William Moreno Reyes",
+    "license": "https://wiki.postgresql.org/wiki/Logo",
+    "raster": "http://hexb.in/hexagons/postgresql.png",
+    "vector": "http://hexb.in/vector/postgresql.svg",
+    "description": "https://postgresql.org",
+    "filename": "meta/postgresql.json"
   },
   {
     "name": "powerlevel9k",
@@ -1719,6 +1810,15 @@
     "filename": "meta/rmarkdown.json"
   },
   {
+    "name": "rockstar",
+    "author": "Dylan Beattie",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/rockstar.png",
+    "vector": "http://hexb.in/vector/rockstar.svg",
+    "description": "Logo for the Rockstar programming language (https://codewithrockstar.com)",
+    "filename": "meta/rockstar.json"
+  },
+  {
     "name": "rOpenSCi",
     "author": "Karthik Ram",
     "license": "CC0",
@@ -1871,6 +1971,15 @@
     "filename": "meta/sudoroom.json"
   },
   {
+    "name": "Taipei Video Technology",
+    "author": "Padi Cheng",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/taipeivideotech.png",
+    "vector": "http://hexb.in/vector/taipeivideotech.svg",
+    "description": "https://www.meetup.com/Taipei-Video-Technology/",
+    "filename": "meta/taipeivideotech.json"
+  },
+  {
     "name": "tdastats",
     "author": "Raoul Wadhwa",
     "license": "CC0",
@@ -1937,6 +2046,15 @@
     "description": "tsibble: Tidy Temporal Data Frames and Tools.",
     "order_online_url": "https://www.stickermule.com/marketplace/",
     "filename": "meta/tsibble.json"
+  },
+  {
+    "name": "tulipride2020",
+    "author": "Jeff Henshaw and Ryan Gunn",
+    "license": "CC BY NC",
+    "raster": "http://hexb.in/hexagons/TulipRide2020.png",
+    "vector": "http://hexb.in/vector/TulipRide2020.svg",
+    "description": "The 2020 Tulip Ride fundraiser benefiting Seattle Humane - http://www.tulipride.org",
+    "filename": "meta/TulipRide2020.json"
   },
   {
     "name": "ubuntu",

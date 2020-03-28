@@ -1,0 +1,8 @@
+{
+  "name": "pkgnet",
+  "author": "brian burns",
+  "license": "BSD3",
+  "raster": "http://hexb.in/hexagons/pkgnet.png",
+  "vector": "http://hexb.in/vector/pkgnet.svg",
+  "description": "pkgnet is an R library designed for the analysis of R libraries!"
+}

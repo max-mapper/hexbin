@@ -1,0 +1,8 @@
+{
+  "name": "buffalo-r",
+  "author": "Scott Jackson <github:scottmmjackson>",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/buffalo-r.png",
+  "vector": "http://hexb.in/vector/buffalo-r.svg",
+  "description": "BuffaloR is a free meetup for the R programming language in the Buffalo, NY area. https://www.meetup.com/Buffalo-R/"
+}

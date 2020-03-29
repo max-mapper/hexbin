@@ -1,0 +1,9 @@
+{
+  "name": "heddlr",
+  "author": "Mike Mahoney",
+  "license": "CC0",
+  "vector": "http://hexb.in/vector/heddlr-badge.svg",
+  "description": "heddlr: Dynamic R Markdown Document Generation https://github.com/mikemahoney218/heddlr",
+  "raster": "http://hexb.in/hexagons/heddlr-badge.png",
+  "filename": "meta/heddlr.json"
+}

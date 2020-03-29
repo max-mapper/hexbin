@@ -4,5 +4,5 @@
   "license": "MIT",
   "raster": "http://hexb.in/hexagons/funnelplotr.png",
   "vector": "http://hexb.in/vector/funnelplotr.svg",
-  "description": "FunnelPlotR: Funnel Plots for Indirectly-Standardised Ratios",
+  "description": "FunnelPlotR: Funnel Plots for Indirectly-Standardised Ratios"
 }

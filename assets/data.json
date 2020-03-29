@@ -742,6 +742,15 @@
     "filename": "meta/freemanlab.json"
   },
   {
+    "name": "funnelplotr",
+    "author": "Chris Mainey",
+    "license": "MIT",
+    "raster": "http://hexb.in/hexagons/funnelplotr.png",
+    "vector": "http://hexb.in/vector/funnelplotr.svg",
+    "description": "FunnelPlotR: Funnel Plots for Indirectly-Standardised Ratios",
+    "filename": "meta/funnelplotr.json"
+  },
+  {
     "name": "geoblacklight",
     "author": "Jack Reed",
     "license": "CC0",
@@ -749,6 +758,15 @@
     "description": "Logo for the GeoBlacklight project http://geoblacklight.org",
     "raster": "http://hexb.in/hexagons/geoblacklight.png",
     "filename": "meta/geoblacklight.json"
+  },
+  {
+    "name": "geobr",
+    "author": "Rafael H. M. Pereira",
+    "license": "MIT + file LICENSE",
+    "raster": "http://hexb.in/hexagons/geobr.png",
+    "vector": "http://hexb.in/vector/geobr.svg",
+    "description": "geobr: easy access to official spatial data sets of Brazil",
+    "filename": "meta/geobr.json"
   },
   {
     "name": "geofs-pacman",
@@ -861,6 +879,15 @@
     "description": "Hearing Things - A record label/music collective from Perth, Western Australia - http://hearingthings.com.au",
     "order_online_url": "http://hearingthings.com.au",
     "filename": "meta/hearing_things.json"
+  },
+  {
+    "name": "heddlr",
+    "author": "Mike Mahoney",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/heddlr-badge.svg",
+    "description": "heddlr: Dynamic R Markdown Document Generation https://github.com/mikemahoney218/heddlr",
+    "raster": "http://hexb.in/hexagons/heddlr-badge.png",
+    "filename": "meta/heddlr.json"
   },
   {
     "name": "hexagonal-awareness-seed",

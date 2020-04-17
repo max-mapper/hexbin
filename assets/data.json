@@ -467,6 +467,14 @@
     "filename": "meta/collector.json"
   },
   {
+    "name": "covid19",
+    "author": "Gary Sandoz (Talk to me Sarl) for covid19 team",
+    "license": "CC0",
+    "vector": "http://hexb.in/vector/covid19.svg",
+    "raster": "http://hexb.in/hexagons/covid19.png",
+    "filename": "meta/covid19.json"
+  },
+  {
     "name": "cssconfuy",
     "author": "jsconfuy",
     "license": "CC0",
@@ -2205,6 +2213,16 @@
     "raster": "http://hexb.in/hexagons/yargs.png",
     "filename": "meta/yargs.json",
     "order_online_url": "https://www.stickermule.com/marketplace/10561-yargs-laptop-hexagon"
+  },
+  {
+    "name": "ymy",
+    "author": "Yazılımcıların Mola Yeri",
+    "license": "CC0",
+    "raster": "http://hexb.in/hexagons/ymy.png",
+    "vector": "http://hexb.in/vector/ymy.svg",
+    "description": "The 'Yazılımcıların Mola Yeri' is the community that brings together people who love programming.",
+    "order_online_url": "https://ymyoh.github.io/",
+    "filename": "meta/ymy.json"
   },
   {
     "name": "zenlogic-logo",

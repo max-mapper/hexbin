@@ -1,0 +1,9 @@
+{
+  "name": "butcher",
+  "author": "rstudio",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/butcher.png",
+  "vector": "http://hexb.in/vector/butcher.svg",
+  "description": "butcher: Reduce the size of model objects saved to disk.",
+  "order_online_url": "https://www.stickermule.com/marketplace/"
+}

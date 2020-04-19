@@ -1,0 +1,8 @@
+{
+  "name": "rawr",
+  "author": "Steve Condylios",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/rawr.png",
+  "vector": "http://hexb.in/vector/rawr.svg",
+  "description": "rawr: Extract Raw R Code from Popular Tutorials and Websites, Including Github, Kaggle, Blogdown Sites, Stack Overflow, and Datacamp."
+}

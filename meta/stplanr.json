@@ -1,0 +1,9 @@
+{
+  "name": "stplanr",
+  "author": "Robin Lovelace",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/stplanr.png",
+  "vector": "http://hexb.in/vector/stplanr.svg",
+  "description": "stplanr: Sustainable transport planning with R",
+  "order_online_url": "https://www.stickermule.com/marketplace/"
+}

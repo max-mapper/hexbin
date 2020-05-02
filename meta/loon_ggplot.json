@@ -1,0 +1,9 @@
+{
+  "name": "loon_ggplot",
+  "author": "rwoldford",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/loon_ggplot.png",
+  "vector": "http://hexb.in/vector/loon_ggplot.svg",
+  "description": "loon_ggplot: Package to create interactive ggplots using loon",
+  "filename": "meta/loon_ggplot.json"
+}

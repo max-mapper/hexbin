@@ -1,0 +1,9 @@
+{
+  "name": "diver",
+  "author": "rwoldford",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/diver.png",
+  "vector": "http://hexb.in/vector/diver.svg",
+  "description": "diver: Direct interactive visual exploration in R based on suite of loon related packages",
+  "filename": "meta/diver.json"
+}

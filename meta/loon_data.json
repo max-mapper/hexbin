@@ -1,0 +1,9 @@
+{
+  "name": "loon_data",
+  "author": "rwoldford",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/loon_data.png",
+  "vector": "http://hexb.in/vector/loon_data.svg",
+  "description": "loon_data: Data set package for loon.",
+  "filename": "meta/loon_data.json"
+}

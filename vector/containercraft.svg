@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    id="svg8"
    version="1.1"
-   viewBox="0 0 190.85277 190.85277"
-   height="190.85277mm"
-   width="190.85277mm">
+   viewBox="0 0 204 231.99999"
+   height="232mm"
+   width="204mm">
   <defs
      id="defs2" />
   <metadata
@@ -26,19 +26,23 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-0.17593765,-0.3862915)"
-     id="layer2">
+     style="display:inline"
+     transform="translate(-35.013797,14.768784)"
+     id="layer1">
     <path
-       transform="matrix(1,0,0,1.0052933,0.70373229,-0.24801718)"
-       d="M 176.11743,142.68688 94.227323,190.50386 11.871552,143.49344 11.405886,48.666038 93.295992,0.84905901 175.65176,47.859481 Z"
-       id="path75"
-       style="opacity:0.7;fill:#1a1a1a;stroke-width:0.264583" />
+       d="m -58.68898,253.06189 -96.32283,53.42933 -94.43257,-56.70335 1.89026,-110.13269 96.32283,-53.429327 94.432568,56.703357 z"
+       id="path39"
+       style="opacity:0.7;fill:#333333;stroke-width:0.264583" />
+    <path
+       d="M 136.6668,215.2533 37.614017,157.99851 37.671722,43.5889 136.78221,-13.565934 235.83499,43.688848 235.77728,158.09846 Z"
+       id="path85"
+       style="opacity:1;fill:#4d4d4d;stroke-width:0.264583" />
   </g>
   <g
-     transform="translate(-14.362649,-80.340858)"
-     id="layer1">
+     style="display:inline"
+     id="layer2">
     <image
-       id="image71"
+       id="image98"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAh0AAAIdCAYAAACZYM/nAAAtVXpUWHRSYXcgcHJvZmlsZSB0eXBl
 IGV4aWYAAHjarZxZtly3rmX/2YrbBNZFc1iOkT14zc+5EEeyJMvXdr60LOkoih3cJLAKEAx3/+f/
 PPef//wn+OG9y6X1Omr1/JdHHnHyQ/ef/4b9GXy2Pz//OD5+PfrT4+77E5GHEn+nzxNtfr1x8nj5
@@ -969,9 +973,9 @@ iIiIiIiIiIiIiIiIiHqh/wd2zozII3yVMwAAAABJRU5ErkJggg==
 "
        style="image-rendering:optimizeQuality"
        preserveAspectRatio="none"
-       height="190.85277"
-       width="190.85277"
-       x="14.362649"
-       y="80.340858" />
+       height="228.1194"
+       width="232.29944"
+       x="-12.771793"
+       y="1.1775982" />
   </g>
 </svg>

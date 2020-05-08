@@ -1,0 +1,8 @@
+{
+  "name": "isoverse",
+  "author": "Sebastian Kopf",
+  "license": "CC0",
+  "raster": "https://github.com/isoverse/hex-stickers/blob/master/PNG/isoverse.png",
+  "vector": "https://github.com/isoverse/hex-stickers/blob/master/SVG/isoverse.svg",
+  "description": "isoverse: open-source data tools for stable isotopes"
+}

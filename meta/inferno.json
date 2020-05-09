@@ -1,0 +1,8 @@
+{
+  "name": "inferno",
+  "author": "Simon Garnier",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/inferno.png",
+  "vector": "http://hexb.in/vector/inferno.svg",
+  "description": "viridis family of color maps https://CRAN.R-project.org/package=viridis",
+}

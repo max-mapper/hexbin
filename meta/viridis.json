@@ -1,0 +1,8 @@
+{
+  "name": "viridis",
+  "author": "Simon Garnier",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/viridis.png",
+  "vector": "http://hexb.in/vector/viridis.svg",
+  "description": "viridis family of color maps https://CRAN.R-project.org/package=viridis",
+}

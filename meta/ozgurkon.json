@@ -1,0 +1,9 @@
+{
+  "name": "ozgurkon",
+  "author": "ÖzgürKon",
+  "license": "CC-BY-SA-4.0",
+  "raster": "http://hexb.in/hexagons/ozgurkon.png",
+  "vector": "http://hexb.in/vector/ozgurkon.svg",
+  "description": "ÖzgürKon is an international online conference, organized by Özgür Yazılım Derneği. 2020 has brought us an unexpected pandemic which no one has prepared for. COVID-19 is created an event vacuum since people are no longer able to gather physicaly. ÖzgürKon is aimed to fill this void by bringing worldwide free software community together in virtual space and underline the importance of free software in the light of current developments.",
+  "order_online_url": "https://ticket.ozgurkon.org"
+}

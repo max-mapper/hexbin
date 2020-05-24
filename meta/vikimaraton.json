@@ -1,0 +1,9 @@
+{
+  "name": "vikimaraton",
+  "author": "Vikimaraton Özgür Yazılım",
+  "license": "CC-BY-SA-4.0",
+  "raster": "http://hexb.in/hexagons/vikimaraton.png",
+  "vector": "http://hexb.in/vector/vikimaraton.svg",
+  "description": "Vikimaraton Özgür Yazılım, ilk defa 16 Şubat 2020 tarihinde Tasarım Atölyesi Kadıköy'de düzenlenen bir Vikimaratondur. Etkinlik öncesinde hazırlanan madde listesi, katılımcılar tarafından Türkçe Vikipedi'ye kazandırılmaya çalışıldı, listenin etkinlikte tamamlanamayan geri kalan maddelerinin ise Vikiproje Özgür Yazılım için temel oluşturması planlandı. 10 saat süren etkinlikte, katılımcılar ekolojik bir yaşam hedefi için tek kullanımlık ürünler kullanmak yerine kendi bardak ve çatallarını getirdiler.",
+  "order_online_url": "https://www.oyd.org.tr/iletisim/"
+}

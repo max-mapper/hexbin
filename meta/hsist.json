@@ -1,0 +1,9 @@
+{
+  "name": "hsist",
+  "author": "Hackerspace Istanbul",
+  "license": "CC-BY-SA-4.0",
+  "raster": "http://hexb.in/hexagons/hsist.png",
+  "vector": "http://hexb.in/vector/hsist.svg",
+  "description": "Hackerspace Istanbul is a hackerspace located in Istanbul, Turkey.",
+  "order_online_url": "https://www.oyd.org.tr/iletisim/"
+}

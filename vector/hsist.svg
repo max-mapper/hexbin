@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 734.79999 848.5"
+   version="1.1"
+   sodipodi:docname="hsist.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   width="734.79999"
+   height="848.5"
+   inkscape:export-filename="/home/m3rcury/İndirilenler/hexbin/hexagons/hsist.png.png"
+   inkscape:export-xdpi="23.640816"
+   inkscape:export-ydpi="23.640816">
+  <metadata
+     id="metadata87">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>RStudio_Hex 2016 v7 outlines</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1031"
+     id="namedview85"
+     showgrid="false"
+     inkscape:zoom="0.78346104"
+     inkscape:cx="156.50369"
+     inkscape:cy="426.95319"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs14">
+    <style
+       id="style2">.cls-1{fill:#ba6f38;}.cls-2{clip-path:url(#clip-path);}.cls-3{fill:#db1f26;}.cls-4{opacity:0.25;fill:url(#linear-gradient);}.cls-5{fill:#a51d21;}.cls-6{fill:#e6b35a;}.cls-7{opacity:0.94;}.cls-8{fill:#fff;}</style>
+    <clipPath
+       id="clip-path">
+      <polygon
+         class="cls-1"
+         points="728.2,214.5 728.2,636.6 369.5,845 2.8,636.6 2.8,214.5 369.5,7.4 "
+         id="polygon4"
+         style="fill:#ba6f38" />
+    </clipPath>
+    <linearGradient
+       id="linear-gradient"
+       x1="367.32999"
+       y1="-121.12"
+       x2="368.63"
+       y2="342.39999"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#fff"
+         stop-opacity="0.83"
+         id="stop7" />
+      <stop
+         offset="0.56"
+         stop-color="#fff"
+         stop-opacity="0.37"
+         id="stop9" />
+      <stop
+         offset="1"
+         stop-color="#fff"
+         stop-opacity="0"
+         id="stop11" />
+    </linearGradient>
+  </defs>
+  <title
+     id="title16">RStudio_Hex 2016 v7 outlines</title>
+  <polygon
+     class="cls-1"
+     points="728.2,636.6 369.5,845 2.8,636.6 2.8,214.5 369.5,7.4 728.2,214.5 "
+     id="polygon18"
+     style="fill:#ba6f38"
+     transform="translate(-0.1,-1)" />
+  <g
+     class="cls-2"
+     clip-path="url(#clip-path)"
+     id="g24"
+     style="fill:#000000"
+     transform="translate(-0.1,-1)">
+    <circle
+       class="cls-3"
+       cx="365.5"
+       cy="437.39999"
+       r="442.10001"
+       id="circle20"
+       style="fill:#000000" />
+    <ellipse
+       class="cls-4"
+       cx="368"
+       cy="107.1"
+       rx="315.20001"
+       ry="234.60001"
+       id="ellipse22"
+       style="opacity:0.25;fill:#000000" />
+  </g>
+  <path
+     class="cls-5"
+     d="M 705.5,195.2 427.7,34.8 367.4,0 307.1,34.8 29.3,195.2 0,212.1 v 424.3 l 29.3,16.9 281.2,162.4 56.9,32.8 56.9,-32.8 281.2,-162.4 29.3,-16.9 V 212.1 Z m 0,425.3 L 367.4,815.7 29.3,620.5 V 230 L 367.4,34.8 v 0 L 705.5,230 Z"
+     id="path26"
+     style="fill:#008000"
+     inkscape:connector-curvature="0" />
+  <path
+     class="cls-6"
+     d="m 366.9,632.9 0.9,-0.9 h -0.3 z"
+     id="path28"
+     inkscape:connector-curvature="0"
+     style="fill:#e6b35a" />
+  <g
+     transform="matrix(3.7795276,0,0,3.7795276,-5170.6614,1790.7805)"
+     id="layer1"
+     inkscape:label="Layer 1">
+    <g
+       transform="matrix(0.1386765,0,0,0.1386765,884.5607,190.75954)"
+       id="g4211">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6-5"
+         d="m 4360.6567,-4133.5967 v 38 h 38 v -38 h -38 m -680,7 v 54 h 53 v -54 h -53 m 192,11 v 170 h 39 v -112 h 36 v 112 h 39 v -113 h -19 v -19 h -56 v -38 h -39 m 769,0 v 38 h -19 v 20 h 19 v 94 h 19 v 18 h 75 v -19 h -56 v -93 h 56 v -20 h -56 v -38 h -38 m -600,38 v 19 h -19 v 38 h 19 v 19 h 56 v 37 h -75 v 19 h 95 v -18 h 19 v -39 h -19 v -19 h -56 v -36 h 75 v -20 h -95 m 281,0 v 20 h 38 v 93 h -38 v 19 h 114 v -19 h -38 v -113 h -76 m 169,0 v 19 h -19 v 38 h 19 v 19 h 56 v 37 h -75 v 19 h 95 v -18 h 19 v -39 h -19 v -19 h -56 v -36 h 75 v -20 h -95 m -750,12 v 54 h 54 v -54 z"
+         style="fill:#ffffff;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path10-6"
+         d="m 3619.6567,-4003.5967 v 54 h 53 v -54 h -53 m 61,0 v 54 h 53 v -54 h -53 m 61,0 v 54 h 54 v -54 h -54 m 469,20 v 38 h 57 v -38 z"
+         style="fill:#ffffff;stroke:none" />
+    </g>
+    <g
+       aria-label="hackerspace istanbul"
+       transform="matrix(0.39891061,0,0,0.39891061,1328.1804,-1216.4975)"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4215">
+      <path
+         d="m 161.18164,2201.4277 h -5 v -15 h -5 v 15 h -5 v -22.5 h 5 v 5 h 7.5 v 2.5 h 2.5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior';fill:#008000"
+         id="path887"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 181.18156,2201.4277 h -12.5 v -2.5 h -2.5 v -5 h 2.5 v -2.5 h 7.5 v -5 h -7.5 v -2.5 h 10 v 2.5 h 2.5 z m -5,-2.5 v -5 h -5 v 5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior';fill:#008000"
+         id="path889"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 201.18149,2198.9277 h -2.5 v 2.5 h -10 v -2.5 h -2.5 v -12.5 h 2.5 v -2.5 h 10 v 2.5 h 2.5 v 2.5 h -5 v -2.5 h -5 v 12.5 h 5 v -2.5 h 5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior';fill:#008000"
+         id="path891"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 221.18141,2201.4277 h -5 v -5 h -2.5 v -2.5 h -2.5 v 7.5 h -5 v -22.5 h 5 v 12.5 h 2.5 v -2.5 h 2.5 v -5 h 5 v 5 h -2.5 v 2.5 h -2.5 v 2.5 h 2.5 v 2.5 h 2.5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior';fill:#008000"
+         id="path893"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 241.18134,2193.9277 h -10 v 5 h 7.5 v 2.5 h -10 v -2.5 h -2.5 v -12.5 h 2.5 v -2.5 h 10 v 2.5 h 2.5 z m -5,-2.5 v -5 h -5 v 5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior';fill:#008000"
+         id="path895"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 261.18126,2188.9277 h -7.5 v 2.5 h -2.5 v 10 h -5 v -17.5 h 5 v 5 h 2.5 v -2.5 h 2.5 v -2.5 h 5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior';fill:#008000"
+         id="path897"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 281.18118,2198.9277 h -2.5 v 2.5 h -12.5 v -2.5 h 10 v -5 h -7.5 v -2.5 h -2.5 v -5 h 2.5 v -2.5 h 12.5 v 2.5 h -10 v 5 h 7.5 v 2.5 h 2.5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior';fill:#008000"
+         id="path899"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 301.18111,2198.9277 h -2.5 v 2.5 h -7.5 v 7.5 h -5 v -25 h 12.5 v 2.5 h 2.5 z m -5,0 v -12.5 h -5 v 12.5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior';fill:#008000"
+         id="path901"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 321.18103,2201.4277 h -12.5 v -2.5 h -2.5 v -5 h 2.5 v -2.5 h 7.5 v -5 h -7.5 v -2.5 h 10 v 2.5 h 2.5 z m -5,-2.5 v -5 h -5 v 5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior';fill:#008000"
+         id="path903"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 341.18095,2198.9277 h -2.5 v 2.5 h -10 v -2.5 h -2.5 v -12.5 h 2.5 v -2.5 h 10 v 2.5 h 2.5 v 2.5 h -5 v -2.5 h -5 v 12.5 h 5 v -2.5 h 5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior';fill:#008000"
+         id="path905"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 361.18088,2193.9277 h -10 v 5 h 7.5 v 2.5 h -10 v -2.5 h -2.5 v -12.5 h 2.5 v -2.5 h 10 v 2.5 h 2.5 z m -5,-2.5 v -5 h -5 v 5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior';fill:#008000"
+         id="path907"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 396.18073,2181.4277 h -5 v -5 h 5 z m 5,20 h -15 v -2.5 h 5 v -12.5 h -5 v -2.5 h 10 v 15 h 5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior';fill:#008000"
+         id="path909"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 421.18066,2198.9277 h -2.5 v 2.5 h -12.5 v -2.5 h 10 v -5 h -7.5 v -2.5 h -2.5 v -5 h 2.5 v -2.5 h 12.5 v 2.5 h -10 v 5 h 7.5 v 2.5 h 2.5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior';fill:#008000"
+         id="path911"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 441.18057,2201.4277 h -10 v -2.5 h -2.5 v -12.5 h -2.5 v -2.5 h 2.5 v -5 h 5 v 5 h 7.5 v 2.5 h -7.5 v 12.5 h 7.5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior';fill:#008000"
+         id="path913"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 461.18048,2201.4277 h -12.5 v -2.5 h -2.5 v -5 h 2.5 v -2.5 h 7.5 v -5 h -7.5 v -2.5 h 10 v 2.5 h 2.5 z m -5,-2.5 v -5 h -5 v 5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior';fill:#008000"
+         id="path915"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 481.18042,2201.4277 h -5 v -15 h -5 v 15 h -5 v -17.5 h 12.5 v 2.5 h 2.5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior';fill:#008000"
+         id="path917"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 501.18036,2198.9277 h -2.5 v 2.5 h -12.5 v -22.5 h 5 v 5 h 7.5 v 2.5 h 2.5 z m -5,0 v -12.5 h -5 v 12.5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior';fill:#008000"
+         id="path919"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 521.18027,2201.4277 h -12.5 v -2.5 h -2.5 v -15 h 5 v 15 h 5 v -15 h 5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior';fill:#008000"
+         id="path921"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 541.18018,2201.4277 h -15 v -2.5 h 5 v -17.5 h -5 v -2.5 h 10 v 20 h 5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior';fill:#008000"
+         id="path923"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       aria-label="https://hackerspace.ist"
+       transform="matrix(0.17833206,-0.10296007,0.10296007,0.17833206,1215.7181,-642.05767)"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4215-3">
+      <path
+         d="m 161.18164,2201.4277 h -5 v -15 h -5 v 15 h -5 v -22.5 h 5 v 5 h 7.5 v 2.5 h 2.5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior';fill:#008000"
+         id="path840"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 181.18156,2201.4277 h -10 v -2.5 h -2.5 v -12.5 h -2.5 v -2.5 h 2.5 v -5 h 5 v 5 h 7.5 v 2.5 h -7.5 v 12.5 h 7.5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior';fill:#008000"
+         id="path842"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 201.18149,2201.4277 h -10 v -2.5 h -2.5 v -12.5 h -2.5 v -2.5 h 2.5 v -5 h 5 v 5 h 7.5 v 2.5 h -7.5 v 12.5 h 7.5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior';fill:#008000"
+         id="path844"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 221.18141,2198.9277 h -2.5 v 2.5 h -7.5 v 7.5 h -5 v -25 h 12.5 v 2.5 h 2.5 z m -5,0 v -12.5 h -5 v 12.5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior';fill:#008000"
+         id="path846"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 241.18134,2198.9277 h -2.5 v 2.5 h -12.5 v -2.5 h 10 v -5 h -7.5 v -2.5 h -2.5 v -5 h 2.5 v -2.5 h 12.5 v 2.5 h -10 v 5 h 7.5 v 2.5 h 2.5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior';fill:#008000"
+         id="path848"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 258.68126,2188.9277 h -7.5 v -5 h 7.5 z m 0,12.5 h -7.5 v -5 h 7.5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior';fill:#008000"
+         id="path850"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 281.18118,2183.9277 h -2.5 v 5 h -2.5 v 5 h -2.5 v 5 h -2.5 v 5 h -5 v -5 h 2.5 v -5 h 2.5 v -5 h 2.5 v -5 h 2.5 v -5 h 5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior';fill:#008000"
+         id="path852"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 301.18111,2183.9277 h -2.5 v 5 h -2.5 v 5 h -2.5 v 5 h -2.5 v 5 h -5 v -5 h 2.5 v -5 h 2.5 v -5 h 2.5 v -5 h 2.5 v -5 h 5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior';fill:#008000"
+         id="path854"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 321.18103,2201.4277 h -5 v -15 h -5 v 15 h -5 v -22.5 h 5 v 5 h 7.5 v 2.5 h 2.5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior';fill:#008000"
+         id="path856"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 341.18095,2201.4277 h -12.5 v -2.5 h -2.5 v -5 h 2.5 v -2.5 h 7.5 v -5 h -7.5 v -2.5 h 10 v 2.5 h 2.5 z m -5,-2.5 v -5 h -5 v 5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior';fill:#008000"
+         id="path858"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 361.18088,2198.9277 h -2.5 v 2.5 h -10 v -2.5 h -2.5 v -12.5 h 2.5 v -2.5 h 10 v 2.5 h 2.5 v 2.5 h -5 v -2.5 h -5 v 12.5 h 5 v -2.5 h 5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior';fill:#008000"
+         id="path860"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 381.1808,2201.4277 h -5 v -5 h -2.5 v -2.5 h -2.5 v 7.5 h -5 v -22.5 h 5 v 12.5 h 2.5 v -2.5 h 2.5 v -5 h 5 v 5 h -2.5 v 2.5 h -2.5 v 2.5 h 2.5 v 2.5 h 2.5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior';fill:#008000"
+         id="path862"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 401.18073,2193.9277 h -10 v 5 h 7.5 v 2.5 h -10 v -2.5 h -2.5 v -12.5 h 2.5 v -2.5 h 10 v 2.5 h 2.5 z m -5,-2.5 v -5 h -5 v 5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior';fill:#008000"
+         id="path864"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 421.18066,2188.9277 h -7.5 v 2.5 h -2.5 v 10 h -5 v -17.5 h 5 v 5 h 2.5 v -2.5 h 2.5 v -2.5 h 5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior';fill:#008000"
+         id="path866"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 441.18057,2198.9277 h -2.5 v 2.5 h -12.5 v -2.5 h 10 v -5 h -7.5 v -2.5 h -2.5 v -5 h 2.5 v -2.5 h 12.5 v 2.5 h -10 v 5 h 7.5 v 2.5 h 2.5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior';fill:#008000"
+         id="path868"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 461.18048,2198.9277 h -2.5 v 2.5 h -7.5 v 7.5 h -5 v -25 h 12.5 v 2.5 h 2.5 z m -5,0 v -12.5 h -5 v 12.5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior';fill:#008000"
+         id="path870"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 481.18042,2201.4277 h -12.5 v -2.5 h -2.5 v -5 h 2.5 v -2.5 h 7.5 v -5 h -7.5 v -2.5 h 10 v 2.5 h 2.5 z m -5,-2.5 v -5 h -5 v 5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior';fill:#008000"
+         id="path872"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 501.18036,2198.9277 h -2.5 v 2.5 h -10 v -2.5 h -2.5 v -12.5 h 2.5 v -2.5 h 10 v 2.5 h 2.5 v 2.5 h -5 v -2.5 h -5 v 12.5 h 5 v -2.5 h 5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior';fill:#008000"
+         id="path874"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 521.18027,2193.9277 h -10 v 5 h 7.5 v 2.5 h -10 v -2.5 h -2.5 v -12.5 h 2.5 v -2.5 h 10 v 2.5 h 2.5 z m -5,-2.5 v -5 h -5 v 5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior';fill:#008000"
+         id="path876"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 538.68018,2201.4277 h -7.5 v -5 h 7.5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior';fill:#008000"
+         id="path878"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 556.18011,2181.4277 h -5 v -5 h 5 z m 5,20 h -15 v -2.5 h 5 v -12.5 h -5 v -2.5 h 10 v 15 h 5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior';fill:#008000"
+         id="path880"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 581.18005,2198.9277 h -2.5 v 2.5 h -12.5 v -2.5 h 10 v -5 h -7.5 v -2.5 h -2.5 v -5 h 2.5 v -2.5 h 12.5 v 2.5 h -10 v 5 h 7.5 v 2.5 h 2.5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior';fill:#008000"
+         id="path882"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 601.17996,2201.4277 h -10 v -2.5 h -2.5 v -12.5 h -2.5 v -2.5 h 2.5 v -5 h 5 v 5 h 7.5 v 2.5 h -7.5 v 12.5 h 7.5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior';fill:#008000"
+         id="path884"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

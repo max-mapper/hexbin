@@ -1,0 +1,8 @@
+{
+  "name": "beeware-duvet",
+  "author": "Russell Keith-Magee",
+  "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License",
+  "raster": "http://hexb.in/hexagons/beeware-duvet.png",
+  "vector": "http://hexb.in/vector/beeware-duvet.svg",
+  "description": "A graphical coverage tool for Python",
+}

@@ -4,9 +4,9 @@
   "description": "hexagon directory",
   "main": "grid.js",
   "scripts": {
-    "build": "node build.js && browserify assets/grid.js -o assets/bundle.js",
-    "test": "standard",
-    "start": "wzrd assets/grid.js:assets/bundle.js"
+    "build": "node build.js && ./node_modules/.bin/browserify assets/grid.js -o assets/bundle.js",
+    "test": "./node_modules/.bin/standard",
+    "start": "./node_module/.bin/wzrd assets/grid.js:assets/bundle.js"
   },
   "author": "max ogden",
   "license": "BSD",

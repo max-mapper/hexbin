@@ -1,0 +1,8 @@
+{
+  "name": "rtrng",
+  "author": "mirai-solutions",
+  "license": "CC BY 4.0",
+  "raster": "http://hexb.in/hexagons/rtrng.png",
+  "vector": "http://hexb.in/vector/rtrng.svg",
+  "description": "Advanced and Parallel Random Number Generation in R via TRNG"
+}

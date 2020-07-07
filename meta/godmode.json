@@ -1,0 +1,8 @@
+{
+  "name": "godmode",
+  "author": "mirai-solutions",
+  "license": "CC BY 4.0",
+  "raster": "http://hexb.in/hexagons/godmode.png",
+  "vector": "http://hexb.in/vector/godmode.svg",
+  "description": "Godmode package for R"
+}

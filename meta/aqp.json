@@ -1,0 +1,8 @@
+{
+  "name": "aqp",
+  "author": "soil survey staff",
+  "license": "CC-BY-SA-4.0",
+  "raster": "http://hexb.in/hexagons/aqp.png",
+  "vector": "http://hexb.in/vector/aqp.svg",
+  "description": "aqp: a toolkit for soil scientists"
+}

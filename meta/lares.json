@@ -1,0 +1,9 @@
+{
+  "name": "lares",
+  "author": "Bernardo Lares",
+  "license": "CC0",
+  "vector": "http://hexb.in/vector/lares.svg",
+  "repository": "https://github.com/laresbernardo/lares",
+  "raster": "http://hexb.in/hexagons/lares.png",
+  "filename": "meta/lares.json"
+}

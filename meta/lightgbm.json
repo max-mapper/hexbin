@@ -1,0 +1,8 @@
+{
+  "name": "lightgbm",
+  "author": "Guolin Ke",
+  "license": "MIT",
+  "vector": "http://hexb.in/vector/lightgbm.svg",
+  "description": "LightGBM: a lightweight gradient boosting machine",
+  "raster": "http://hexb.in/hexagons/lightgbm.png"
+}

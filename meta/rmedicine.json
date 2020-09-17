@@ -1,0 +1,8 @@
+{
+  "name": "rmedicine",
+  "author": "Stephan Kadauke",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/rmedicine.png",
+  "vector": "http://hexb.in/vector/rmedicine.svg",
+  "description": "R/Medicine promotes statistical modeling and reproducible data processing in clinical practice by promoting the use of the R programming environment and ecosystem."
+}

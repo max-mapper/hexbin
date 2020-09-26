@@ -1,0 +1,9 @@
+{
+  "name": "matricks",
+  "author": "Krzysztof Joachimiak",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/matricks.png",
+  "vector": "http://hexb.in/vector/matricks.svg",
+  "description": "Useful tricks for matrix manipulation (R package)",
+  "order_online_url": "https://www.redbubble.com/i/sticker/matricks-R-package-hex-by-krzjoa/43111073.EJUG5?asc=u"
+} 

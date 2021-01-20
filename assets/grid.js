@@ -7,11 +7,11 @@ $.getJSON('assets/data.json', function (data) {
     var img = $('<img />', {
       'class': 'hex',
       'src': val.raster,
-      'alt': val.description,
+      'alt': val.description
     })
 
     $('<a />', {
-      'href': "http://hexb.in/" + val.filename,
+      'href': 'http://hexb.in/' + val.filename,
       'target': '_blank'
     }).append(img).appendTo('#grid')
   })

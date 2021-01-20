@@ -1,0 +1,8 @@
+{
+  "name": "vqtl2",
+  "author": "Robert W. Corty",
+  "license": "GPL3",
+  "raster": "http://hexb.in/hexagons/vqtl2.png",
+  "vector": "http://hexb.in/vector/vqtl2.svg",
+  "description": "R package for genetic mapping"
+}

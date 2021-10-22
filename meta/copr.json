@@ -1,0 +1,9 @@
+{
+  "name": "Copr",
+  "author": "Matej Habrnal",
+  "license": "GPLv2",
+  "vector": "http://hexb.in/vector/copr.svg",
+  "description": "Fedora Copr",
+  "raster": "http://hexb.in/hexagons/copr.png",
+  "filename": "meta/copr.json"
+}

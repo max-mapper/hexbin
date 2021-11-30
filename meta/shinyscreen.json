@@ -1,0 +1,10 @@
+{
+  "name": "shinyscreen",
+  "author": "Environmental Cheminformatics Group",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/shinyscreenlogo.png",
+  "vector": "http://hexb.in/vector/shinyscreenlogo.svg",
+  "description": "Shinyscreen R package is an application intended to give the user a
+  first look into raw mass-spectrometry data",
+  "order_online_url": "this is optional. should be a link to where people can buy the sticker online"
+}

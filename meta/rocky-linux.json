@@ -1,0 +1,9 @@
+{
+  "name": "rocky-linux",
+  "author": "williamjmorenor",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/rocky-linux.png",
+  "vector": "http://hexb.in/vector/rocky-linux.svg",
+  "description": "Enterprise Linux, the community way.",
+  "filename": "meta/covid19.json"
+}

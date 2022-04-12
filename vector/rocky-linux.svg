@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="193.06667"
+   height="222.93333"
+   id="svg3105"
+   version="1.1"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="rocky-linux.svg"
+   inkscape:export-filename="/home/wmoreno/Documentos/repositorios/hexbin/hexagons/rocky-linux.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   viewBox="0 0 181 209"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs3107">
+    <linearGradient
+       id="linearGradient4063">
+      <stop
+         id="stop4065"
+         offset="0"
+         style="stop-color:#b6e18f;stop-opacity:1;" />
+      <stop
+         id="stop4067"
+         offset="1"
+         style="stop-color:#b6e18f;stop-opacity:0;" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.75"
+     inkscape:cx="50.285714"
+     inkscape:cy="107.14286"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="740"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="1" />
+  <metadata
+     id="metadata3110">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-843.36215)">
+    <path
+       inkscape:connector-curvature="0"
+       d="M 90.5,1052.3622 0,1000.112 V 895.61216 L 90.5,843.3622 180.99999,895.61215 181,1000.112 Z"
+       id="path4662-3-7-5-5"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#ececec;fill-opacity:1;stroke:none"
+       id="path4183"
+       d="M 90.5,1039.4015 10.468309,993.83945 V 902.71563 L 90.5,857.15371 l 80.03163,45.56191 5e-5,91.12383 z"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3906"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(1.0288839,0,0,1.0402392,-6.2736635,-42.445118)"><flowRegion
+         id="flowRegion3908"
+         style="font-family:sans-serif"><rect
+           id="rect3910"
+           width="129"
+           height="117"
+           x="96"
+           y="151.36218" /></flowRegion><flowPara
+         id="flowPara3912"
+         style="font-size:40px;line-height:1.25;font-family:sans-serif"> </flowPara></flowRoot>
+    <g
+       transform="matrix(1.3298955,0,0,1.4650554,-42.307932,808.04559)"
+       style="font-style:normal;font-weight:bold;font-size:40px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Courier New Bold';letter-spacing:0px;word-spacing:0px;fill:#3e3221;fill-opacity:1;stroke:none"
+       id="flowRoot3914" />
+    <path
+       inkscape:connector-curvature="0"
+       id="rect4074"
+       d="m 65.269727,901.89788 c -3.28701,1.78518 -6.360339,3.90952 -9.174642,6.32668 v 1.82537 h 9.174642 z"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.152911" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.152911"
+       id="rect3015"
+       width="123.85767"
+       height="123.85767"
+       x="28.571157"
+       y="886.34875"
+       ry="61.928837"
+       inkscape:export-xdpi="19.525423"
+       inkscape:export-ydpi="19.525423" />
+    <g
+       style="fill:none"
+       id="g438"
+       transform="matrix(0.41412285,0,0,0.41412285,37.492269,895.26987)">
+      <g
+         id="g50">
+        <path
+           d="M 248.877,170.21 C 253.492,156.994 256,142.79 256,128 256,57.3076 198.692,0 128,0 57.3076,0 0,57.3076 0,128 c 0,34.979 14.0307,66.681 36.771,89.785 L 166.611,87.9445 Z"
+           fill="#10b981"
+           id="path2" />
+        <path
+           d="M 225.496,210.941 166.611,152.056 74.3971,244.27 C 90.7025,251.799 108.861,256 128,256 c 39.051,0 74.018,-17.488 97.496,-45.059 z"
+           fill="#10b981"
+           id="path4" />
+      </g>
+    </g>
+  </g>
+</svg>

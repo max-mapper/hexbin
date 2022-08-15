@@ -1,0 +1,9 @@
+{
+  "name": "nimma-codes",
+  "author": "bram huinink",
+  "license": "CC0",
+  "raster": "http://hexb.in/hexagons/nimma-codes.png",
+  "vector": "http://hexb.in/vector/nimma-codes.svg",
+  "description": "Nimma.codes - A cross-language user group for software developers around Nijmegen",
+  "order_online_url": ""
+}

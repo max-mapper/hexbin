@@ -1,0 +1,8 @@
+{
+  "name": "geopressurer",
+  "author": "Raphaël Nussbaumer",
+  "license": "MIT",
+  "raster": "http://hexb.in/hexagons/geopressurer.png",
+  "vector": "http://hexb.in/vector/geopressurer.svg",
+  "description": "https://github.com/Rafnuss/GeoPressureR"
+}
